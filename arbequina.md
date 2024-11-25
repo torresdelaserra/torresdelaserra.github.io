@@ -4,7 +4,7 @@ title: Arbequina
 description: Oli d'oliva verge extra
 ---
 
-### Arbequina del raig
+### Oli d'oliva verge extra
 
 Oli d'oliva de categoria superior obtingut directament d'olives i solament mitjançant procediments mecànics.
 
