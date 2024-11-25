@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://torresdelaserra.github.io"
+url: "http://physta.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -14,27 +14,32 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Torres de la Serra
+title: KINETIC COLLECTIVE MODEL
 
 # Short description of your site
-AgriCULTURA - Els Hostalets de Pierolaa
+description: BTE-based hydrodyanmic model for thermal transport
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  Vins: 
-    - Vi-RAS: "vi_ras"
-    - EspaVIla: "espavila"
-  Oli: 
-    - Arbequina: "arbequina"
-  Informacio Nutricional:
-    - Vi Ras: "info_espavila_2024" 
-  Sobre nosaltres: "sobre_nosaltres"
+  About KCM: 
+    - Theory: "kcm"
+    - Finite elements: "finite_elements"
+    - References: "articles"
+  User Guide: 
+    - General: "user_guide" 
+    - INPUT file: "input_file"  
+    - Tips: "tips"
+  Resources:
+    - Phono3py: 'https://atztogo.github.io/phono3py/index.html" target="_blank"'
+    - VASP: 'https://www.vasp.at/" target="_blank"'
+    - Quantum Espresso: 'http://www.quantum-espresso.org/" target="_blank"'
+  NanoTransport GROUP: 'http://grupsderecerca.uab.cat/nanotransport/en" target="_blank"'
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/torresdelaserra_logo.png"
+avatar: "/img/logo.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -45,10 +50,10 @@ avatar: "/img/torresdelaserra_logo.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Torres de la Serra
-  email: "torresdelaserra@gmail.com"
+  name: Statistical Physics UAB
+  email: "pol.torres@uab.cat"
   facebook: yourname  # eg. daattali
-  github: torresdelaserra    # eg. daattali
+  github: physta    # eg. daattali
   twitter: yourname   # eg. daattali
   reddit: yourname    # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
