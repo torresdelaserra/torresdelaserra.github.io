@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: KINETIC COLLECTIVE MODEL
+title: Torres de la Serra
 
 # Short description of your site
 description: BTE-based hydrodyanmic model for thermal transport
@@ -24,8 +24,8 @@ description: BTE-based hydrodyanmic model for thermal transport
 # List of links in the navigation bar
 navbar-links:
   Vi: 
-    - Vi RAS: "kcm"
-    - Espavilaaa: "finite_elements"
+    - Vi RAS: "vi_ras"
+    - Espavila: "espavila"
   Oli: 
     - Arbequina: "user_guide" 
   Informació Nutricional:
