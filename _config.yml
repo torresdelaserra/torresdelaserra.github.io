@@ -28,8 +28,6 @@ navbar-links:
     - EspaVIla: "espavila"
   Oli: 
     - Arbequina: "arbequina"
-  Informacio Nutricional:
-    - Vi Ras: "info_espavila_2024" 
   Sobre nosaltres: "sobre_nosaltres"
 
 # Image to show in the navigation bar - image must be a square (width = height)
