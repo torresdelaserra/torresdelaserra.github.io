@@ -30,7 +30,7 @@ navbar-links:
     - Arbequina: "user_guide" 
   Informació Nutricional:
     - Vi RAS 2024: 'https://atztogo.github.io/phono3py/index.html" target="_blank"'
-    - EspaVIla 2024: 'http://www.quantum-espresso.org/" target="_blank"'
+    - EspaVIla 2024: 'info_espavila_2024'
   Sobre nosaltres: 'http://grupsderecerca.uab.cat/nanotransport/en" target="_blank"'
 
 # Image to show in the navigation bar - image must be a square (width = height)
