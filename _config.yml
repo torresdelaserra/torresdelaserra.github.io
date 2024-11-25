@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Torres de la Serra
+title: KINETIC COLLECTIVE MODEL
 
 # Short description of your site
-description: AgriCULTURA - Els Hostalets de Pierola
+description: BTE-based hydrodyanmic model for thermal transport
 
 # --- Navigation bar options --- #
 
@@ -25,7 +25,7 @@ description: AgriCULTURA - Els Hostalets de Pierola
 navbar-links:
   Vi: 
     - Vi RAS: "kcm"
-    - Espavila: "finite_elements"
+    - Espavilaaa: "finite_elements"
   Oli: 
     - Arbequina: "user_guide" 
   Informació Nutricional:
