@@ -14,32 +14,25 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: KINETIC COLLECTIVE MODEL
+title: Torres de la Serra
 
 # Short description of your site
-description: BTE-based hydrodyanmic model for thermal transport
+AgriCULTURA - Els Hostalets de Pierolaa
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  Vi: 
-    - Vi RAS: "kcm"
-    - Finite elements: "finite_elements"
-    - References: "articles"
-  User Guide: 
-    - General: "user_guide" 
-    - INPUT file: "input_file"  
-    - Tips: "tips"
-  Resources:
-    - Phono3py: 'https://atztogo.github.io/phono3py/index.html" target="_blank"'
-    - VASP: 'https://www.vasp.at/" target="_blank"'
-    - Quantum Espresso: 'http://www.quantum-espresso.org/" target="_blank"'
-  NanoTransport GROUP: 'http://grupsderecerca.uab.cat/nanotransport/en" target="_blank"'
+  Vins: 
+    - Vi-RAS: "vi_ras"
+    - EspaVIla: "espavila"
+  Oli: 
+    - Arbequina: "arbequina"
+  Sobre nosaltres: "sobre_nosaltres"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/logo.png"
+avatar: "/img/torresdelaserra_logo.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -50,10 +43,10 @@ avatar: "/img/logo.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Statistical Physics UAB
-  email: "pol.torres@uab.cat"
+  name: Torres de la Serra
+  email: "torresdelaserra@gmail.com"
   facebook: yourname  # eg. daattali
-  github: physta    # eg. daattali
+  github: torresdelaserra    # eg. daattali
   twitter: yourname   # eg. daattali
   reddit: yourname    # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
