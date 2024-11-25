@@ -27,11 +27,11 @@ navbar-links:
     - Vi RAS: "vi_ras"
     - Espavila: "espavila"
   Oli: 
-    - Arbequina: "user_guide" 
+    - Arbequina: "arbequina" 
   Informació Nutricional:
-    - Vi RAS 2024: 'https://atztogo.github.io/phono3py/index.html" target="_blank"'
+    - Vi RAS 2024: 'info_espavila_2024'
     - EspaVIla 2024: 'info_espavila_2024'
-  Sobre nosaltres: 'http://grupsderecerca.uab.cat/nanotransport/en" target="_blank"'
+  Sobre nosaltres: 'http://instagram.com/torresdelaserra'
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
