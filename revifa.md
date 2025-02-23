@@ -4,7 +4,7 @@ title: reVIfa
 description: Vi ancestral natural 
 ---
 
-### reVIfa <i>ROSÉ</i> 2024
+### reVIfa 2024
 
 Vi jove escumós elaborat mitjançant el mètode ancestral sense filtrar. Vinyes sobre sòl argilós a l'ombra de la muntanya de Montserrat.
 Primera fermentació amb les seves pells per transferir aquest color característic, textura i matisos.
