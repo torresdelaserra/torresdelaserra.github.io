@@ -10,6 +10,6 @@ Vi jove elaborat mitjançant el mètode tradicional sense filtrar. Vinyes sobre 
 
 Varietats: 100% Chardonnay
 
-<center><img class="ipsImage" src="https://torresdelaserra.github.io/img/espavila_ampolla.kpeg" alt="img/espavila_ampolla.jpeg"></center>
+<center><img class="ipsImage" src="https://torresdelaserra.github.io/img/espavila_ampolla.png" alt="img/espavila_ampolla.png"></center>
 
 <center><img class="ipsImage" src="https://torresdelaserra.github.io/img/chardonnay_2024.png" alt="img/chardonnay_2024.png"></center>
