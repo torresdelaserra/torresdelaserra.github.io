@@ -8,4 +8,4 @@ description: Oli d'oliva verge extra
 
 Oli d'oliva de categoria superior obtingut directament d'olives i solament mitjançant procediments mecànics.
 
-<center><img class="ipsImage" src="https://torresdelaserra.github.io/img/arbequina.png" alt="img/arbequina.jpg"></center>
+<center><img class="ipsImage" src="https://torresdelaserra.github.io/img/arbequina.png" alt="img/arbequina.png"></center>
