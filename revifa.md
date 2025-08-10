@@ -11,7 +11,7 @@ Primera fermentació amb les seves pells per transferir aquest color caracterís
 
 Varietats: 60% Parellada - 40% Sumoll negre
 
-<center><img class="ipsImage" src="https://torresdelaserra.github.io/img/Revifa.png" alt="img/Revifa.png"></center>
+<center><img class="ipsImage" src="https://torresdelaserra.github.io/img/Revifa_2024.png" alt="img/Revifa_2024.png"></center>
 
 
 
