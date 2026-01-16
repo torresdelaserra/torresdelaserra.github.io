@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Informació nutricional - ESPA<i>vi</i>LA
+title: Informació nutricional - AtreVIt
 description: Informació nutricional.
 ---
 
