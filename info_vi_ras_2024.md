@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Informació nutricional - reVIfa
+title: Informació nutricional - Vi-RAS
 description: Informació nutricional.
 ---
 
