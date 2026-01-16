@@ -31,9 +31,9 @@ navbar-links:
   Oli: 
     - Arbequina: "arbequina" 
   Informació Nutricional:
-    - reVIfa: 'info_revifa_2024'
-    - EspaVIla: 'info_espavila_2024'
-    - Vi-RAS: 'info_vi_ras_2024'
+    - reVIfa: 'info_revifa'
+    - EspaVIla: 'info_espavila'
+    - Vi-RAS: 'info_vi_ras'
   Sobre nosaltres: 'http://instagram.com/torresdelaserra'
 
 # Image to show in the navigation bar - image must be a square (width = height)
