@@ -3,13 +3,82 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>{% if page.use-site-title %}{{ site.title }} {{ site.title-separator }} {{ site.description }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <title>{% if page.use-site-title %}{{ site.title }} {{ site.title-separator }} {{ site.description }}{% elsif page.title %}{{ page.title }} {{ site.title-separator }} {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
 
   <meta name="author" content="{{ site.author.name }}" />
 
   {% if page.subtitle %}
   <meta name="description" content="{{ page.subtitle }}">
+  {% elsif page.description %}
+  <meta name="description" content="{{ page.description }}">
+  {% else %}
+  <meta name="description" content="{{ site.description }}">
   {% endif %}
+
+  <meta name="keywords" content="vins naturals, vi natural, oli d'oliva verge extra, cava ancestral, Els Hostalets de Pierola, Catalunya, Torres de la Serra, Parellada, Sumoll, Chardonnay, Arbequina, agrícultura ecològica, mètode ancestral" />
+  <meta name="robots" content="index, follow" />
+  <meta name="geo.region" content="ES-CT" />
+  <meta name="geo.placename" content="Els Hostalets de Pierola, Anoia, Catalunya" />
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Torres de la Serra",
+    "description": "Petits productors de vins naturals i oli d'oliva verge extra a Els Hostalets de Pierola, Catalunya",
+    "url": "https://torresdelaserra.github.io",
+    "email": "torresdelaserra@gmail.com",
+    "image": "https://torresdelaserra.github.io/img/torresdelaserra_logo.png",
+    "sameAs": [
+      "https://www.instagram.com/torresdelaserra",
+      "https://torresdelaserra.sumupstore.com/"
+    ],
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Els Hostalets de Pierola",
+      "addressRegion": "Anoia, Catalunya",
+      "addressCountry": "ES"
+    },
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "Productes Torres de la Serra",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Product",
+            "name": "reVIfa - Vi ancestral natural",
+            "description": "Vi jove escumós elaborat mitjançant el mètode ancestral sense filtrar. Varietats: Parellada i Sumoll negre."
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Product",
+            "name": "ESPAviLA - Vi blanc natural",
+            "description": "Vi jove elaborat mitjançant el mètode tradicional sense filtrar. 100% Chardonnay."
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Product",
+            "name": "Vi RAS Orange - Vi ancestral natural",
+            "description": "Vi jove escumós elaborat mitjançant el mètode ancestral sense filtrar. Varietats: Parellada i Chardonnay."
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Product",
+            "name": "Oli d'Oliva Verge Extra Arbequina",
+            "description": "Oli d'oliva de categoria superior obtingut directament d'olives i solament mitjançant procediments mecànics."
+          }
+        }
+      ]
+    }
+  }
+  </script>
 
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }} {{ site.title-separator }} {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
@@ -29,7 +98,7 @@
 
   {% if layout.common-googlefonts %}
     {% for font in layout.common-googlefonts %}
-      <link rel="stylesheet" href="//fonts.googleapis.com/css?family={{ font }}" />
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family={{ font }}&display=swap" />
     {% endfor %}
   {% endif %}
 
@@ -47,7 +116,7 @@
 
   {% if page.googlefonts %}
     {% for font in page.googlefonts %}
-      <link rel="stylesheet" href="//fonts.googleapis.com/css?family={{ font }}" />
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family={{ font }}&display=swap" />
     {% endfor %}
   {% endif %}
 
