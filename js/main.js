@@ -1,138 +1,153 @@
-// Dean Attali / Beautiful Jekyll 2016
+/* Torres de la Serra — main.js
+   Sticky header, scroll reveal, mobile menu, form handling.
+*/
+(function () {
+  'use strict';
 
-var main = {
-
-  bigImgEl : null,
-  numImgs : null,
-
-  init : function() {
-    // Shorten the navbar after scrolling a little bit down
-    $(window).scroll(function() {
-        if ($(".navbar").offset().top > 50) {
-            $(".navbar").addClass("top-nav-short");
-        } else {
-            $(".navbar").removeClass("top-nav-short");
-        }
-    });
-    
-    // On mobile, hide the avatar when expanding the navbar menu
-    $('#main-navbar').on('show.bs.collapse', function () {
-      $(".navbar").addClass("top-nav-expanded");
-    });
-    $('#main-navbar').on('hidden.bs.collapse', function () {
-      $(".navbar").removeClass("top-nav-expanded");
-    });
-	
-    // On mobile, when clicking on a multi-level navbar menu, show the child links
-    $('#main-navbar').on("click", ".navlinks-parent", function(e) {
-      var target = e.target;
-      $.each($(".navlinks-parent"), function(key, value) {
-        if (value == target) {
-          $(value).parent().toggleClass("show-children");
-        } else {
-          $(value).parent().removeClass("show-children");
-        }
-      });
-    });
-    
-    // Ensure nested navbar menus are not longer than the menu header
-    var menus = $(".navlinks-container");
-    if (menus.length > 0) {
-      var navbar = $("#main-navbar ul");
-      var fakeMenuHtml = "<li class='fake-menu' style='display:none;'><a></a></li>";
-      navbar.append(fakeMenuHtml);
-      var fakeMenu = $(".fake-menu");
-
-      $.each(menus, function(i) {
-        var parent = $(menus[i]).find(".navlinks-parent");
-        var children = $(menus[i]).find(".navlinks-children a");
-        var words = [];
-        $.each(children, function(idx, el) { words = words.concat($(el).text().trim().split(/\s+/)); });
-        var maxwidth = 0;
-        $.each(words, function(id, word) {
-          fakeMenu.html("<a>" + word + "</a>");
-          var width =  fakeMenu.width();
-          if (width > maxwidth) {
-            maxwidth = width;
-          }
-        });
-        $(menus[i]).css('min-width', maxwidth + 'px')
-      });
-
-      fakeMenu.remove();
-    }        
-    
-    // show the big header image	
-    main.initImgs();
-  },
-  
-  initImgs : function() {
-    // If the page was large images to randomly select from, choose an image
-    if ($("#header-big-imgs").length > 0) {
-      main.bigImgEl = $("#header-big-imgs");
-      main.numImgs = main.bigImgEl.attr("data-num-img");
-
-          // 2fc73a3a967e97599c9763d05e564189
-	  // set an initial image
-	  var imgInfo = main.getImgInfo();
-	  var src = imgInfo.src;
-	  var desc = imgInfo.desc;
-  	  main.setImg(src, desc);
-  	
-	  // For better UX, prefetch the next image so that it will already be loaded when we want to show it
-  	  var getNextImg = function() {
-	    var imgInfo = main.getImgInfo();
-	    var src = imgInfo.src;
-	    var desc = imgInfo.desc;		  
-	    
-		var prefetchImg = new Image();
-  		prefetchImg.src = src;
-		// if I want to do something once the image is ready: `prefetchImg.onload = function(){}`
-		
-  		setTimeout(function(){
-                  var img = $("<div></div>").addClass("big-img-transition").css("background-image", 'url(' + src + ')');
-  		  $(".intro-header.big-img").prepend(img);
-  		  setTimeout(function(){ img.css("opacity", "1"); }, 50);
-		  
-		  // after the animation of fading in the new image is done, prefetch the next one
-  		  //img.one("transitioned webkitTransitionEnd oTransitionEnd MSTransitionEnd", function(){
-		  setTimeout(function() {
-		    main.setImg(src, desc);
-			img.remove();
-  			getNextImg();
-		  }, 1000); 
-  		  //});		
-  		}, 6000);
-  	  };
-	  
-	  // If there are multiple images, cycle through them
-	  if (main.numImgs > 1) {
-  	    getNextImg();
-	  }
+  /* ----- Sticky header on scroll ----- */
+  const header = document.querySelector('.site-header');
+  if (header) {
+    let ticking = false;
+    function updateHeader() {
+      if (window.scrollY > 60) header.classList.add('is-scrolled');
+      else header.classList.remove('is-scrolled');
+      ticking = false;
     }
-  },
-  
-  getImgInfo : function() {
-  	var randNum = Math.floor((Math.random() * main.numImgs) + 1);
-    var src = main.bigImgEl.attr("data-img-src-" + randNum);
-	var desc = main.bigImgEl.attr("data-img-desc-" + randNum);
-	
-	return {
-	  src : src,
-	  desc : desc
-	}
-  },
-  
-  setImg : function(src, desc) {
-	$(".intro-header.big-img").css("background-image", 'url(' + src + ')');
-	if (typeof desc !== typeof undefined && desc !== false) {
-	  $(".img-desc").text(desc).show();
-	} else {
-	  $(".img-desc").hide();  
-	}
+    window.addEventListener('scroll', () => {
+      if (!ticking) {
+        window.requestAnimationFrame(updateHeader);
+        ticking = true;
+      }
+    }, { passive: true });
+    updateHeader();
   }
-};
 
-// 2fc73a3a967e97599c9763d05e564189
+  /* ----- Scroll reveal ----- */
+  const reduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  const reveals = document.querySelectorAll('.reveal');
+  if (reveals.length && 'IntersectionObserver' in window && !reduced) {
+    const io = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('is-visible');
+          io.unobserve(entry.target);
+        }
+      });
+    }, { threshold: 0.12, rootMargin: '0px 0px -40px 0px' });
+    reveals.forEach(el => io.observe(el));
+  } else {
+    reveals.forEach(el => el.classList.add('is-visible'));
+  }
 
-document.addEventListener('DOMContentLoaded', main.init);
+  /* ----- Mobile menu ----- */
+  const toggle = document.querySelector('.menu-toggle');
+  const mobileMenu = document.querySelector('.mobile-menu');
+  const backdrop = document.querySelector('.menu-backdrop');
+
+  function closeMenu() {
+    if (!mobileMenu) return;
+    toggle?.classList.remove('is-open');
+    mobileMenu.classList.remove('is-open');
+    backdrop?.classList.remove('is-open');
+    toggle?.setAttribute('aria-expanded', 'false');
+    document.body.style.overflow = '';
+  }
+  function openMenu() {
+    toggle?.classList.add('is-open');
+    mobileMenu?.classList.add('is-open');
+    backdrop?.classList.add('is-open');
+    toggle?.setAttribute('aria-expanded', 'true');
+    document.body.style.overflow = 'hidden';
+  }
+  if (toggle) {
+    toggle.addEventListener('click', () => {
+      if (mobileMenu?.classList.contains('is-open')) closeMenu();
+      else openMenu();
+    });
+  }
+  backdrop?.addEventListener('click', closeMenu);
+  mobileMenu?.addEventListener('click', (e) => {
+    if (e.target.closest('a')) closeMenu();
+  });
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') closeMenu();
+  });
+
+  /* ----- Contact form (Formspree) ----- */
+  const form = document.querySelector('form[data-contact-form]');
+  if (form) {
+    const status = form.querySelector('.form-status');
+    const requiredFields = form.querySelectorAll('[required]');
+
+    requiredFields.forEach(field => {
+      field.addEventListener('invalid', () => {
+        const msg = field.getAttribute('data-msg-required') || 'Please complete this field.';
+        field.setCustomValidity(msg);
+      });
+      field.addEventListener('input', () => field.setCustomValidity(''));
+    });
+
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      if (!form.checkValidity()) { form.reportValidity(); return; }
+      const endpoint = form.getAttribute('action');
+      if (!endpoint || endpoint.includes('YOUR_FORM_ID')) {
+        if (status) {
+          status.textContent = form.getAttribute('data-msg-config') || 'Form not configured yet.';
+          status.className = 'form-status error';
+        }
+        return;
+      }
+      const btn = form.querySelector('button[type="submit"]');
+      btn.disabled = true;
+      try {
+        const data = new FormData(form);
+        const res = await fetch(endpoint, { method: 'POST', body: data, headers: { 'Accept': 'application/json' } });
+        if (res.ok) {
+          form.reset();
+          if (status) {
+            status.textContent = form.getAttribute('data-msg-success') || 'Thank you.';
+            status.className = 'form-status success';
+          }
+        } else {
+          throw new Error('server error');
+        }
+      } catch (err) {
+        if (status) {
+          status.textContent = form.getAttribute('data-msg-error') || 'Something went wrong. Please try again.';
+          status.className = 'form-status error';
+        }
+      } finally {
+        btn.disabled = false;
+      }
+    });
+  }
+
+  /* ----- Copy-link share buttons ----- */
+  document.querySelectorAll('[data-copy-link]').forEach(btn => {
+    btn.addEventListener('click', async () => {
+      try {
+        await navigator.clipboard.writeText(window.location.href);
+        const original = btn.textContent;
+        btn.textContent = btn.getAttribute('data-copied') || '✓';
+        setTimeout(() => { btn.textContent = original; }, 2000);
+      } catch (e) {}
+    });
+  });
+
+  /* ----- Preserve ?lang on internal links ----- */
+  document.addEventListener('i18n:loaded', () => {
+    const lang = window.TDS_i18n?.current;
+    if (!lang) return;
+    document.querySelectorAll('a[href]').forEach(a => {
+      const href = a.getAttribute('href');
+      if (!href || href.startsWith('http') || href.startsWith('mailto:') || href.startsWith('#') || href.startsWith('tel:')) return;
+      const u = new URL(href, window.location.href);
+      if (u.origin !== window.location.origin) return;
+      if (lang === 'ca') u.searchParams.delete('lang');
+      else u.searchParams.set('lang', lang);
+      a.setAttribute('href', u.pathname + u.search + u.hash);
+    });
+  });
+
+})();
