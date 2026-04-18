@@ -9,7 +9,7 @@
     "historia_title": "La nostra història — Torres de la Serra",
     "historia_desc": "Projecte familiar iniciat el 2015 a Els Hostalets de Pierola. Viticultura i olivicultura respectuoses amb la terra i el temps.",
     "journal_title": "Journal — Apunts sobre vi, oli i terra | Torres de la Serra",
-    "journal_desc": "Assajos i notes sobre vi natural, terroir, oli d'oliva i agricultura de petita escala a l'Anoia.",
+    "journal_desc": "Assajos i notes sobre vi natural, territori, oli d'oliva i agricultura de petita escala a l'Anoia.",
     "contacte_title": "Contacte — Torres de la Serra",
     "contacte_desc": "Escriu-nos per concertar visites a la finca, fer comandes o col·laboracions. Els Hostalets de Pierola, Catalunya."
   },
@@ -66,7 +66,7 @@
   },
   "wines": {
     "page_eyebrow": "Els nostres vins",
-    "page_title": "Quatre expressions del nostre terroir",
+    "page_title": "Quatre expressions del nostre territori",
     "page_intro": "Treballem cinc varietats sobre sòl argilós a Els Hostalets de Pierola: Parellada, Chardonnay, Xarel·lo, Cabernet Sauvignon i Garnatxa Negra. D'aquestes vinyes n'obtenim quatre vins molt diferents entre si, tots elaborats pel mètode ancestral, sense sulfits afegits i sense filtrar.",
     "viras": {
       "name": "Vi RAS",
@@ -169,7 +169,7 @@
     "art_1_excerpt": "Un terme que s'utilitza molt i es defineix poc. Intentem explicar-lo de manera rigorosa però accessible.",
     "art_2_cat": "Terroir",
     "art_2_date": "Febrer 2025",
-    "art_2_title": "El terroir a l'ombra de Montserrat",
+    "art_2_title": "El territori a l'ombra de Montserrat",
     "art_2_excerpt": "Què aporta la muntanya al nostre vi? Sòls, altitud, microclima i una presència que no es pot imitar.",
     "art_3_cat": "Enologia",
     "art_3_date": "Gener 2025",
@@ -238,7 +238,7 @@
       "p8": "Si és el primer vi natural que obriu, un consell: agiteu l'ampolla suaument abans de servir si hi veieu un sediment al fons, serviu-lo un punt més fred del que serviríeu un vi convencional de la mateixa tipologia, i doneu-li uns minuts a la copa abans de jutjar-lo. Els vins naturals necessiten una mica d'aire per expressar-se."
     },
     "terroir": {
-      "title": "El terroir a l'ombra de Montserrat",
+      "title": "El terroitori a l'ombra de Montserrat",
       "cat": "Terroir",
       "date": "Febrer 2025",
       "hero_alt": "Vista de Montserrat des de la finca",
