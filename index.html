@@ -1,18 +1,311 @@
----
-layout: page
-title: Torres de la Serra
-subtitle: AgriCULTURA - Els Hostalets de Pierola
-use-site-title: true
----
+<!doctype html>
+<html lang="ca" data-i18n-title="meta.home_title" data-i18n-desc="meta.home_desc">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Torres de la Serra — Vins naturals i oli verge extra · Montserrat</title>
+  <meta name="description" content="Petits productors de vins naturals i oli d'oliva verge extra a Els Hostalets de Pierola, a l'ombra de Montserrat. Mètode ancestral, sense sulfits afegits.">
+  <meta name="theme-color" content="#F5F1EA">
 
-<div class="home-intro">
-  <p><em>Petits productors de vins naturals i oli d'oliva verge extra</em></p>
-  <p>Elaborem els nostres vins i oli amb mètodes artesanals a l'ombra de la muntanya de Montserrat.</p>
-  <a href="https://torresdelaserra.sumupstore.com/" target="_blank" rel="noopener noreferrer" class="cta-botiga">Visita la Botiga Online</a>
-</div>
+  <link rel="canonical" href="https://www.torresdelaserra.com/">
+  <link rel="alternate" hreflang="ca" href="https://www.torresdelaserra.com/">
+  <link rel="alternate" hreflang="es" href="https://www.torresdelaserra.com/?lang=es">
+  <link rel="alternate" hreflang="en" href="https://www.torresdelaserra.com/?lang=en">
+  <link rel="alternate" hreflang="x-default" href="https://www.torresdelaserra.com/">
 
-<div class="product-img-wrap">
-  <img src="https://torresdelaserra.github.io/img/portada.png"
-       alt="Torres de la Serra — Vins naturals i oli d'oliva verge extra, Els Hostalets de Pierola, Catalunya"
-       class="home-portada img-responsive" />
-</div>
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Torres de la Serra">
+  <meta property="og:title" content="Torres de la Serra — Vins naturals i oli verge extra">
+  <meta property="og:description" content="Petits productors a Els Hostalets de Pierola, a l'ombra de Montserrat.">
+  <meta property="og:image" content="https://www.torresdelaserra.com/img/portada.png">
+  <meta property="og:url" content="https://www.torresdelaserra.com/">
+  <meta property="og:locale" content="ca_ES">
+  <meta property="og:locale:alternate" content="es_ES">
+  <meta property="og:locale:alternate" content="en_US">
+  <meta name="twitter:card" content="summary_large_image">
+
+  <link rel="icon" href="img/torresdelaserra_logo.png" type="image/png">
+  <link rel="manifest" href="site.webmanifest">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500&family=Inter:wght@300;400;500&display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500&family=Inter:wght@300;400;500&display=swap">
+  <link rel="preload" as="image" href="img/portada.png">
+  <link rel="stylesheet" href="css/styles.css">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Winery",
+    "name": "Torres de la Serra",
+    "description": "Petits productors de vins naturals i oli d'oliva verge extra.",
+    "url": "https://www.torresdelaserra.com/",
+    "logo": "https://www.torresdelaserra.com/img/torresdelaserra_logo.png",
+    "image": "https://www.torresdelaserra.com/img/portada.png",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Els Hostalets de Pierola",
+      "addressRegion": "Catalunya",
+      "addressCountry": "ES"
+    },
+    "email": "torresdelaserra@gmail.com",
+    "sameAs": ["https://www.instagram.com/torresdelaserra"]
+  }
+  </script>
+</head>
+<body>
+
+<header class="site-header hero-transparent">
+  <div class="header-inner">
+    <a href="index.html" class="site-logo" aria-label="Torres de la Serra">
+      <img src="img/torresdelaserra_logo.png" alt="Torres de la Serra">
+    </a>
+    <nav class="site-nav" aria-label="Primary">
+      <a href="vins.html" data-i18n="nav.vins">Vins</a>
+      <a href="oli.html" data-i18n="nav.oli">Oli</a>
+      <a href="historia.html" data-i18n="nav.historia">La nostra història</a>
+      <a href="journal.html" data-i18n="nav.journal">Journal</a>
+      <a href="contacte.html" data-i18n="nav.contacte">Contacte</a>
+    </nav>
+    <div class="lang-switch desktop-only" role="group" aria-label="Language">
+      <button type="button" data-lang="ca">CA</button>
+      <span class="sep">·</span>
+      <button type="button" data-lang="es">ES</button>
+      <span class="sep">·</span>
+      <button type="button" data-lang="en">EN</button>
+    </div>
+    <button class="menu-toggle" type="button" aria-expanded="false" data-i18n-attr="aria-label:nav.menu_open"><span></span></button>
+  </div>
+</header>
+
+<div class="menu-backdrop"></div>
+<aside class="mobile-menu" aria-label="Mobile menu">
+  <nav>
+    <a href="vins.html" data-i18n="nav.vins">Vins</a>
+    <a href="oli.html" data-i18n="nav.oli">Oli</a>
+    <a href="historia.html" data-i18n="nav.historia">La nostra història</a>
+    <a href="journal.html" data-i18n="nav.journal">Journal</a>
+    <a href="contacte.html" data-i18n="nav.contacte">Contacte</a>
+  </nav>
+  <div class="lang-switch">
+    <button type="button" data-lang="ca">CA</button>
+    <span class="sep">·</span>
+    <button type="button" data-lang="es">ES</button>
+    <span class="sep">·</span>
+    <button type="button" data-lang="en">EN</button>
+  </div>
+</aside>
+
+<main id="main">
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="hero-bg"><img src="img/portada.png" alt="" fetchpriority="high"></div>
+    <div class="hero-overlay"></div>
+    <div class="hero-content">
+      <span class="eyebrow" data-i18n="home.hero.eyebrow">Petits productors · Els Hostalets de Pierola</span>
+      <h1 data-i18n="home.hero.title">Vins naturals i oli verge extra elaborats a l'ombra de Montserrat</h1>
+      <p class="lead" data-i18n="home.hero.subtitle">Un projecte familiar que honora la terra, el temps i el mètode artesanal.</p>
+      <a href="vins.html" class="btn btn-ghost-light" data-i18n="home.hero.cta">Descobreix els nostres vins</a>
+    </div>
+    <div class="scroll-indicator" aria-hidden="true"></div>
+  </section>
+
+  <!-- FILOSOFIA -->
+  <section>
+    <div class="container">
+      <div class="two-col">
+        <div class="reveal">
+          <span class="eyebrow" data-i18n="home.intro.eyebrow">Filosofia</span>
+          <h2 data-i18n="home.intro.title">AgriCULTURA</h2>
+          <hr class="hairline mt-md">
+        </div>
+        <div class="reveal" data-delay="1">
+          <p class="lead" data-i18n="home.intro.body">Treballem petites parcel·les amb respecte absolut pel cicle de la vinya i l'olivera. Sense pressa, sense dreceres. Cada ampolla és el resultat d'un any de feina a camp i la paciència d'esperar que el vi i l'oli s'expressin tal com són.</p>
+        </div>
+      </div>
+
+      <div class="pillars">
+        <div class="pillar reveal" data-delay="1">
+          <div class="pillar-icon">
+            <svg viewBox="0 0 40 40" aria-hidden="true"><path d="M20 4v32M12 10l8 8 8-8M8 20l12 12 12-12" /></svg>
+          </div>
+          <h3 data-i18n="home.pillars.p1_title">Respecte pel cicle</h3>
+          <p data-i18n="home.pillars.p1_body">Sense herbicides, sense pesticides sistèmics, llaurat mínim.</p>
+        </div>
+        <div class="pillar reveal" data-delay="2">
+          <div class="pillar-icon">
+            <svg viewBox="0 0 40 40" aria-hidden="true"><circle cx="20" cy="20" r="14"/><path d="M20 6v28M6 20h28"/></svg>
+          </div>
+          <h3 data-i18n="home.pillars.p2_title">Mètode ancestral</h3>
+          <p data-i18n="home.pillars.p2_body">Fermentació espontània amb llevats indígenes. Sense sulfits afegits.</p>
+        </div>
+        <div class="pillar reveal" data-delay="3">
+          <div class="pillar-icon">
+            <svg viewBox="0 0 40 40" aria-hidden="true"><path d="M20 4c-6 6-6 14 0 22 6-8 6-16 0-22zM8 28c4 0 8 2 12 6 4-4 8-6 12-6"/></svg>
+          </div>
+          <h3 data-i18n="home.pillars.p3_title">Petita escala</h3>
+          <p data-i18n="home.pillars.p3_body">Cada ampolla passa per les nostres mans.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- VINS -->
+  <section class="section-alt">
+    <div class="container">
+      <div class="text-center reveal">
+        <span class="eyebrow" data-i18n="home.wines.eyebrow">Els nostres vins</span>
+        <h2 data-i18n="home.wines.title">Quatre vins, quatre personalitats</h2>
+        <hr class="hairline hairline-center mt-md">
+      </div>
+      <div class="product-grid">
+        <a class="product-card reveal" data-delay="1" href="vins.html#viras">
+          <div class="product-card-img"><img src="img/vi_ras_orange_2023.png" alt="Vi RAS Orange 2023" loading="lazy"></div>
+          <h3 data-i18n="wines.viras.name">Vi RAS</h3>
+          <div class="product-type" data-i18n="wines.viras.type">Vi taronja · ancestral</div>
+          <span class="product-cta link-arrow">→</span>
+        </a>
+        <a class="product-card reveal" data-delay="2" href="vins.html#espavila">
+          <div class="product-card-img"><img src="img/espavila_ampolla.png" alt="Espavila blanc 2024" loading="lazy"></div>
+          <h3 data-i18n="wines.espavila.name">Espavila</h3>
+          <div class="product-type" data-i18n="wines.espavila.type">Vi blanc · sense filtrar</div>
+          <span class="product-cta link-arrow">→</span>
+        </a>
+        <a class="product-card reveal" data-delay="3" href="vins.html#revifa">
+          <div class="product-card-img"><img src="img/Revifa_2024.png" alt="reVIfa rosat 2024" loading="lazy"></div>
+          <h3 data-i18n="wines.revifa.name">reVIfa</h3>
+          <div class="product-type" data-i18n="wines.revifa.type">Pètillant rosat · ancestral</div>
+          <span class="product-cta link-arrow">→</span>
+        </a>
+        <a class="product-card reveal" data-delay="4" href="vins.html#ingravid">
+          <div class="product-card-img"><img src="img/ingravid.png" alt="Ingràvid blanc brisat 2024" loading="lazy"></div>
+          <h3 data-i18n="wines.ingravid.name">Ingràvid</h3>
+          <div class="product-type" data-i18n="wines.ingravid.type">Vi blanc brisat · pell</div>
+          <span class="product-cta link-arrow">→</span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- OLI -->
+  <section>
+    <div class="container">
+      <div class="split">
+        <div class="split-media reveal">
+          <img src="img/arbequina.jpg" alt="Oli d'oliva verge extra Arbequina" loading="lazy">
+        </div>
+        <div class="reveal" data-delay="1">
+          <span class="eyebrow" data-i18n="home.oil.eyebrow">El nostre oli</span>
+          <h2 data-i18n="home.oil.title">Arbequina d'oliveres centenàries</h2>
+          <hr class="hairline mt-md">
+          <p class="lead" data-i18n="home.oil.body">Premsat en fred per mètodes mecànics d'oliveres multiedat, algunes centenàries. Un oli verd, fruitat i amb la dolçor característica de l'Arbequina mediterrània.</p>
+          <p class="mt-md"><a href="oli.html" class="link-arrow"><span data-i18n="home.oil.cta">Conèixer el nostre oli</span> →</a></p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- HISTÒRIA PREVIEW -->
+  <section class="section-alt">
+    <div class="container">
+      <div class="split reverse">
+        <div class="split-media reveal">
+          <img src="img/vi_ras_2025.jpg" alt="Finca Torres de la Serra" loading="lazy">
+        </div>
+        <div class="reveal" data-delay="1">
+          <span class="eyebrow" data-i18n="home.historia_preview.eyebrow">Des de 2015</span>
+          <h2 data-i18n="home.historia_preview.title">Una finca a l'ombra de Montserrat</h2>
+          <hr class="hairline mt-md">
+          <p class="lead" data-i18n="home.historia_preview.body">Vam arribar a aquesta terra el 2015. Des d'aleshores, no hem deixat de plantar, d'injertar, de provar, d'aprendre.</p>
+          <p class="mt-md"><a href="historia.html" class="link-arrow"><span data-i18n="home.historia_preview.cta">Llegir la nostra història</span> →</a></p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- JOURNAL -->
+  <section>
+    <div class="container">
+      <div class="text-center reveal">
+        <span class="eyebrow" data-i18n="home.journal.eyebrow">Journal</span>
+        <h2 data-i18n="home.journal.title">Notes sobre vi, oli i terra</h2>
+        <hr class="hairline hairline-center mt-md">
+      </div>
+      <div class="journal-grid">
+        <a class="journal-card reveal" data-delay="1" href="journal/vi-natural-que-es.html">
+          <div class="journal-card-img"><img src="img/oli_2025.jpg" alt="" loading="lazy"></div>
+          <div class="meta"><span class="cat" data-i18n="journal.art_1_cat">Vi natural</span><span data-i18n="journal.art_1_date">Març 2025</span></div>
+          <h3 data-i18n="journal.art_1_title">Què vol dir vi natural?</h3>
+          <p class="excerpt" data-i18n="journal.art_1_excerpt">Un terme que s'utilitza molt i es defineix poc.</p>
+          <span class="link-arrow"><span data-i18n="journal.read">Llegir</span> →</span>
+        </a>
+        <a class="journal-card reveal" data-delay="2" href="journal/terroir-montserrat.html">
+          <div class="journal-card-img"><img src="img/portada.png" alt="" loading="lazy"></div>
+          <div class="meta"><span class="cat" data-i18n="journal.art_2_cat">Terroir</span><span data-i18n="journal.art_2_date">Febrer 2025</span></div>
+          <h3 data-i18n="journal.art_2_title">El terroir a l'ombra de Montserrat</h3>
+          <p class="excerpt" data-i18n="journal.art_2_excerpt">Què aporta la muntanya al nostre vi?</p>
+          <span class="link-arrow"><span data-i18n="journal.read">Llegir</span> →</span>
+        </a>
+        <a class="journal-card reveal" data-delay="3" href="journal/metode-ancestral.html">
+          <div class="journal-card-img"><img src="img/vi_ras_orange_2023.png" alt="" loading="lazy" style="object-fit:contain;background:var(--color-paper);padding:2rem"></div>
+          <div class="meta"><span class="cat" data-i18n="journal.art_3_cat">Enologia</span><span data-i18n="journal.art_3_date">Gener 2025</span></div>
+          <h3 data-i18n="journal.art_3_title">El mètode ancestral, explicat</h3>
+          <p class="excerpt" data-i18n="journal.art_3_excerpt">Per què escollim el pét-nat per al Vi RAS.</p>
+          <span class="link-arrow"><span data-i18n="journal.read">Llegir</span> →</span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <img src="img/torresdelaserra_logo.png" alt="Torres de la Serra">
+        <p data-i18n="footer.tagline">Petits productors a l'ombra de Montserrat</p>
+      </div>
+      <div>
+        <h4 data-i18n="footer.nav_title">Navegació</h4>
+        <ul>
+          <li><a href="vins.html" data-i18n="nav.vins">Vins</a></li>
+          <li><a href="oli.html" data-i18n="nav.oli">Oli</a></li>
+          <li><a href="historia.html" data-i18n="nav.historia">La nostra història</a></li>
+          <li><a href="journal.html" data-i18n="nav.journal">Journal</a></li>
+          <li><a href="contacte.html" data-i18n="nav.contacte">Contacte</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4 data-i18n="footer.contact_title">Contacte</h4>
+        <ul>
+          <li><a href="mailto:torresdelaserra@gmail.com">torresdelaserra@gmail.com</a></li>
+          <li><span data-i18n="footer.location">Els Hostalets de Pierola · Catalunya</span></li>
+        </ul>
+      </div>
+      <div>
+        <h4 data-i18n="footer.follow_title">Segueix-nos</h4>
+        <ul>
+          <li><a href="https://www.instagram.com/torresdelaserra" target="_blank" rel="noopener">@torresdelaserra</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <div><span data-i18n="footer.copyright">© 2026 Torres de la Serra</span> · <span data-i18n="footer.location">Els Hostalets de Pierola · Catalunya</span></div>
+      <div class="lang-switch">
+        <button type="button" data-lang="ca">CA</button>
+        <span class="sep">·</span>
+        <button type="button" data-lang="es">ES</button>
+        <span class="sep">·</span>
+        <button type="button" data-lang="en">EN</button>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="js/i18n.js" defer></script>
+<script src="js/main.js" defer></script>
+</body>
+</html>

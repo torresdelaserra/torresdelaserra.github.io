@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Torres de la Serra">
+  <rect width="128" height="128" rx="24" fill="#F5F1EA"/>
+  <rect x="8" y="8" width="112" height="112" rx="20" fill="none" stroke="#B8925A" stroke-width="2"/>
+  <text x="64" y="77" text-anchor="middle" font-family="'Cormorant Garamond', serif" font-size="48" fill="#3D4A2A">TdS</text>
+</svg>
