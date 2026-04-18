@@ -246,6 +246,8 @@ section { padding: var(--space-xl) 0; }
   .header-inner { grid-template-columns: auto 1fr auto; }
   .lang-switch { display: none; }
   .header-inner .lang-switch.desktop-only { display: none; }
+  .mobile-menu .lang-switch,
+  .footer-bottom .lang-switch { display: flex; }
 }
 
 /* ---------- Hero ---------- */
@@ -713,6 +715,28 @@ section { padding: var(--space-xl) 0; }
 }
 
 @media (max-width: 640px) {
-  .hero-main-image { object-position: 58% center; }
-  .journal-terroir-image { object-position: 58% center; }
+  .hero {
+    min-height: auto;
+    aspect-ratio: 4 / 5;
+    align-items: flex-end;
+  }
+  .hero-content {
+    padding-top: 7rem;
+    padding-bottom: 4rem;
+  }
+  .hero-bg {
+    background: linear-gradient(180deg, #d8d0c3 0%, #f5f1ea 100%);
+  }
+  .hero-main-image {
+    object-fit: contain;
+    object-position: center top;
+  }
+  .journal-card-img-terroir {
+    background: var(--color-paper);
+    padding: 1rem;
+  }
+  .journal-terroir-image {
+    object-fit: contain;
+    object-position: center;
+  }
 }
