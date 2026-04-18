@@ -24,7 +24,7 @@
   <meta property="og:locale:alternate" content="en_US">
   <meta name="twitter:card" content="summary_large_image">
 
-  <link rel="icon" href="img/torresdelaserra_logo.svg" type="image/svg">
+  <link rel="icon" href="img/torresdelaserra_logo.svg" type="image/svg+xml">
   <link rel="manifest" href="site.webmanifest">
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -56,7 +56,7 @@
 </head>
 <body>
 
-<header class="site-header hero-transparent">
+<header class="site-header">
   <div class="header-inner">
     <a href="index.html" class="site-logo" aria-label="Torres de la Serra">
       <img src="img/torresdelaserra_logo.svg" alt="Torres de la Serra">
@@ -100,16 +100,18 @@
 <main id="main">
 
   <!-- HERO -->
-  <section class="hero">
-    <div class="hero-bg"><img class="hero-main-image" src="img/portada.png" alt="" fetchpriority="high"></div>
-    <div class="hero-overlay"></div>
-    <div class="hero-content">
-      <span class="eyebrow" data-i18n="home.hero.eyebrow">Petits productors · Els Hostalets de Pierola</span>
-      <h1 data-i18n="home.hero.title">Vins naturals i oli verge extra elaborats a l'ombra de Montserrat</h1>
-      <p class="lead" data-i18n="home.hero.subtitle">Un projecte familiar que honora la terra, el temps i el mètode artesanal.</p>
-      <a href="vins.html" class="btn btn-ghost-light" data-i18n="home.hero.cta">Descobreix els nostres vins</a>
+  <section class="hero hero-home">
+    <div class="container hero-home-layout">
+      <div class="hero-content reveal">
+        <span class="eyebrow" data-i18n="home.hero.eyebrow">Petits productors · Els Hostalets de Pierola</span>
+        <h1 data-i18n="home.hero.title">Vins naturals i oli verge extra elaborats a l'ombra de Montserrat</h1>
+        <p class="lead" data-i18n="home.hero.subtitle">Un projecte familiar que honora la terra, el temps i el mètode artesanal.</p>
+        <a href="vins.html" class="btn btn-wine" data-i18n="home.hero.cta">Descobreix els nostres vins</a>
+      </div>
+      <div class="hero-home-media reveal" data-delay="1">
+        <img class="hero-main-image" src="img/portada.png" alt="Persones de Torres de la Serra a la finca" fetchpriority="high">
+      </div>
     </div>
-    <div class="scroll-indicator" aria-hidden="true"></div>
   </section>
 
   <!-- FILOSOFIA -->
