@@ -261,6 +261,7 @@ section { padding: var(--space-xl) 0; }
 }
 .hero-bg { position: absolute; inset: 0; z-index: -2; }
 .hero-bg img { width: 100%; height: 100%; object-fit: cover; }
+.hero-main-image { object-position: center 42%; }
 .hero-overlay { position: absolute; inset: 0; background: linear-gradient(180deg, rgba(0,0,0,0.35) 0%, rgba(0,0,0,0.25) 50%, rgba(0,0,0,0.55) 100%); z-index: -1; }
 .hero-content { padding: 8rem 1.5rem 6rem; max-width: 1000px; }
 .hero h1 { color: #fff; font-weight: 300; margin-bottom: 1.75rem; }
@@ -415,6 +416,7 @@ section { padding: var(--space-xl) 0; }
 .journal-card { display: block; }
 .journal-card-img { aspect-ratio: 4/5; overflow: hidden; margin-bottom: 1.5rem; background: var(--color-bg-alt); }
 .journal-card-img img { width: 100%; height: 100%; object-fit: cover; transition: transform 1.2s var(--ease); }
+.journal-terroir-image { object-position: center 35%; }
 .journal-card:hover .journal-card-img img { transform: scale(1.04); }
 .journal-card .meta { display: flex; gap: 1rem; font-size: 0.75rem; letter-spacing: 0.15em; text-transform: uppercase; color: var(--color-text-muted); margin-bottom: 0.75rem; }
 .journal-card .meta .cat { color: var(--color-wine); font-weight: 500; }
@@ -593,6 +595,28 @@ section { padding: var(--space-xl) 0; }
 
 /* ---------- Info page (wine nutrition) ---------- */
 .info-layout { max-width: 720px; margin: 0 auto; padding: var(--space-xl) 1.5rem var(--space-lg); }
+.info-header {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  background: rgba(245, 241, 234, 0.96);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-bottom: 1px solid var(--color-line);
+}
+.info-header-inner {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 1rem 1.5rem;
+}
+.info-header .site-logo {
+  display: inline-flex;
+  align-items: center;
+}
+.info-header .site-logo img {
+  height: 42px;
+  width: auto;
+}
 .info-layout h1 { text-align: center; margin-bottom: 2rem; }
 .info-layout img { display: block; margin: 2rem auto; max-width: 100%; }
 .info-card-grid {
@@ -686,4 +710,9 @@ section { padding: var(--space-xl) 0; }
   *, *::before, *::after { animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; transition-duration: 0.01ms !important; scroll-behavior: auto !important; }
   .reveal { opacity: 1; transform: none; }
   .scroll-indicator { animation: none; }
+}
+
+@media (max-width: 640px) {
+  .hero-main-image { object-position: 58% center; }
+  .journal-terroir-image { object-position: 58% center; }
 }
