@@ -1,0 +1,320 @@
+{
+  "meta": {
+    "home_title": "Torres de la Serra — Natural wines & extra virgin olive oil · Montserrat",
+    "home_desc": "Small-scale producers of natural wines and extra virgin olive oil in Els Hostalets de Pierola, in the shadow of Montserrat. Ancestral method, no added sulphites.",
+    "vins_title": "Our natural wines — Torres de la Serra",
+    "vins_desc": "Four natural wines made using the ancestral method in Els Hostalets de Pierola: Vi RAS Orange, Espavila, reVIfa and Ingràvid.",
+    "oli_title": "Extra virgin olive oil from centenary olive trees — Torres de la Serra",
+    "oli_desc": "Cold-pressed Arbequina from centenary olive trees grown in the shadow of Montserrat. Available from 250 ml to 5 L.",
+    "historia_title": "Our story — Torres de la Serra",
+    "historia_desc": "A family project started in 2015 in Els Hostalets de Pierola. Viticulture and olive growing with respect for the land and for time.",
+    "journal_title": "Journal — Notes on wine, oil and land | Torres de la Serra",
+    "journal_desc": "Essays and notes on natural wine, terroir, olive oil and small-scale agriculture in the Anoia region.",
+    "contacte_title": "Contact — Torres de la Serra",
+    "contacte_desc": "Write to us to arrange a visit, place an order or discuss collaborations. Els Hostalets de Pierola, Catalonia."
+  },
+  "nav": {
+    "vins": "Wines",
+    "oli": "Oil",
+    "historia": "Our story",
+    "journal": "Journal",
+    "contacte": "Contact",
+    "menu_open": "Open menu",
+    "menu_close": "Close menu"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Small producers · Els Hostalets de Pierola",
+      "title": "Natural wines and extra virgin olive oil made in the shadow of Montserrat",
+      "subtitle": "A family project that honours the land, time and the handmade method.",
+      "cta": "Discover our wines"
+    },
+    "intro": {
+      "eyebrow": "Philosophy",
+      "title": "AgriCULTURE",
+      "body": "We farm small parcels with absolute respect for the vine and olive cycle. No rush, no shortcuts. Every bottle is the result of a year of fieldwork and the patience to let the wine and the oil speak for themselves."
+    },
+    "pillars": {
+      "p1_title": "Respect for the cycle",
+      "p1_body": "No herbicides, no systemic pesticides, minimal tillage. We let the vine live at its own pace.",
+      "p2_title": "Ancestral method",
+      "p2_body": "Spontaneous fermentation with indigenous yeasts. No aggressive filtering, no added sulphites.",
+      "p3_title": "Small scale",
+      "p3_body": "Every bottle passes through our hands. Limited production, handmade attention to every detail."
+    },
+    "wines": {
+      "eyebrow": "Our wines",
+      "title": "Four wines, four personalities",
+      "cta": "See all wines"
+    },
+    "oil": {
+      "eyebrow": "Our oil",
+      "title": "Arbequina from centenary trees",
+      "body": "Cold-pressed by mechanical means from olive trees of different ages, some centuries old. A green, fruity oil with the characteristic sweetness of Mediterranean Arbequina.",
+      "cta": "Meet our oil"
+    },
+    "historia_preview": {
+      "eyebrow": "Since 2015",
+      "title": "An estate in the shadow of Montserrat",
+      "body": "We came to this land in 2015. Since then we have not stopped planting, grafting, trying, learning. The estate holds vines from the 1980s, centenary olive trees, and a long-term ambition.",
+      "cta": "Read our story"
+    },
+    "journal": {
+      "eyebrow": "Journal",
+      "title": "Notes on wine, oil and land"
+    }
+  },
+  "wines": {
+    "page_eyebrow": "Our wines",
+    "page_title": "Four expressions of our terroir",
+    "page_intro": "We work five grape varieties on clay soil in Els Hostalets de Pierola: Parellada, Chardonnay, Xarel·lo, Cabernet Sauvignon and Grenache. From these vines we make four very different wines, all produced using the ancestral method, unfiltered and with no added sulphites.",
+    "viras": {
+      "name": "Vi RAS",
+      "sub": "Orange 2023",
+      "type": "Orange wine · ancestral",
+      "desc": "A young sparkling wine made using the ancestral method, unfiltered. Vines grown on clay soil in the shadow of Montserrat. First fermentation on skins to transfer the characteristic colour, texture and aromatic nuance.",
+      "variety": "65% Parellada · 35% Chardonnay",
+      "method": "Ancestral method, skin contact",
+      "style": "Orange, sparkling, unfiltered"
+    },
+    "espavila": {
+      "name": "Espavila",
+      "sub": "White 2024",
+      "type": "White wine · unfiltered",
+      "desc": "A young white made from Chardonnay grown on twenty-year-old vines. Spontaneous fermentation, no added sulphites, unfiltered. A white with volume, texture and a lively acidity that carries the mark of the clay soil and the Mediterranean climate.",
+      "variety": "100% Chardonnay",
+      "method": "Spontaneous fermentation, unfiltered",
+      "style": "Natural white, dry"
+    },
+    "revifa": {
+      "name": "reVIfa",
+      "sub": "Rosé 2024",
+      "type": "Rosé pétillant · ancestral",
+      "desc": "A young sparkling rosé made by the ancestral method from Parellada and Sumoll. First fermentation on Sumoll skins, which give the wine its colour and a bright freshness. A salmon-coloured rosé with fine bubble and a clean, gastronomic finish — made to accompany food.",
+      "variety": "60% Parellada · 40% Sumoll",
+      "method": "Ancestral method",
+      "style": "Sparkling rosé, unfiltered"
+    },
+    "ingravid": {
+      "name": "Ingràvid",
+      "sub": "Skin-contact white 2024",
+      "type": "Skin-contact white",
+      "desc": "A skin-contact white: two months of fermentation on skins in stainless steel. Racked and bottled unfiltered, no added sulphites. 11% vol. A wine with tannic texture, notes of wild herbs, orange peel and a persistent mineral finish.",
+      "variety": "Parellada, on skins",
+      "method": "2 months on skins, stainless steel",
+      "style": "Skin-contact, unfiltered, no sulphites"
+    },
+    "cta_block": {
+      "title": "Want to taste them?",
+      "body": "Production is limited. Write to us directly to place an order or to arrange a visit to the estate.",
+      "cta": "Get in touch"
+    }
+  },
+  "oil": {
+    "hero_eyebrow": "Extra virgin olive oil",
+    "hero_title": "Arbequina",
+    "hero_sub": "From centenary olive trees in the shadow of Montserrat",
+    "story": {
+      "eyebrow": "The olive tree that found us",
+      "title": "A hundred trees were already here",
+      "body_1": "When we came to the estate in 2015, roughly a hundred centenary Arbequina olive trees were already there. We didn't plant them: they found us. Some of these trunks could be over 150 years old; others, far older. They are trees that have survived droughts, wars, abandonment and recovery.",
+      "body_2": "Between 2016 and 2024 we planted around six hundred more: two hundred Arbequina and four hundred that we are gradually grafting with nearly-lost native varieties — Vera del Montserratí and Palomar de Olesa — using material from the olive trees at Palomar de Gatillepes, the oldest known specimens of that variety, carrying about five hundred years of history."
+    },
+    "process": {
+      "eyebrow": "The process",
+      "title": "From tree to bottle",
+      "step_1_title": "Hand harvest",
+      "step_1_body": "By hand, early in the morning, while the olive is still fresh. We pick each tree at its optimal ripeness.",
+      "step_2_title": "Milled within 24 hours",
+      "step_2_body": "Olives reach the mill within 24 hours of picking. That margin is what a real extra virgin oil requires.",
+      "step_3_title": "Cold-pressed",
+      "step_3_body": "Extraction by mechanical means only, at controlled temperature. No solvents, no correctors, nothing added.",
+      "step_4_title": "Bottling",
+      "step_4_body": "Bottled in opaque glass and tins to preserve polyphenols. No aggressive filtering."
+    },
+    "formats": {
+      "eyebrow": "Available formats",
+      "title": "For home, for cooking, to give as a gift",
+      "note": "For orders, write to us directly. We ship and supply local shops.",
+      "cta": "Place an order"
+    }
+  },
+  "history": {
+    "hero_eyebrow": "Since 2015",
+    "hero_title": "Our story",
+    "intro": "Torres de la Serra is a family project that began in 2015 with the purchase of an estate in Els Hostalets de Pierola.",
+    "body_1": "The estate came to us with two treasures already in place: 1980s Parellada vines grown in the traditional Mediterranean bush form, and around a hundred centenary Arbequina olive trees. We didn't have to start from zero: we started by listening.",
+    "body_2": "Since then we have been working the land with patience and long-term ambition. We have planted new vines of Parellada, Cabernet Sauvignon and Grenache, and added an existing twenty-year-old Chardonnay plot and a ten-year-old Xarel·lo one. Five varieties that let us make very different wines, all under the same principle: minimal intervention, spontaneous fermentation, no added sulphites.",
+    "body_3": "With the olive trees our ambition is even larger. We have planted about six hundred more: two hundred Arbequina and four hundred we are grafting with nearly-lost native varieties. Two hundred will become Vera del Montserratí and Palomar de Olesa, using material from the Palomar de Gatillepes olive trees — the oldest known specimens of that variety, with about five hundred years of history on their backs. It is our small contribution to preserving a plant heritage that without these grafts would be lost.",
+    "body_4": "We believe the land gives back what you give it. That is why we work at a small scale, without herbicides, without systemic pesticides, and letting each vintage express itself as it is. We don't make the same wine every year; we make the wine that each harvest gives us.",
+    "terroir_title": "The land",
+    "terroir_body": "The estate extends over clay soils, at mid-elevation, oriented so that it catches the morning light and the afternoon shade of Montserrat. The mountain is not just a view: it shapes the microclimate, the thermal winds, the humidity, and leaves its mineral imprint on every harvest.",
+    "family_title": "The family",
+    "family_body": "We are a family that doesn't come from generations of winemakers. We came to wine through respect for the land and through curiosity about what this particular piece of the planet has to say when you let it speak. We work with two hands, with help from neighbours and friends at each harvest.",
+    "timeline_title": "Timeline",
+    "tl_2015": "Purchase of the estate. First harvests from the 1980s Parellada vines.",
+    "tl_2016_2020": "New vine plantings (Cabernet, Grenache) and first phases of the olive project.",
+    "tl_2023": "First in-house bottling. Release of Vi RAS Orange.",
+    "tl_2024": "Bottling of Espavila, reVIfa and Ingràvid. The project takes shape.",
+    "tl_2020_2026": "Ongoing grafting project for native olive varieties (Vera del Montserratí, Palomar de Olesa)."
+  },
+  "journal": {
+    "hero_eyebrow": "Journal",
+    "hero_title": "Notes on wine, oil and land",
+    "intro": "This isn't a blog. It is four or five long essays, written when we have something to say. About natural wine, about Montserrat, about the centenary olive trees, and about why working at a small scale is worth it.",
+    "read": "Read",
+    "art_1_cat": "Natural wine",
+    "art_1_date": "March 2025",
+    "art_1_title": "What does natural wine mean?",
+    "art_1_excerpt": "A term often used and rarely defined. We try to explain it rigorously but plainly.",
+    "art_2_cat": "Terroir",
+    "art_2_date": "February 2025",
+    "art_2_title": "Terroir in the shadow of Montserrat",
+    "art_2_excerpt": "What does the mountain give our wine? Soils, altitude, microclimate, and a presence that can't be faked.",
+    "art_3_cat": "Winemaking",
+    "art_3_date": "January 2025",
+    "art_3_title": "The ancestral method, explained",
+    "art_3_excerpt": "Why we choose pét-nat for Vi RAS. How it differs from the champenoise, and what we look for in the glass.",
+    "art_4_cat": "Oil",
+    "art_4_date": "December 2024",
+    "art_4_title": "Our five-hundred-year-old olive trees",
+    "art_4_excerpt": "The story of the Palomar de Gatillepes olive trees and our grafting project to preserve native varieties."
+  },
+  "contact": {
+    "hero_eyebrow": "Let's talk",
+    "hero_title": "Contact",
+    "info_title": "Information",
+    "email_label": "Email",
+    "instagram_label": "Instagram",
+    "location_label": "Location",
+    "location_value": "Els Hostalets de Pierola · Catalonia",
+    "visits_note": "Visits to the estate are by appointment. Write to us to arrange one.",
+    "form_title": "Send us a message",
+    "form_name": "Name",
+    "form_email": "Email",
+    "form_subject": "Subject",
+    "form_subject_order": "Order",
+    "form_subject_visit": "Estate visit",
+    "form_subject_press": "Press / collaboration",
+    "form_subject_other": "Other",
+    "form_message": "Message",
+    "form_submit": "Send message",
+    "form_success": "Thank you. We've received your message and will reply soon.",
+    "form_error": "Something went wrong. Please try again or write to us directly.",
+    "form_config": "The form is not yet configured. Please email us directly at torresdelaserra@gmail.com."
+  },
+  "footer": {
+    "tagline": "Small producers in the shadow of Montserrat",
+    "nav_title": "Navigation",
+    "contact_title": "Contact",
+    "follow_title": "Follow us",
+    "follow_body": "@torresdelaserra",
+    "location": "Els Hostalets de Pierola · Catalonia",
+    "copyright": "© 2026 Torres de la Serra"
+  },
+  "common": {
+    "varieties": "Varieties",
+    "method": "Method",
+    "style": "Style",
+    "qr_index": "Back to QR index",
+    "journal_home": "Journal"
+  },
+  "articles": {
+    "vi_natural": {
+      "title": "What does natural wine mean?",
+      "cat": "Natural wine",
+      "date": "March 2025",
+      "hero_alt": "Vines in the shadow of Montserrat",
+      "p1": "Natural wine is a term often used and rarely defined. There is no official regulation in Spain or in the European Union, and this creates confusion for producers and consumers alike. Before entering any argument, it's worth saying what we mean when we call our wine natural.",
+      "p2": "The most widely shared definition within the trade describes it as a wine made from grapes grown without herbicides or systemic pesticides, vinified with native yeasts, spontaneously fermented, with no oenological additives and no added sulphites — or with a minimal amount added only at bottling. It isn't filtered aggressively, and it isn't fined with animal-derived products. In plainer words: it is wine made of grapes, and little else.",
+      "h_1": "What natural wine isn't",
+      "p3": "An organic wine is not necessarily a natural wine. The organic regulation covers viticulture (how the grapes are grown), but it still allows a long list of oenological additives in the cellar: selected yeasts, tannins, enzymes, sugars, corrected acidity, and sulphites at limits only slightly lower than conventional wine. It's a step, but it isn't the same thing.",
+      "p4": "A biodynamic wine isn't automatically natural either. Biodynamics is an agricultural and philosophical approach that goes far beyond organic, but biodynamic certifications (Demeter, Biodyvin) still allow sulphites and some additives. A wine can be biodynamic and not natural, or natural and not biodynamic.",
+      "h_2": "What we look for in the glass",
+      "p5": "When we pull the cork from one of our bottles, we want the wine to speak of its vintage. That means accepting that a 2023 won't share the profile of a 2024, that in some years the wines carry more bubble and in others less, that sometimes the orange hue is more intense and sometimes faint. That variability is not a flaw: it is what happens when you don't correct with additives.",
+      "p6": "It also means accepting textures and aromas different from what conventional oenology calls \"clean\". A natural wine may show unexpected effervescence, a veil of yeast at the bottom, a wilder nose. It isn't the sign of a mistake; it is the sign of a process that has not been disguised.",
+      "h_3": "Why we work this way",
+      "p7": "Because we think our piece of land has something to say, and that if we help it too much we won't hear it. Making natural wine is, in the end, a way of working with humility. We set the conditions — sound grapes, clean cuba, patience — and let what has to happen happen. Sometimes we come out surprised. Sometimes chastened. Always having learned something.",
+      "p8": "If it's your first natural wine, a tip: shake the bottle gently before serving if you see sediment, serve it slightly cooler than you would a conventional wine of the same style, and give it a few minutes in the glass before judging. Natural wines need a little air to open up."
+    },
+    "terroir": {
+      "title": "Terroir in the shadow of Montserrat",
+      "cat": "Terroir",
+      "date": "February 2025",
+      "hero_alt": "View of Montserrat from the estate",
+      "p1": "Terroir is one of those French words that Spanish and Catalan have adopted untranslated because no word quite matches it. Soil, climate, aspect, altitude, human tradition: all of that together, and also the relationship between those things. It is what makes two vineyards planted with the same variety, two kilometres apart, yield different wines.",
+      "h_1": "The clay soil",
+      "p2": "Our estate sits on mostly clay soils. Clay holds more water than sandy or limestone soils, which in summer — when it can go without rain here for two or three months running — is literally what keeps the vine alive. It also gives the wine structure: clay wines tend to have body, round tannins, a depth that has nothing to do with alcohol content.",
+      "p3": "Unlike a poorer soil, clay needs to be worked with care. Till it too much and you compact it, you suffocate it. Do nothing and the grass fights the vine. Working clay is working with patience: you look, you touch, you know when to intervene and when to let it be.",
+      "h_2": "Montserrat, a presence",
+      "p4": "The mountain is to the west. Not in front of us, but as a backdrop. Yet its mass shapes the wind, blocks some Atlantic fronts and funnels others, generates thermal breezes that in the afternoon cool the vines while down on the plain it's still forty degrees. The gap between daytime and night-time temperature — the diurnal range — is critical for aroma and for holding acidity. Montserrat gives us that night coolness nearly every August night.",
+      "p5": "There is also something harder to put into words. The older farmers of the area talk about the mountain with a reverence that isn't purely symbolic; it's a relationship built from living with it. Our wines come from a vineyard that looks at Montserrat every day of its cycle. We don't know if it shows in the glass, but we like to think so.",
+      "h_3": "Altitude and aspect",
+      "p6": "We aren't high up: about 350 metres above sea level, intermediate for the region. What compensates for that modest altitude is aspect. Our main parcels are oriented to catch the morning sun — softer, less aggressive — and sit in partial shade through the harshest afternoon hours of summer. That slows ripening, extends the cycle, and preserves the acidity of the fruit.",
+      "p7": "A vine that ripens slowly gives wines with more aroma and less alcohol. It's the opposite of the hot, powerful model that has dominated much of modern oenology. What interests us is finesse: wines you can drink, that don't tire you, that make you want the second glass.",
+      "h_4": "Terroir is also the hand",
+      "p8": "Terroir is often discussed as if it were only geology, but it includes the human culture of a place. How the vines are pruned, how they are trained (here we work bush-trained, the traditional Mediterranean form), the harvest dates set by neighbouring farmers, the vocabulary with which we talk about wine. All of that belongs too. Without that human layer, terroir is geology. With it, it is culture."
+    },
+    "metode_ancestral": {
+      "title": "The ancestral method, explained",
+      "cat": "Winemaking",
+      "date": "January 2025",
+      "hero_alt": "Bottle of ancestral wine",
+      "p1": "Before champagne, there was ancestral. That's the simple way of putting it: the ancestral method is the oldest way of making sparkling wine, documented in Languedoc and the French Jura long before champagne became the world reference for the word \"sparkling\".",
+      "h_1": "How it works",
+      "p2": "In a still wine, fermentation — the chemical process in which yeasts convert the grape's sugars into alcohol and CO2 — happens in an open vessel or with a device that lets the CO2 escape. That is why the finished wine has no bubble.",
+      "p3": "In the ancestral method we do the opposite: we bottle the wine before fermentation has finished. Inside the bottle, the yeasts keep converting the remaining sugars, the CO2 has nowhere to escape, and it stays dissolved. When you open the bottle, that CO2 is released as bubble. It is a single fermentation, while the champenoise (or traditional method) runs two: one in the tank, and a second in the bottle with added sugar and yeast.",
+      "h_2": "Why we like it",
+      "p4": "We like the ancestral for three practical reasons and one poetic one. First: it needs no additions. There is no dosage sugar, no selected yeast, no liqueur d'expédition. It is grapes, and nothing else.",
+      "p5": "Second: it gives more food-friendly wines. The ancestral bubble tends to be finer, more present on the palate, less aggressive than that of a conventional champagne or cava. These are wines that accompany a dish, rather than dominate it.",
+      "p6": "Third: no two vintages are alike. Because fermentation depends on residual sugar and cellar conditions, the result always carries the nuance of the year. Some years Vi RAS shows more bubble, other years less. Some years it's almost dry, other years a touch fruitier. For us, that variation is part of what the method offers.",
+      "p7": "And the poetic reason: the ancestral method is four hundred years old. Making it today is a way of taking part in a long chain, of being in dialogue with the people who invented it before thermometers or hydrometers existed.",
+      "h_3": "How to serve it",
+      "p8": "An ancestral wine asks for slightly different treatment than a champagne. First, don't serve it ice-cold. Between 8 and 10 °C is enough: too cold and the bubble hides, too warm and the alcohol shows through. Second, use a wider glass than the classic flute — a white wine glass works well, and lets the aromas breathe. Third, don't jostle the bottle just before opening: since the wine is unfiltered, there may be a yeast sediment at the bottom that you don't need to stir up.",
+      "p9": "And if you can, open it with someone. A Vi RAS opened alone is fine. Opened with a cheese board and someone to argue over it, it is better."
+    },
+    "olivers_centenaris": {
+      "title": "Our five-hundred-year-old olive trees",
+      "cat": "Oil",
+      "date": "December 2024",
+      "hero_alt": "Centenary olive tree",
+      "p1": "Some trees are our contemporaries, and some trees we are a footnote to. The Vera del Montserratí belongs to the second kind. The oldest known specimens of this variety, at Palomar de Gatillepes, are around five hundred years old. They were there when Catalonia was not yet Spain, and they will likely still be there long after all of us are gone.",
+      "h_1": "A nearly lost variety",
+      "p2": "Vera del Montserratí is a native variety of the Montserrat massif and its surroundings. It is not Arbequina — the Catalan commercial star — nor Empeltre, nor Picual. It is a local variety, adapted to the soil and climate of this particular strip of land, and during the twentieth century it came close to disappearing. Arbequina gave more, was easier to plant, had a clearer market. The Vera was pushed to the corners, to the old fields, to the trees farmers didn't pull out because pulling them out felt wrong.",
+      "p3": "The same is true of other local varieties — Palomar de Olesa, for instance — that survive almost only in scattered individuals. Losing them means losing biodiversity, but it also means losing a specific kind of oil: Vera del Montserratí gives a more structured oil than Arbequina, with sharper bitterness and pepperiness, a different personality.",
+      "h_2": "The grafting project",
+      "p4": "In 2020 we began a slow project: plant around four hundred young olive trees and gradually graft them with plant material from the centenary Vera del Montserratí and Palomar de Olesa. Grafting an olive tree isn't like grafting a vine. It requires patience, an understanding of the wood, a vegetal tempo that cannot be rushed. A graft may take five or ten years before it produces consistent fruit.",
+      "p5": "Why do it? In part because it is honest work. We will win no prizes for this, and it will not pay the labour back in the short term. But if, twenty years from now, we have a few hundred trees of varieties that were close to extinction, and if another farmer can ask us for material to do the same, we will have done something that matters.",
+      "h_3": "The centenary trees that were already here",
+      "p6": "Aside from that project, the estate holds about a hundred centenary Arbequina olive trees that were already there when we arrived. We don't know exactly how old — it would take a dendrochronological study, and that isn't our priority — but some of these trunks carry a mass and circumference that can only accumulate over many decades.",
+      "p7": "Tending them is not the same as tending young olive trees. They need lighter pruning, a sensitive hand with water, and an understanding that they are trees that have already found their shape. Over-pruning stresses them; over-watering can harm the roots. With them, the main task is not to do too much.",
+      "h_4": "What you gain",
+      "p8": "An oil made from trees of seventy, a hundred, or two hundred years is not the same as an oil from trees of ten. It isn't only a matter of aroma: it is a matter of depth. The roots of old trees reach levels of soil that young ones haven't touched yet. The minerals they draw up are different. The time they have had to accumulate reserves is far longer.",
+      "p9": "This doesn't mean an oil made from young trees is bad; only different. But if you ever get the chance to taste an oil made exclusively from centenary trees of a rare native variety, take it. You'll know you are tasting something that cannot be manufactured: it is passed along, generation after generation, from farmer to farmer, from tree to tree."
+    },
+    "related_title": "Related articles",
+    "share_title": "Share",
+    "share_instagram": "Instagram",
+    "share_copy": "Copy link",
+    "share_copied": "Copied"
+  },
+  "info": {
+    "title_prefix": "Nutritional information",
+    "ingredients_label": "Ingredients",
+    "energy_label": "Energy",
+    "per_100ml": "per 100 ml",
+    "per_serving": "per glass (125 ml)",
+    "fat": "Fat",
+    "saturated": "of which saturates",
+    "carbs": "Carbohydrates",
+    "sugars": "of which sugars",
+    "protein": "Protein",
+    "salt": "Salt",
+    "alcohol": "Alcohol",
+    "sulfites": "Contains natural sulphites from fermentation",
+    "producer": "Producer",
+    "address": "Els Hostalets de Pierola, Catalonia",
+    "more_info": "More information",
+    "back": "Back to wine page"
+  }
+}

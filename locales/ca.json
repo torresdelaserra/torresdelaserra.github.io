@@ -1,0 +1,320 @@
+{
+  "meta": {
+    "home_title": "Torres de la Serra — Vins naturals i oli verge extra · Montserrat",
+    "home_desc": "Petits productors de vins naturals i oli d'oliva verge extra a Els Hostalets de Pierola, a l'ombra de Montserrat. Mètode ancestral, sense sulfits afegits.",
+    "vins_title": "Els nostres vins naturals — Torres de la Serra",
+    "vins_desc": "Quatre vins naturals elaborats pel mètode ancestral a Els Hostalets de Pierola: Vi RAS Orange, Espavila, reVIfa i Ingràvid.",
+    "oli_title": "Oli d'oliva verge extra d'oliveres centenàries — Torres de la Serra",
+    "oli_desc": "Arbequina premsada en fred d'oliveres centenàries, cultivada a l'ombra de Montserrat. Disponible en formats de 250 ml a 5 L.",
+    "historia_title": "La nostra història — Torres de la Serra",
+    "historia_desc": "Projecte familiar iniciat el 2015 a Els Hostalets de Pierola. Viticultura i olivicultura respectuoses amb la terra i el temps.",
+    "journal_title": "Journal — Apunts sobre vi, oli i terra | Torres de la Serra",
+    "journal_desc": "Assajos i notes sobre vi natural, terroir, oli d'oliva i agricultura de petita escala a l'Anoia.",
+    "contacte_title": "Contacte — Torres de la Serra",
+    "contacte_desc": "Escriu-nos per concertar visites a la finca, fer comandes o col·laboracions. Els Hostalets de Pierola, Catalunya."
+  },
+  "nav": {
+    "vins": "Vins",
+    "oli": "Oli",
+    "historia": "La nostra història",
+    "journal": "Journal",
+    "contacte": "Contacte",
+    "menu_open": "Obrir menú",
+    "menu_close": "Tancar menú"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Petits productors · Els Hostalets de Pierola",
+      "title": "Vins naturals i oli verge extra elaborats a l'ombra de Montserrat",
+      "subtitle": "Un projecte familiar que honora la terra, el temps i el mètode artesanal.",
+      "cta": "Descobreix els nostres vins"
+    },
+    "intro": {
+      "eyebrow": "Filosofia",
+      "title": "AgriCULTURA",
+      "body": "Treballem petites parcel·les amb respecte absolut pel cicle de la vinya i l'olivera. Sense pressa, sense dreceres. Cada ampolla és el resultat d'un any de feina a camp i la paciència d'esperar que el vi i l'oli s'expressin tal com són."
+    },
+    "pillars": {
+      "p1_title": "Respecte pel cicle",
+      "p1_body": "Sense herbicides, sense pesticides sistèmics, llaurat mínim. Deixem que la vinya visqui el seu temps.",
+      "p2_title": "Mètode ancestral",
+      "p2_body": "Fermentació espontània amb llevats indígenes. Sense filtratges agressius ni sulfits afegits.",
+      "p3_title": "Petita escala",
+      "p3_body": "Cada ampolla passa per les nostres mans. Producció limitada, atenció artesanal a cada detall."
+    },
+    "wines": {
+      "eyebrow": "Els nostres vins",
+      "title": "Quatre vins, quatre personalitats",
+      "cta": "Veure tots els vins"
+    },
+    "oil": {
+      "eyebrow": "El nostre oli",
+      "title": "Arbequina d'oliveres centenàries",
+      "body": "Premsat en fred per mètodes mecànics d'oliveres multiedat, algunes de centenàries. Un oli verd, fruitat i amb la dolçor característica de l'Arbequina mediterrània.",
+      "cta": "Conèixer el nostre oli"
+    },
+    "historia_preview": {
+      "eyebrow": "Des de 2015",
+      "title": "Una finca a l'ombra de Montserrat",
+      "body": "Vam arribar a aquesta terra el 2015. Des d'aleshores, no hem deixat de plantar, d'injertar, de provar, d'aprendre. La finca té vinyes dels anys 80, oliveres centenàries, i moltes ganes de durar.",
+      "cta": "Llegir la nostra història"
+    },
+    "journal": {
+      "eyebrow": "Journal",
+      "title": "Notes sobre vi, oli i terra"
+    }
+  },
+  "wines": {
+    "page_eyebrow": "Els nostres vins",
+    "page_title": "Quatre expressions del nostre terroir",
+    "page_intro": "Treballem cinc varietats sobre sòl argilós a Els Hostalets de Pierola: Parellada, Chardonnay, Xarel·lo, Cabernet Sauvignon i Garnatxa Negra. D'aquestes vinyes n'obtenim quatre vins molt diferents entre si, tots elaborats pel mètode ancestral, sense sulfits afegits i sense filtrar.",
+    "viras": {
+      "name": "Vi RAS",
+      "sub": "Orange 2023",
+      "type": "Vi taronja · ancestral",
+      "desc": "Vi jove escumós elaborat pel mètode ancestral sense filtrar. Vinyes sobre sòl argilós a l'ombra de Montserrat. Primera fermentació amb les seves pells per transferir el color característic, la textura i els matisos aromàtics.",
+      "variety": "65% Parellada · 35% Chardonnay",
+      "method": "Mètode ancestral, contacte amb pells",
+      "style": "Taronja, escumós, no filtrat"
+    },
+    "espavila": {
+      "name": "Espavila",
+      "sub": "Blanc 2024",
+      "type": "Vi blanc · sense filtrar",
+      "desc": "Vi blanc jove elaborat amb Chardonnay de vinyes d'uns vint anys. Fermentació espontània, sense sulfits afegits i sense filtrar. Un blanc amb volum, textura i una acidesa viva que guarda l'empremta del sòl argilós i el clima mediterrani.",
+      "variety": "100% Chardonnay",
+      "method": "Fermentació espontània, sense filtrar",
+      "style": "Blanc natural, sec"
+    },
+    "revifa": {
+      "name": "reVIfa",
+      "sub": "Rosat 2024",
+      "type": "Pètillant rosat · ancestral",
+      "desc": "Vi rosat jove escumós elaborat pel mètode ancestral amb Parellada i Sumoll negre. Primera fermentació amb les pells del Sumoll, que aporten color i frescor. Un rosat de to salmó, amb bombolla fina i una gola neta, gastronòmica, pensada per acompanyar.",
+      "variety": "60% Parellada · 40% Sumoll negre",
+      "method": "Mètode ancestral",
+      "style": "Rosat escumós, no filtrat"
+    },
+    "ingravid": {
+      "name": "Ingràvid",
+      "sub": "Blanc brisat 2024",
+      "type": "Vi blanc brisat · pell",
+      "desc": "Vi blanc brisat: fermentació de dos mesos amb pells en dipòsit d'acer inoxidable. Desfangat i embotellat sense filtrar ni sulfits afegits. 11% vol. Un vi de textura tànica, amb aromes d'herbes de bosc, pell de taronja i una mineralitat persistent.",
+      "variety": "Parellada amb contacte de pells",
+      "method": "2 mesos amb pells, INOX",
+      "style": "Brisat, no filtrat, sense sulfits"
+    },
+    "cta_block": {
+      "title": "Vols tastar-los?",
+      "body": "La producció és limitada. Escriu-nos directament per fer comandes o per concertar una visita a la finca.",
+      "cta": "Contactar"
+    }
+  },
+  "oil": {
+    "hero_eyebrow": "Oli d'oliva verge extra",
+    "hero_title": "Arbequina",
+    "hero_sub": "D'oliveres centenàries a l'ombra de Montserrat",
+    "story": {
+      "eyebrow": "L'olivera que ens va trobar",
+      "title": "Cent oliveres ja hi eren",
+      "body_1": "Quan vam arribar a la finca el 2015, ja hi havia aproximadament cent oliveres Arbequina centenàries. No les vam plantar: ens van trobar. Alguns d'aquests troncs podrien tenir més de cent cinquanta anys; d'altres podrien ser molt més vells. Son arbres que han sobreviscut sequeres, guerres, abandonament i recuperació.",
+      "body_2": "Entre el 2016 i el 2024 n'hem plantat uns sis-cents més: dos-cents d'Arbequina i quatre-cents que estem injertant amb varietats autòctones gairebé perdudes — Vera del Montserratí i Palomar de Olesa — aprofitant material dels olivers de Palomar de Gatillepes, els exemplars més antics que es coneixen d'aquesta varietat, amb uns cinc-cents anys d'història al damunt."
+    },
+    "process": {
+      "eyebrow": "El procés",
+      "title": "De l'arbre a l'ampolla",
+      "step_1_title": "Collita manual",
+      "step_1_body": "A mà i a primera hora del matí, quan l'oliva encara és fresca. Collim cada arbre al seu punt òptim de maduració.",
+      "step_2_title": "Molta en 24 hores",
+      "step_2_body": "Les olives arriben al molí abans de 24 hores des de la collita. És el marge que exigeix un oli verge extra de qualitat real.",
+      "step_3_title": "Premsat en fred",
+      "step_3_body": "Extracció únicament per mètodes mecànics, sota temperatura controlada. Sense dissolvents, sense correctors, sense afegits.",
+      "step_4_title": "Embotellat",
+      "step_4_body": "Envasament en ampolles i garrafes opaques per preservar els polifenols. Sense filtracions agressives."
+    },
+    "formats": {
+      "eyebrow": "Formats disponibles",
+      "title": "Per a casa, per a cuinar, per a regalar",
+      "note": "Per a comandes, contacta'ns directament. Fem enviaments i servei a comerços locals.",
+      "cta": "Demanar una comanda"
+    }
+  },
+  "history": {
+    "hero_eyebrow": "Des de 2015",
+    "hero_title": "La nostra història",
+    "intro": "Torres de la Serra és un projecte familiar que va començar el 2015 amb l'adquisició d'una finca a Els Hostalets de Pierola.",
+    "body_1": "La finca ens va arribar a les mans amb dos tresors que ja hi eren: vinyes de Parellada dels anys vuitanta cultivades en vas — la forma tradicional mediterrània — i un centenar d'oliveres centenàries de varietat Arbequina. No ens va caldre començar de zero: vam començar escoltant.",
+    "body_2": "Des d'aleshores no hem deixat de treballar la terra amb paciència i ambició a llarg termini. Hem plantat noves vinyes de Parellada, Cabernet Sauvignon i Garnatxa Negra, i hem incorporat un camp de Chardonnay d'uns vint anys i un altre de Xarel·lo de deu. Cinc varietats que ens permeten elaborar vins amb personalitats molt diferents, tots sota el mateix principi: intervenció mínima, fermentació espontània i sense sulfits afegits.",
+    "body_3": "Amb els olivers l'ambició és encara més gran. Hem plantat uns sis-cents olivers més: dos-cents d'Arbequina i quatre-cents que estem injertant amb varietats autòctones gairebé perdudes. Dos-cents els convertirem en Vera del Montserratí i Palomar de Olesa, aprofitant material dels olivers de Palomar de Gatillepes — els exemplars més antics existents d'aquesta varietat, amb uns cinc-cents anys d'història al damunt. És la nostra petita contribució a conservar un patrimoni vegetal que sense aquests injerts es perdria.",
+    "body_4": "Creiem que la terra ens dóna el que li donem. Per això treballem a petita escala, sense herbicides, sense pesticides sistèmics, i deixant que cada anyada s'expressi com és. No fem el mateix vi cada any; fem el vi que la verema ens regala cada any.",
+    "terroir_title": "La terra",
+    "terroir_body": "La finca s'estén sobre sòls argilosos, a mitja alçada, orientada de manera que rep la llum del matí i l'ombra de Montserrat a la tarda. La muntanya no és només un paisatge: condiciona el microclima, les tèrmiques, la humitat, i deixa la seva empremta mineral a cada verema.",
+    "family_title": "La família",
+    "family_body": "Som una família que no ve de generacions de viticultors. Vam arribar al vi pel respecte a la terra i per la curiositat d'entendre què pot dir aquest tros concret del planeta quan el deixes parlar. Treballem a dues mans, amb l'ajuda puntual de veïns i amics cada verema.",
+    "timeline_title": "Línia del temps",
+    "tl_2015": "Adquisició de la finca. Primeres veremes sobre les vinyes de Parellada dels anys 80.",
+    "tl_2016_2020": "Plantació de noves vinyes (Cabernet, Garnatxa) i primeres fases del projecte d'oliveres.",
+    "tl_2023": "Primer embotellat propi. Llançament del Vi RAS Orange.",
+    "tl_2024": "Embotellat d'Espavila, reVIfa i Ingràvid. Consolidació del projecte.",
+    "tl_2020_2026": "Projecte d'injert d'oliveres amb varietats autòctones (Vera del Montserratí, Palomar de Olesa)."
+  },
+  "journal": {
+    "hero_eyebrow": "Journal",
+    "hero_title": "Apunts sobre vi, oli i terra",
+    "intro": "No és un blog. Són quatre o cinc assaigs llargs, escrits quan tenim alguna cosa a dir. Sobre el vi natural, sobre Montserrat, sobre les oliveres centenàries, i sobre per què val la pena treballar en petita escala.",
+    "read": "Llegir",
+    "art_1_cat": "Vi natural",
+    "art_1_date": "Març 2025",
+    "art_1_title": "Què vol dir vi natural?",
+    "art_1_excerpt": "Un terme que s'utilitza molt i es defineix poc. Intentem explicar-lo de manera rigorosa però accessible.",
+    "art_2_cat": "Terroir",
+    "art_2_date": "Febrer 2025",
+    "art_2_title": "El terroir a l'ombra de Montserrat",
+    "art_2_excerpt": "Què aporta la muntanya al nostre vi? Sòls, altitud, microclima i una presència que no es pot imitar.",
+    "art_3_cat": "Enologia",
+    "art_3_date": "Gener 2025",
+    "art_3_title": "El mètode ancestral, explicat",
+    "art_3_excerpt": "Per què escollim el pét-nat per al Vi RAS. Diferències amb el champenoise i què cerquem a la copa.",
+    "art_4_cat": "Oli",
+    "art_4_date": "Desembre 2024",
+    "art_4_title": "Els nostres olivers de cinc-cents anys",
+    "art_4_excerpt": "La història dels olivers de Palomar de Gatillepes i el projecte d'injert per conservar varietats autòctones."
+  },
+  "contact": {
+    "hero_eyebrow": "Parlem-ne",
+    "hero_title": "Contacte",
+    "info_title": "Informació",
+    "email_label": "Correu electrònic",
+    "instagram_label": "Instagram",
+    "location_label": "Ubicació",
+    "location_value": "Els Hostalets de Pierola · Catalunya",
+    "visits_note": "Les visites a la finca es concerten prèviament. Escriu-nos per organitzar-les.",
+    "form_title": "Envia'ns un missatge",
+    "form_name": "Nom",
+    "form_email": "Correu electrònic",
+    "form_subject": "Assumpte",
+    "form_subject_order": "Comanda",
+    "form_subject_visit": "Visita a la finca",
+    "form_subject_press": "Premsa / col·laboració",
+    "form_subject_other": "Altres",
+    "form_message": "Missatge",
+    "form_submit": "Enviar missatge",
+    "form_success": "Gràcies. Hem rebut el teu missatge i et contestarem aviat.",
+    "form_error": "Hi ha hagut un problema. Torna-ho a provar o escriu-nos directament.",
+    "form_config": "El formulari encara no està configurat. Escriu-nos directament a torresdelaserra@gmail.com."
+  },
+  "footer": {
+    "tagline": "Petits productors a l'ombra de Montserrat",
+    "nav_title": "Navegació",
+    "contact_title": "Contacte",
+    "follow_title": "Segueix-nos",
+    "follow_body": "@torresdelaserra",
+    "location": "Els Hostalets de Pierola · Catalunya",
+    "copyright": "© 2026 Torres de la Serra"
+  },
+  "common": {
+    "varieties": "Varietats",
+    "method": "Mètode",
+    "style": "Estil",
+    "qr_index": "Tornar a l'índex QR",
+    "journal_home": "Journal"
+  },
+  "articles": {
+    "vi_natural": {
+      "title": "Què vol dir vi natural?",
+      "cat": "Vi natural",
+      "date": "Març 2025",
+      "hero_alt": "Vinyes a l'ombra de Montserrat",
+      "p1": "Vi natural és un terme que s'utilitza molt i es defineix poc. No hi ha una regulació oficial a Espanya ni a la Unió Europea, i això genera confusió tant al celler com al consumidor. Val la pena, abans d'entrar en discussions, posar sobre la taula què entenem nosaltres quan diem que el nostre vi és natural.",
+      "p2": "La definició més compartida dins del sector el descriu com un vi elaborat a partir de raïm cultivat sense herbicides ni pesticides sistèmics, vinificat amb llevats indígenes, fermentat de manera espontània, sense aditius enològics i sense sulfits afegits — o amb una quantitat mínima afegida només a l'embotellat. No es filtra agressivament ni es clarifica amb productes d'origen animal. Dit de manera més senzilla: és vi de raïm i prou.",
+      "h_1": "Què no és un vi natural",
+      "p3": "Un vi ecològic no és necessàriament un vi natural. El reglament ecològic regula la viticultura (com es cultiva el raïm), però permet una llarga llista d'aditius enològics al celler: llevats seleccionats, tanins, enzims, sucres, acidesa corregida, i sulfits fins a límits només una mica més baixos que el vi convencional. És una passa, però no és el mateix.",
+      "p4": "Un vi biodinàmic tampoc no ho és per se. La biodinàmica és una aproximació agrícola i filosòfica que va molt més enllà de l'ecològic, però les certificacions biodinàmiques (Demeter, Biodyvin) continuen permetent sulfits i alguns aditius. Un vi pot ser biodinàmic i no natural, o natural i no biodinàmic.",
+      "h_2": "Què cerquem a la copa",
+      "p5": "Quan treiem el suro d'una ampolla nostra busquem que el vi parli de la seva verema. Això vol dir acceptar que un 2023 no tindrà el mateix perfil que un 2024, que alguns anys els vins tenen més bombolla i d'altres menys, que de vegades el color taronja és més intens i de vegades més tènue. Aquesta variabilitat no és un defecte: és el que passa quan no compenses amb aditius.",
+      "p6": "També vol dir acceptar textures i aromes diferents del que l'enologia convencional considera \"net\". Un vi natural pot tenir un punt d'efervescència inesperada, un vel de llevats al fons, un nas més salvatge. No és el rastre d'un error; és el rastre d'un procés que no s'ha emmascarat.",
+      "h_3": "Per què ho fem així",
+      "p7": "Perquè creiem que el nostre tros de terra té alguna cosa a dir i que, si l'ajudem massa, no el sentirem. Fer vi natural és, al cap i a la fi, una manera de treballar amb humilitat. Posem les condicions — raïm sa, cuba neta, paciència — i deixem que passi el que ha de passar. A vegades sortim sorpresos. A vegades sortim escarmentats. Sempre sortim havent après alguna cosa.",
+      "p8": "Si és el primer vi natural que obriu, un consell: agiteu l'ampolla suaument abans de servir si hi veieu un sediment al fons, serviu-lo un punt més fred del que serviríeu un vi convencional de la mateixa tipologia, i doneu-li uns minuts a la copa abans de jutjar-lo. Els vins naturals necessiten una mica d'aire per expressar-se."
+    },
+    "terroir": {
+      "title": "El terroir a l'ombra de Montserrat",
+      "cat": "Terroir",
+      "date": "Febrer 2025",
+      "hero_alt": "Vista de Montserrat des de la finca",
+      "p1": "Terroir és una d'aquelles paraules franceses que el castellà i el català hem adoptat sense traducció perquè no n'hi ha cap d'equivalent. Sòl, clima, orientació, altitud, tradició humana: tot això, junt, i també la relació entre totes aquestes coses. És el que fa que dues vinyes plantades amb la mateixa varietat separades per dos quilòmetres donin vins diferents.",
+      "h_1": "El sòl argilós",
+      "p2": "La nostra finca s'estén sobre sòls majoritàriament argilosos. L'argila té una capacitat de retenció d'aigua més alta que els sòls sorrencs o calcaris, cosa que a l'estiu — quan aquí pot no ploure durant dos o tres mesos seguits — és literalment el que manté la vinya viva. També aporta estructura al vi: els vins d'argila tendeixen a tenir cos, tanins rodons, una certa profunditat que no té res a veure amb el grau alcohòlic.",
+      "p3": "A diferència d'un sòl més pobre, l'argilós exigeix treballar-hi amb cura. Si llaures massa, el compactes i el sufoques. Si no hi fas res, l'herba competeix amb el vinyar. Treballar argila és treballar amb paciència: observar, tocar, saber quan intervenir i quan deixar-ho fer.",
+      "h_2": "Montserrat, una presència",
+      "p4": "La muntanya és a l'oest. No la tenim davant dels nasals; la tenim com a teló de fons. Però la seva massa condiciona el vent, frena algunes borrasques atlàntiques i n'empeny d'altres, genera tèrmiques que a la tarda refresquen les vinyes quan a la plana encara fa quaranta graus. La diferència de temperatura entre el dia i la nit — l'amplitud tèrmica — és crítica per a l'aroma i per a mantenir l'acidesa. Montserrat ens regala aquesta frescor nocturna gairebé cada nit d'agost.",
+      "p5": "També hi ha alguna cosa difícil d'explicar. Els pagesos més vells de la zona parlen de la muntanya amb una reverència que no és només simbòlica; és una relació que s'estableix a força de conviure-hi. Els nostres vins surten d'una vinya que mira Montserrat cada dia del seu cicle. No sabem si això es nota a la copa, però ens agrada pensar-ho.",
+      "h_3": "Altitud i orientació",
+      "p6": "No estem alts: som a uns 350 metres sobre el nivell del mar, una altura intermèdia per a la regió. El que compensa aquesta altitud modesta és l'orientació: les parcel·les principals estan orientades de manera que reben el sol del matí — menys intens, menys agressiu — i queden en ombra parcial durant les hores més crues de la tarda d'estiu. Això alenteix la maduració, allarga el cicle i preserva l'acidesa del raïm.",
+      "p7": "Una vinya que madura a poc a poc és una vinya que dóna vins amb més aromes i amb menys alcohol. És el contrari del model càlid i potent que ha dominat gran part de l'enologia moderna. A nosaltres ens interessa la finura: vins que es puguin beure, que no cansin, que et facin venir ganes de la segona copa.",
+      "h_4": "El terroir és també la mà",
+      "p8": "Sovint s'oblida que el terroir inclou la cultura humana del lloc. La manera de podar, la forma de conduir la vinya (aquí treballem en vas, la forma tradicional mediterrània), les dates de verema que fan els pagesos veïns, el vocabulari amb què parlem del vi. Tot això també hi pertany. Sense aquesta capa humana, el terroir seria geologia. Amb ella, és cultura."
+    },
+    "metode_ancestral": {
+      "title": "El mètode ancestral, explicat",
+      "cat": "Enologia",
+      "date": "Gener 2025",
+      "hero_alt": "Ampolla de vi ancestral",
+      "p1": "Abans del xampany hi havia l'ancestral. Aquesta és la manera simple de dir-ho: el mètode ancestral és el sistema més antic d'elaborar vins escumosos, documentat al Llenguadoc i al Jura francesos des de molt abans que el champagne es convertís en la referència mundial del mot \"escumós\".",
+      "h_1": "Com funciona",
+      "p2": "En un vi tranquil, la fermentació — aquella transformació química en què els sucres del raïm es converteixen en alcohol i CO2 gràcies als llevats — té lloc en una cuba oberta o amb un dispositiu que deixa escapar el CO2. Per això el vi acabat no té bombolla.",
+      "p3": "En el mètode ancestral, fem el contrari: tanquem l'ampolla quan la fermentació encara no ha acabat. Dins, els llevats continuen transformant els sucres que queden, el CO2 no pot escapar i queda dissolt al vi. Quan obrim l'ampolla, aquest CO2 s'allibera en forma de bombolla. És una sola fermentació, en canvi el champenoise (o mètode tradicional) en fa dues: una al tanc i una segona a l'ampolla amb sucre i llevats afegits.",
+      "h_2": "Per què ens agrada",
+      "p4": "L'ancestral ens agrada per tres motius pràctics i un de poètic. El primer: no necessita afegits. No hi ha sucre de dosatge, no hi ha llevats seleccionats, no hi ha liqueur d'expédition. És el raïm i prou.",
+      "p5": "El segon: dóna vins més gastronòmics. La bombolla de l'ancestral sol ser més fina, més present a la boca, menys agressiva que la d'un champagne o un cava convencionals. Són vins que acompanyen un plat en lloc d'imposar-s'hi.",
+      "p6": "El tercer: no tots els anys surten iguals. Com que la fermentació depèn del sucre residual i de les condicions de la cuba, el resultat sempre té matisos d'any. Alguns anys el Vi RAS té més bombolla, altres menys. Alguns anys és gairebé sec, altres té un toc fruital més evident. Aquesta variabilitat, per a nosaltres, és part del que ofereix.",
+      "p7": "I el motiu poètic: el mètode ancestral té quatre-cents anys. Fer-lo avui és una manera de participar en una cadena llarga, d'estar en diàleg amb els que van inventar-lo abans que existissin els termòmetres o els densímetres.",
+      "h_3": "Com servir-lo",
+      "p8": "Un vi ancestral demana un tracte una mica diferent del d'un xampany. Primer, no ha d'estar gelat. Entre 8 i 10 graus és suficient: massa fred i la bombolla s'amaga, massa càlid i l'alcohol hi sobresurt. Segon, utilitza una copa més oberta que la flauta clàssica: la copa de vi blanc va bé, deixa que les aromes s'expressin. Tercer, no remenis l'ampolla just abans d'obrir-la: com que no ha estat filtrat, hi pot haver un sediment de llevats al fons que no necessites despertar.",
+      "p9": "I si pots, obre'l amb algú. Un Vi RAS obert en solitari està bé. Obert amb una taula de formatges i algú amb qui discutir-los, és millor."
+    },
+    "olivers_centenaris": {
+      "title": "Els nostres olivers de cinc-cents anys",
+      "cat": "Oli",
+      "date": "Desembre 2024",
+      "hero_alt": "Oliver centenari",
+      "p1": "Hi ha arbres que són contemporanis nostres i hi ha arbres davant dels quals som una anècdota. La Vera del Montserratí és d'aquests últims. Els exemplars més antics coneguts d'aquesta varietat, al Palomar de Gatillepes, tenen uns cinc-cents anys. Estaven aquí quan Catalunya encara no era Espanya, i probablement hi seran quan parlar català sigui una altra manera d'entendre el món.",
+      "h_1": "Una varietat gairebé perduda",
+      "p2": "La Vera del Montserratí és una varietat autòctona del massís de Montserrat i els seus voltants. No és l'Arbequina — l'estrella comercial catalana — ni l'Empeltre, ni la Picual. És una varietat local, adaptada al sòl i el clima d'aquesta franja concreta, i durant el segle XX va estar a punt de desaparèixer. L'Arbequina donava més, es plantava més fàcilment, tenia un mercat més clar. La Vera va quedar als racons, als camps vells, als olivers que els pagesos no van arrencar perquè els feia respecte fer-ho.",
+      "p3": "El mateix passa amb altres varietats de la zona — la Palomar de Olesa, per exemple — que sobreviuen gairebé només en exemplars aïllats. Perdre-les és perdre biodiversitat, però també és perdre un tipus d'oli concret: la Vera del Montserratí dóna un oli més estructurat que l'Arbequina, amb notes amargues i picants més marcades, una personalitat diferent.",
+      "h_2": "El projecte d'injert",
+      "p4": "El 2020 vam començar un projecte lent: plantar uns quatre-cents olivers joves i injertar-los progressivament amb material vegetal de les oliveres centenàries de la Vera del Montserratí i la Palomar de Olesa. Injertar un oliver no és com empeltar una vinya. Requereix paciència, coneixement de la fusta, un tempo vegetal que no es pot accelerar. Un injert pot trigar cinc o deu anys abans de donar fruit regular.",
+      "p5": "Per què ho fem? En part perquè és una feina honesta. No guanyarem cap premi amb això, i no ens pagarà la feina a curt termini. Però si d'aquí a vint anys tenim uns quants olivers de varietats que estaven en perill d'extingir-se, i si un altre pagès ens pot demanar material per fer el mateix, haurem fet una cosa que té sentit.",
+      "h_3": "Els olivers centenaris que ja hi eren",
+      "p6": "A part d'aquest projecte, la finca conserva unes cent oliveres centenàries d'Arbequina que ja hi eren quan vam arribar. No sabem amb exactitud quants anys tenen — seria necessari un estudi dendrocronològic i no és la nostra prioritat — però alguns d'aquests troncs tenen una massa i una circumferència que només s'acumula en molts decennis.",
+      "p7": "Cuidar-los és diferent de cuidar oliveres joves. Necessiten una poda més lleugera, un regadiu sensible, una comprensió del fet que són arbres que ja han trobat la seva forma. La poda excessiva els estressa; el reg abundant els pot fer malbé les arrels. Amb ells, la feina principal és no fer massa.",
+      "h_4": "Què hi guanyes",
+      "p8": "Un oli que ve d'oliveres de setanta, cent o dos-cents anys no és igual que un oli que ve d'oliveres de deu anys. No és només una qüestió d'aromes: és una qüestió de profunditat. Les arrels dels arbres vells arriben a nivells de sòl que les joves encara no coneixen. Els minerals que extreuen són diferents. El temps en què han acumulat reserves és molt més llarg.",
+      "p9": "Això no vol dir que un oli d'oliveres joves sigui dolent; només diferent. Però si algun dia teniu l'ocasió de tastar un oli fet exclusivament amb oliveres centenàries d'una varietat autòctona rara, feu-ho. Sabreu que esteu tastant una cosa que no es fabrica: es trasllada, generació rere generació, de pagès a pagès, d'arbre a arbre."
+    },
+    "related_title": "Articles relacionats",
+    "share_title": "Compartir",
+    "share_instagram": "Instagram",
+    "share_copy": "Copiar enllaç",
+    "share_copied": "Copiat"
+  },
+  "info": {
+    "title_prefix": "Informació nutricional",
+    "ingredients_label": "Ingredients",
+    "energy_label": "Valor energètic",
+    "per_100ml": "per 100 ml",
+    "per_serving": "per copa (125 ml)",
+    "fat": "Greixos",
+    "saturated": "dels quals saturats",
+    "carbs": "Hidrats de carboni",
+    "sugars": "dels quals sucres",
+    "protein": "Proteïnes",
+    "salt": "Sal",
+    "alcohol": "Alcohol",
+    "sulfites": "Conté sulfits naturals de la fermentació",
+    "producer": "Productor",
+    "address": "Els Hostalets de Pierola, Catalunya",
+    "more_info": "Més informació",
+    "back": "Tornar a la pàgina del vi"
+  }
+}

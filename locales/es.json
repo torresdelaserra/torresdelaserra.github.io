@@ -1,0 +1,320 @@
+{
+  "meta": {
+    "home_title": "Torres de la Serra — Vinos naturales y aceite virgen extra · Montserrat",
+    "home_desc": "Pequeños productores de vinos naturales y aceite de oliva virgen extra en Els Hostalets de Pierola, a la sombra de Montserrat. Método ancestral, sin sulfitos añadidos.",
+    "vins_title": "Nuestros vinos naturales — Torres de la Serra",
+    "vins_desc": "Cuatro vinos naturales elaborados por el método ancestral en Els Hostalets de Pierola: Vi RAS Orange, Espavila, reVIfa e Ingràvid.",
+    "oli_title": "Aceite de oliva virgen extra de olivos centenarios — Torres de la Serra",
+    "oli_desc": "Arbequina prensada en frío de olivos centenarios, cultivada a la sombra de Montserrat. Disponible en formatos de 250 ml a 5 L.",
+    "historia_title": "Nuestra historia — Torres de la Serra",
+    "historia_desc": "Proyecto familiar iniciado en 2015 en Els Hostalets de Pierola. Viticultura y olivicultura respetuosas con la tierra y el tiempo.",
+    "journal_title": "Journal — Apuntes sobre vino, aceite y tierra | Torres de la Serra",
+    "journal_desc": "Ensayos y notas sobre vino natural, terroir, aceite de oliva y agricultura de pequeña escala en la Anoia.",
+    "contacte_title": "Contacto — Torres de la Serra",
+    "contacte_desc": "Escríbenos para concertar visitas a la finca, hacer pedidos o colaboraciones. Els Hostalets de Pierola, Cataluña."
+  },
+  "nav": {
+    "vins": "Vinos",
+    "oli": "Aceite",
+    "historia": "Nuestra historia",
+    "journal": "Journal",
+    "contacte": "Contacto",
+    "menu_open": "Abrir menú",
+    "menu_close": "Cerrar menú"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Pequeños productores · Els Hostalets de Pierola",
+      "title": "Vinos naturales y aceite virgen extra elaborados a la sombra de Montserrat",
+      "subtitle": "Un proyecto familiar que honra la tierra, el tiempo y el método artesanal.",
+      "cta": "Descubre nuestros vinos"
+    },
+    "intro": {
+      "eyebrow": "Filosofía",
+      "title": "AgriCULTURA",
+      "body": "Trabajamos pequeñas parcelas con respeto absoluto por el ciclo de la viña y el olivo. Sin prisa, sin atajos. Cada botella es el resultado de un año de trabajo en el campo y la paciencia de esperar que el vino y el aceite se expresen tal como son."
+    },
+    "pillars": {
+      "p1_title": "Respeto por el ciclo",
+      "p1_body": "Sin herbicidas, sin pesticidas sistémicos, laboreo mínimo. Dejamos que la viña viva su tiempo.",
+      "p2_title": "Método ancestral",
+      "p2_body": "Fermentación espontánea con levaduras autóctonas. Sin filtraciones agresivas ni sulfitos añadidos.",
+      "p3_title": "Pequeña escala",
+      "p3_body": "Cada botella pasa por nuestras manos. Producción limitada, atención artesanal a cada detalle."
+    },
+    "wines": {
+      "eyebrow": "Nuestros vinos",
+      "title": "Cuatro vinos, cuatro personalidades",
+      "cta": "Ver todos los vinos"
+    },
+    "oil": {
+      "eyebrow": "Nuestro aceite",
+      "title": "Arbequina de olivos centenarios",
+      "body": "Prensado en frío por métodos mecánicos a partir de olivos de diferentes edades, algunos centenarios. Un aceite verde, afrutado y con la dulzura característica de la Arbequina mediterránea.",
+      "cta": "Conocer nuestro aceite"
+    },
+    "historia_preview": {
+      "eyebrow": "Desde 2015",
+      "title": "Una finca a la sombra de Montserrat",
+      "body": "Llegamos a esta tierra en 2015. Desde entonces, no hemos dejado de plantar, de injertar, de probar, de aprender. La finca tiene viñas de los años 80, olivos centenarios y muchas ganas de durar.",
+      "cta": "Leer nuestra historia"
+    },
+    "journal": {
+      "eyebrow": "Journal",
+      "title": "Notas sobre vino, aceite y tierra"
+    }
+  },
+  "wines": {
+    "page_eyebrow": "Nuestros vinos",
+    "page_title": "Cuatro expresiones de nuestro terroir",
+    "page_intro": "Trabajamos cinco variedades sobre suelo arcilloso en Els Hostalets de Pierola: Parellada, Chardonnay, Xarel·lo, Cabernet Sauvignon y Garnacha Tinta. De estas viñas obtenemos cuatro vinos muy distintos entre sí, todos elaborados por el método ancestral, sin sulfitos añadidos y sin filtrar.",
+    "viras": {
+      "name": "Vi RAS",
+      "sub": "Orange 2023",
+      "type": "Vino naranja · ancestral",
+      "desc": "Vino joven espumoso elaborado por el método ancestral sin filtrar. Viñas sobre suelo arcilloso a la sombra de Montserrat. Primera fermentación con sus pieles para transferir el color característico, la textura y los matices aromáticos.",
+      "variety": "65% Parellada · 35% Chardonnay",
+      "method": "Método ancestral, contacto con pieles",
+      "style": "Naranja, espumoso, sin filtrar"
+    },
+    "espavila": {
+      "name": "Espavila",
+      "sub": "Blanco 2024",
+      "type": "Vino blanco · sin filtrar",
+      "desc": "Vino blanco joven elaborado con Chardonnay de viñas de unos veinte años. Fermentación espontánea, sin sulfitos añadidos y sin filtrar. Un blanco con volumen, textura y una acidez viva que guarda la huella del suelo arcilloso y el clima mediterráneo.",
+      "variety": "100% Chardonnay",
+      "method": "Fermentación espontánea, sin filtrar",
+      "style": "Blanco natural, seco"
+    },
+    "revifa": {
+      "name": "reVIfa",
+      "sub": "Rosado 2024",
+      "type": "Pétillant rosado · ancestral",
+      "desc": "Vino rosado joven espumoso elaborado por el método ancestral con Parellada y Sumoll tinto. Primera fermentación con las pieles del Sumoll, que aportan color y frescor. Un rosado con tono salmón, burbuja fina y un paso gastronómico, pensado para acompañar.",
+      "variety": "60% Parellada · 40% Sumoll tinto",
+      "method": "Método ancestral",
+      "style": "Rosado espumoso, sin filtrar"
+    },
+    "ingravid": {
+      "name": "Ingràvid",
+      "sub": "Blanco brisado 2024",
+      "type": "Vino blanco brisado · piel",
+      "desc": "Vino blanco brisado: fermentación de dos meses con pieles en depósito de acero inoxidable. Desfangado y embotellado sin filtrar ni sulfitos añadidos. 11% vol. Un vino de textura tánica, con aromas de hierbas de bosque, piel de naranja y una mineralidad persistente.",
+      "variety": "Parellada con contacto de pieles",
+      "method": "2 meses con pieles, INOX",
+      "style": "Brisado, sin filtrar, sin sulfitos"
+    },
+    "cta_block": {
+      "title": "¿Quieres probarlos?",
+      "body": "La producción es limitada. Escríbenos directamente para hacer pedidos o para concertar una visita a la finca.",
+      "cta": "Contactar"
+    }
+  },
+  "oil": {
+    "hero_eyebrow": "Aceite de oliva virgen extra",
+    "hero_title": "Arbequina",
+    "hero_sub": "De olivos centenarios a la sombra de Montserrat",
+    "story": {
+      "eyebrow": "El olivo que nos encontró",
+      "title": "Cien olivos ya estaban aquí",
+      "body_1": "Cuando llegamos a la finca en 2015, ya había aproximadamente cien olivos Arbequina centenarios. No los plantamos: nos encontraron. Algunos de estos troncos podrían tener más de ciento cincuenta años; otros, muchos más. Son árboles que han sobrevivido sequías, guerras, abandono y recuperación.",
+      "body_2": "Entre 2016 y 2024 hemos plantado unos seiscientos más: doscientos de Arbequina y cuatrocientos que estamos injertando con variedades autóctonas casi perdidas — Vera del Montserratí y Palomar de Olesa — aprovechando material de los olivos de Palomar de Gatillepes, los ejemplares más antiguos conocidos de esta variedad, con unos quinientos años de historia a cuestas."
+    },
+    "process": {
+      "eyebrow": "El proceso",
+      "title": "Del árbol a la botella",
+      "step_1_title": "Recogida manual",
+      "step_1_body": "A mano y a primera hora de la mañana, cuando la oliva todavía está fresca. Recogemos cada árbol en su punto óptimo de maduración.",
+      "step_2_title": "Molienda en 24 horas",
+      "step_2_body": "Las olivas llegan al molino antes de 24 horas desde la recogida. Es el margen que exige un virgen extra de calidad real.",
+      "step_3_title": "Prensado en frío",
+      "step_3_body": "Extracción únicamente por métodos mecánicos, bajo temperatura controlada. Sin disolventes, sin correctores, sin añadidos.",
+      "step_4_title": "Embotellado",
+      "step_4_body": "Envasado en botellas y garrafas opacas para preservar los polifenoles. Sin filtraciones agresivas."
+    },
+    "formats": {
+      "eyebrow": "Formatos disponibles",
+      "title": "Para casa, para cocinar, para regalar",
+      "note": "Para pedidos, contáctanos directamente. Hacemos envíos y servicio a comercios locales.",
+      "cta": "Hacer un pedido"
+    }
+  },
+  "history": {
+    "hero_eyebrow": "Desde 2015",
+    "hero_title": "Nuestra historia",
+    "intro": "Torres de la Serra es un proyecto familiar que empezó en 2015 con la adquisición de una finca en Els Hostalets de Pierola.",
+    "body_1": "La finca llegó a nuestras manos con dos tesoros que ya estaban allí: viñas de Parellada de los años ochenta cultivadas en vaso — la forma tradicional mediterránea — y unos cien olivos centenarios de variedad Arbequina. No tuvimos que empezar de cero: empezamos escuchando.",
+    "body_2": "Desde entonces no hemos parado de trabajar la tierra con paciencia y ambición a largo plazo. Hemos plantado nuevas viñas de Parellada, Cabernet Sauvignon y Garnacha Tinta, y hemos incorporado un campo de Chardonnay de unos veinte años y otro de Xarel·lo de diez. Cinco variedades que nos permiten elaborar vinos con personalidades muy distintas, todos bajo el mismo principio: intervención mínima, fermentación espontánea y sin sulfitos añadidos.",
+    "body_3": "Con los olivos la ambición es aún mayor. Hemos plantado unos seiscientos olivos más: doscientos de Arbequina y cuatrocientos que estamos injertando con variedades autóctonas casi perdidas. Doscientos los convertiremos en Vera del Montserratí y Palomar de Olesa, aprovechando material de los olivos de Palomar de Gatillepes — los ejemplares más antiguos existentes de esta variedad, con unos quinientos años de historia. Es nuestra pequeña contribución a conservar un patrimonio vegetal que sin estos injertos se perdería.",
+    "body_4": "Creemos que la tierra nos da lo que le damos. Por eso trabajamos a pequeña escala, sin herbicidas, sin pesticidas sistémicos, y dejando que cada añada se exprese como es. No hacemos el mismo vino cada año; hacemos el vino que la vendimia nos regala cada año.",
+    "terroir_title": "La tierra",
+    "terroir_body": "La finca se extiende sobre suelos arcillosos, a media altura, orientada de manera que recibe la luz de la mañana y la sombra de Montserrat por la tarde. La montaña no es solo un paisaje: condiciona el microclima, las térmicas, la humedad, y deja su huella mineral en cada vendimia.",
+    "family_title": "La familia",
+    "family_body": "Somos una familia que no viene de generaciones de viticultores. Llegamos al vino por el respeto a la tierra y por la curiosidad de entender qué puede decir este pedazo concreto del planeta cuando lo dejas hablar. Trabajamos a dos manos, con la ayuda puntual de vecinos y amigos en cada vendimia.",
+    "timeline_title": "Línea del tiempo",
+    "tl_2015": "Adquisición de la finca. Primeras vendimias sobre las viñas de Parellada de los años 80.",
+    "tl_2016_2020": "Plantación de nuevas viñas (Cabernet, Garnacha) y primeras fases del proyecto de olivos.",
+    "tl_2023": "Primer embotellado propio. Lanzamiento del Vi RAS Orange.",
+    "tl_2024": "Embotellado de Espavila, reVIfa e Ingràvid. Consolidación del proyecto.",
+    "tl_2020_2026": "Proyecto de injerto de olivos con variedades autóctonas (Vera del Montserratí, Palomar de Olesa)."
+  },
+  "journal": {
+    "hero_eyebrow": "Journal",
+    "hero_title": "Apuntes sobre vino, aceite y tierra",
+    "intro": "No es un blog. Son cuatro o cinco ensayos largos, escritos cuando tenemos algo que decir. Sobre el vino natural, sobre Montserrat, sobre los olivos centenarios y sobre por qué vale la pena trabajar a pequeña escala.",
+    "read": "Leer",
+    "art_1_cat": "Vino natural",
+    "art_1_date": "Marzo 2025",
+    "art_1_title": "¿Qué significa vino natural?",
+    "art_1_excerpt": "Un término muy usado y poco definido. Intentamos explicarlo de manera rigurosa pero accesible.",
+    "art_2_cat": "Terroir",
+    "art_2_date": "Febrero 2025",
+    "art_2_title": "El terroir a la sombra de Montserrat",
+    "art_2_excerpt": "¿Qué aporta la montaña a nuestro vino? Suelos, altitud, microclima y una presencia que no se imita.",
+    "art_3_cat": "Enología",
+    "art_3_date": "Enero 2025",
+    "art_3_title": "El método ancestral, explicado",
+    "art_3_excerpt": "Por qué elegimos el pét-nat para el Vi RAS. Diferencias con el champenoise y qué buscamos en la copa.",
+    "art_4_cat": "Aceite",
+    "art_4_date": "Diciembre 2024",
+    "art_4_title": "Nuestros olivos de quinientos años",
+    "art_4_excerpt": "La historia de los olivos de Palomar de Gatillepes y el proyecto de injerto para conservar variedades autóctonas."
+  },
+  "contact": {
+    "hero_eyebrow": "Hablemos",
+    "hero_title": "Contacto",
+    "info_title": "Información",
+    "email_label": "Correo electrónico",
+    "instagram_label": "Instagram",
+    "location_label": "Ubicación",
+    "location_value": "Els Hostalets de Pierola · Cataluña",
+    "visits_note": "Las visitas a la finca se conciertan previamente. Escríbenos para organizarlas.",
+    "form_title": "Envíanos un mensaje",
+    "form_name": "Nombre",
+    "form_email": "Correo electrónico",
+    "form_subject": "Asunto",
+    "form_subject_order": "Pedido",
+    "form_subject_visit": "Visita a la finca",
+    "form_subject_press": "Prensa / colaboración",
+    "form_subject_other": "Otros",
+    "form_message": "Mensaje",
+    "form_submit": "Enviar mensaje",
+    "form_success": "Gracias. Hemos recibido tu mensaje y te contestaremos pronto.",
+    "form_error": "Ha habido un problema. Inténtalo de nuevo o escríbenos directamente.",
+    "form_config": "El formulario aún no está configurado. Escríbenos directamente a torresdelaserra@gmail.com."
+  },
+  "footer": {
+    "tagline": "Pequeños productores a la sombra de Montserrat",
+    "nav_title": "Navegación",
+    "contact_title": "Contacto",
+    "follow_title": "Síguenos",
+    "follow_body": "@torresdelaserra",
+    "location": "Els Hostalets de Pierola · Cataluña",
+    "copyright": "© 2026 Torres de la Serra"
+  },
+  "common": {
+    "varieties": "Variedades",
+    "method": "Método",
+    "style": "Estilo",
+    "qr_index": "Volver al índice QR",
+    "journal_home": "Journal"
+  },
+  "articles": {
+    "vi_natural": {
+      "title": "¿Qué significa vino natural?",
+      "cat": "Vino natural",
+      "date": "Marzo 2025",
+      "hero_alt": "Viñas a la sombra de Montserrat",
+      "p1": "Vino natural es un término muy usado y poco definido. No hay una regulación oficial en España ni en la Unión Europea, y eso genera confusión tanto en la bodega como en el consumidor. Vale la pena, antes de entrar en discusiones, poner sobre la mesa qué entendemos nosotros cuando decimos que nuestro vino es natural.",
+      "p2": "La definición más compartida dentro del sector lo describe como un vino elaborado a partir de uva cultivada sin herbicidas ni pesticidas sistémicos, vinificado con levaduras autóctonas, fermentado de manera espontánea, sin aditivos enológicos y sin sulfitos añadidos — o con una cantidad mínima añadida solo en el embotellado. No se filtra agresivamente ni se clarifica con productos de origen animal. Dicho de manera más sencilla: es vino de uva y punto.",
+      "h_1": "Qué no es un vino natural",
+      "p3": "Un vino ecológico no es necesariamente un vino natural. El reglamento ecológico regula la viticultura (cómo se cultiva la uva), pero permite una larga lista de aditivos enológicos en bodega: levaduras seleccionadas, taninos, enzimas, azúcares, acidez corregida, y sulfitos hasta límites solo un poco más bajos que el vino convencional. Es un paso, pero no es lo mismo.",
+      "p4": "Un vino biodinámico tampoco lo es per se. La biodinámica es una aproximación agrícola y filosófica que va mucho más allá de lo ecológico, pero las certificaciones biodinámicas (Demeter, Biodyvin) siguen permitiendo sulfitos y algunos aditivos. Un vino puede ser biodinámico y no natural, o natural y no biodinámico.",
+      "h_2": "Qué buscamos en la copa",
+      "p5": "Cuando quitamos el corcho de una botella nuestra buscamos que el vino hable de su vendimia. Esto significa aceptar que un 2023 no tendrá el mismo perfil que un 2024, que algunos años los vinos tienen más burbuja y otros menos, que a veces el color naranja es más intenso y a veces más tenue. Esa variabilidad no es un defecto: es lo que pasa cuando no compensas con aditivos.",
+      "p6": "También significa aceptar texturas y aromas distintos de lo que la enología convencional considera \"limpio\". Un vino natural puede tener un punto de efervescencia inesperada, un velo de levaduras en el fondo, una nariz más salvaje. No es rastro de un error; es el rastro de un proceso que no se ha enmascarado.",
+      "h_3": "Por qué lo hacemos así",
+      "p7": "Porque creemos que nuestro pedazo de tierra tiene algo que decir y que, si lo ayudamos demasiado, no lo oiremos. Hacer vino natural es, al fin y al cabo, una manera de trabajar con humildad. Ponemos las condiciones — uva sana, cuba limpia, paciencia — y dejamos que pase lo que tenga que pasar. A veces salimos sorprendidos. A veces salimos escarmentados. Siempre salimos habiendo aprendido algo.",
+      "p8": "Si es el primer vino natural que abres, un consejo: agita la botella suavemente antes de servir si ves sedimento en el fondo, sírvelo un punto más frío de lo que servirías un vino convencional de la misma tipología, y dale unos minutos en la copa antes de juzgarlo. Los vinos naturales necesitan un poco de aire para expresarse."
+    },
+    "terroir": {
+      "title": "El terroir a la sombra de Montserrat",
+      "cat": "Terroir",
+      "date": "Febrero 2025",
+      "hero_alt": "Vista de Montserrat desde la finca",
+      "p1": "Terroir es una de esas palabras francesas que el castellano y el catalán hemos adoptado sin traducción porque no hay ninguna equivalente. Suelo, clima, orientación, altitud, tradición humana: todo eso, junto, y también la relación entre todas estas cosas. Es lo que hace que dos viñas plantadas con la misma variedad separadas por dos kilómetros den vinos distintos.",
+      "h_1": "El suelo arcilloso",
+      "p2": "Nuestra finca se extiende sobre suelos mayoritariamente arcillosos. La arcilla tiene una capacidad de retención de agua más alta que los suelos arenosos o calcáreos, lo que en verano — cuando aquí puede no llover durante dos o tres meses seguidos — es literalmente lo que mantiene viva la viña. También aporta estructura al vino: los vinos de arcilla tienden a tener cuerpo, taninos redondos, una cierta profundidad que no tiene nada que ver con el grado alcohólico.",
+      "p3": "A diferencia de un suelo más pobre, el arcilloso exige trabajarlo con cuidado. Si labras demasiado, lo compactas y lo asfixias. Si no haces nada, la hierba compite con la viña. Trabajar arcilla es trabajar con paciencia: observar, tocar, saber cuándo intervenir y cuándo dejarlo.",
+      "h_2": "Montserrat, una presencia",
+      "p4": "La montaña está al oeste. No la tenemos delante; la tenemos como telón de fondo. Pero su masa condiciona el viento, frena algunas borrascas atlánticas y empuja otras, genera térmicas que por la tarde refrescan las viñas cuando en la llanura todavía hace cuarenta grados. La diferencia de temperatura entre el día y la noche — la amplitud térmica — es crítica para el aroma y para mantener la acidez. Montserrat nos regala esa frescura nocturna casi cada noche de agosto.",
+      "p5": "También hay algo difícil de explicar. Los campesinos mayores de la zona hablan de la montaña con una reverencia que no es solo simbólica; es una relación que se establece a fuerza de convivir con ella. Nuestros vinos salen de una viña que mira Montserrat cada día de su ciclo. No sabemos si eso se nota en la copa, pero nos gusta pensarlo.",
+      "h_3": "Altitud y orientación",
+      "p6": "No estamos altos: estamos a unos 350 metros sobre el nivel del mar, una altura intermedia para la región. Lo que compensa esa altitud modesta es la orientación: las parcelas principales están orientadas de manera que reciben el sol de la mañana — menos intenso, menos agresivo — y quedan en sombra parcial durante las horas más crudas de la tarde de verano. Esto ralentiza la maduración, alarga el ciclo y preserva la acidez de la uva.",
+      "p7": "Una viña que madura lentamente es una viña que da vinos con más aromas y con menos alcohol. Es lo contrario del modelo cálido y potente que ha dominado gran parte de la enología moderna. A nosotros nos interesa la finura: vinos que se puedan beber, que no cansen, que te den ganas de la segunda copa.",
+      "h_4": "El terroir es también la mano",
+      "p8": "A menudo se olvida que el terroir incluye la cultura humana del lugar. La manera de podar, la forma de conducir la viña (aquí trabajamos en vaso, la forma tradicional mediterránea), las fechas de vendimia que hacen los campesinos vecinos, el vocabulario con que hablamos del vino. Todo eso también pertenece. Sin esa capa humana, el terroir sería geología. Con ella, es cultura."
+    },
+    "metode_ancestral": {
+      "title": "El método ancestral, explicado",
+      "cat": "Enología",
+      "date": "Enero 2025",
+      "hero_alt": "Botella de vino ancestral",
+      "p1": "Antes del champán estaba el ancestral. Esta es la manera simple de decirlo: el método ancestral es el sistema más antiguo de elaborar vinos espumosos, documentado en el Languedoc y el Jura franceses desde mucho antes de que el champagne se convirtiera en la referencia mundial de la palabra \"espumoso\".",
+      "h_1": "Cómo funciona",
+      "p2": "En un vino tranquilo, la fermentación — esa transformación química en la que los azúcares de la uva se convierten en alcohol y CO2 gracias a las levaduras — tiene lugar en una cuba abierta o con un dispositivo que deja escapar el CO2. Por eso el vino terminado no tiene burbuja.",
+      "p3": "En el método ancestral hacemos lo contrario: cerramos la botella cuando la fermentación todavía no ha terminado. Dentro, las levaduras siguen transformando los azúcares que quedan, el CO2 no puede escapar y queda disuelto en el vino. Cuando abrimos la botella, ese CO2 se libera en forma de burbuja. Es una sola fermentación, mientras que el champenoise (o método tradicional) hace dos: una en el tanque y una segunda en la botella con azúcar y levaduras añadidas.",
+      "h_2": "Por qué nos gusta",
+      "p4": "El ancestral nos gusta por tres motivos prácticos y uno poético. El primero: no necesita añadidos. No hay azúcar de dosage, no hay levaduras seleccionadas, no hay liqueur d'expédition. Es uva y punto.",
+      "p5": "El segundo: da vinos más gastronómicos. La burbuja del ancestral suele ser más fina, más presente en boca, menos agresiva que la de un champagne o un cava convencionales. Son vinos que acompañan un plato en lugar de imponérsele.",
+      "p6": "El tercero: no todos los años salen iguales. Como la fermentación depende del azúcar residual y de las condiciones de la cuba, el resultado siempre tiene matices de año. Algunos años el Vi RAS tiene más burbuja, otros menos. Algunos años es casi seco, otros tiene un toque frutal más evidente. Esa variabilidad, para nosotros, es parte de lo que ofrece.",
+      "p7": "Y el motivo poético: el método ancestral tiene cuatrocientos años. Hacerlo hoy es una manera de participar en una cadena larga, de estar en diálogo con los que lo inventaron antes de que existieran los termómetros o los densímetros.",
+      "h_3": "Cómo servirlo",
+      "p8": "Un vino ancestral pide un trato un poco distinto del de un champán. Primero, no debe estar helado. Entre 8 y 10 grados es suficiente: demasiado frío y la burbuja se esconde, demasiado cálido y el alcohol resalta. Segundo, usa una copa más abierta que la flauta clásica: la copa de vino blanco va bien, deja que los aromas se expresen. Tercero, no muevas la botella justo antes de abrirla: como no ha sido filtrado, puede haber un sedimento de levaduras en el fondo que no necesitas despertar.",
+      "p9": "Y si puedes, ábrelo con alguien. Un Vi RAS abierto en solitario está bien. Abierto con una tabla de quesos y alguien con quien discutirlos, mejor."
+    },
+    "olivers_centenaris": {
+      "title": "Nuestros olivos de quinientos años",
+      "cat": "Aceite",
+      "date": "Diciembre 2024",
+      "hero_alt": "Olivo centenario",
+      "p1": "Hay árboles que son contemporáneos nuestros y hay árboles ante los cuales somos una anécdota. La Vera del Montserratí es de estos últimos. Los ejemplares más antiguos conocidos de esta variedad, en el Palomar de Gatillepes, tienen unos quinientos años. Estaban aquí cuando Cataluña aún no era España, y probablemente seguirán ahí cuando hablar catalán sea otra manera de entender el mundo.",
+      "h_1": "Una variedad casi perdida",
+      "p2": "La Vera del Montserratí es una variedad autóctona del macizo de Montserrat y sus alrededores. No es la Arbequina — la estrella comercial catalana — ni la Empeltre, ni la Picual. Es una variedad local, adaptada al suelo y el clima de esta franja concreta, y durante el siglo XX estuvo a punto de desaparecer. La Arbequina daba más, se plantaba más fácilmente, tenía un mercado más claro. La Vera quedó en los rincones, en los campos viejos, en los olivos que los campesinos no arrancaron porque les daba respeto hacerlo.",
+      "p3": "Lo mismo ocurre con otras variedades de la zona — la Palomar de Olesa, por ejemplo — que sobreviven casi solo en ejemplares aislados. Perderlas es perder biodiversidad, pero también es perder un tipo de aceite concreto: la Vera del Montserratí da un aceite más estructurado que la Arbequina, con notas amargas y picantes más marcadas, una personalidad distinta.",
+      "h_2": "El proyecto de injerto",
+      "p4": "En 2020 empezamos un proyecto lento: plantar unos cuatrocientos olivos jóvenes e injertarlos progresivamente con material vegetal de los olivos centenarios de la Vera del Montserratí y la Palomar de Olesa. Injertar un olivo no es como empeltar una viña. Requiere paciencia, conocimiento de la madera, un tempo vegetal que no se puede acelerar. Un injerto puede tardar cinco o diez años antes de dar fruto regular.",
+      "p5": "¿Por qué lo hacemos? En parte porque es un trabajo honesto. No ganaremos ningún premio con esto, y no nos pagará el trabajo a corto plazo. Pero si dentro de veinte años tenemos unos cuantos olivos de variedades que estaban en peligro de extinguirse, y si otro campesino nos puede pedir material para hacer lo mismo, habremos hecho algo que tiene sentido.",
+      "h_3": "Los olivos centenarios que ya estaban",
+      "p6": "Aparte de este proyecto, la finca conserva unos cien olivos centenarios de Arbequina que ya estaban cuando llegamos. No sabemos con exactitud cuántos años tienen — haría falta un estudio dendrocronológico y no es nuestra prioridad — pero algunos de estos troncos tienen una masa y una circunferencia que solo se acumula en muchas décadas.",
+      "p7": "Cuidarlos es distinto de cuidar olivos jóvenes. Necesitan una poda más ligera, un riego sensible, una comprensión de que son árboles que ya han encontrado su forma. La poda excesiva los estresa; el riego abundante puede dañar las raíces. Con ellos, el trabajo principal es no hacer demasiado.",
+      "h_4": "Qué se gana",
+      "p8": "Un aceite que viene de olivos de setenta, cien o doscientos años no es igual que un aceite que viene de olivos de diez años. No es solo una cuestión de aromas: es una cuestión de profundidad. Las raíces de los árboles viejos llegan a niveles de suelo que las jóvenes aún no conocen. Los minerales que extraen son distintos. El tiempo en que han acumulado reservas es mucho más largo.",
+      "p9": "Esto no significa que un aceite de olivos jóvenes sea malo; solo distinto. Pero si algún día tienes ocasión de probar un aceite hecho exclusivamente con olivos centenarios de una variedad autóctona rara, hazlo. Sabrás que estás probando algo que no se fabrica: se traslada, generación tras generación, de campesino a campesino, de árbol a árbol."
+    },
+    "related_title": "Artículos relacionados",
+    "share_title": "Compartir",
+    "share_instagram": "Instagram",
+    "share_copy": "Copiar enlace",
+    "share_copied": "Copiado"
+  },
+  "info": {
+    "title_prefix": "Información nutricional",
+    "ingredients_label": "Ingredientes",
+    "energy_label": "Valor energético",
+    "per_100ml": "por 100 ml",
+    "per_serving": "por copa (125 ml)",
+    "fat": "Grasas",
+    "saturated": "de las cuales saturadas",
+    "carbs": "Hidratos de carbono",
+    "sugars": "de los cuales azúcares",
+    "protein": "Proteínas",
+    "salt": "Sal",
+    "alcohol": "Alcohol",
+    "sulfites": "Contiene sulfitos naturales de la fermentación",
+    "producer": "Productor",
+    "address": "Els Hostalets de Pierola, Cataluña",
+    "more_info": "Más información",
+    "back": "Volver a la página del vino"
+  }
+}
