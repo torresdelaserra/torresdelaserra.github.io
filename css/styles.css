@@ -270,6 +270,71 @@ section { padding: var(--space-xl) 0; }
 .hero .eyebrow { color: rgba(255,255,255,0.85); }
 .hero .lead { color: rgba(255,255,255,0.9); max-width: 620px; margin: 0 auto 2.5rem; }
 
+.hero-home {
+  min-height: auto;
+  color: var(--color-text);
+  background:
+    radial-gradient(circle at top right, rgba(184, 146, 90, 0.14), transparent 34%),
+    linear-gradient(180deg, var(--color-paper) 0%, var(--color-bg) 100%);
+  padding: 9rem 0 4rem;
+}
+.hero-home-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1.1fr) minmax(340px, 0.9fr);
+  gap: var(--space-xl);
+  align-items: center;
+}
+.hero-home .hero-content {
+  max-width: 700px;
+  padding: 0;
+  text-align: left;
+}
+.hero-home h1 {
+  color: var(--color-olive);
+  margin-bottom: 1.5rem;
+}
+.hero-home .lead {
+  color: var(--color-text-muted);
+  margin: 0 0 2.25rem;
+  max-width: 34rem;
+}
+.hero-home .hero-home-media {
+  aspect-ratio: 4 / 5;
+  background: rgba(250, 247, 241, 0.8);
+  border: 1px solid rgba(184, 146, 90, 0.28);
+  padding: 1.25rem;
+  box-shadow: 0 24px 70px rgba(42, 42, 40, 0.08);
+}
+.hero-home .hero-home-media img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 34%;
+}
+.hero-home .scroll-indicator,
+.hero-home .hero-bg,
+.hero-home .hero-overlay {
+  display: none;
+}
+
+@media (max-width: 900px) {
+  .hero-home {
+    padding: 7.5rem 0 3rem;
+  }
+  .hero-home-layout {
+    grid-template-columns: 1fr;
+    gap: var(--space-md);
+  }
+  .hero-home .hero-content {
+    order: 2;
+  }
+  .hero-home .hero-home-media {
+    order: 1;
+    aspect-ratio: 5 / 4;
+    padding: 0.85rem;
+  }
+}
+
 .hero-small {
   min-height: 60vh;
 }
@@ -715,21 +780,12 @@ section { padding: var(--space-xl) 0; }
 }
 
 @media (max-width: 640px) {
-  .hero {
-    min-height: auto;
-    aspect-ratio: 4 / 5;
-    align-items: flex-end;
+  .hero-home .hero-home-media {
+    aspect-ratio: 1 / 1;
   }
-  .hero-content {
-    padding-top: 7rem;
-    padding-bottom: 4rem;
-  }
-  .hero-bg {
-    background: linear-gradient(180deg, #d8d0c3 0%, #f5f1ea 100%);
-  }
-  .hero-main-image {
+  .hero-home .hero-home-media img {
     object-fit: contain;
-    object-position: center top;
+    object-position: center;
   }
   .journal-card-img-terroir {
     background: var(--color-paper);
