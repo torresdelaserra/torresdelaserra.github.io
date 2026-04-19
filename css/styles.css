@@ -302,7 +302,7 @@ section { padding: var(--space-xl) 0; }
   aspect-ratio: 4 / 5;
   background: rgba(250, 247, 241, 0.8);
   border: 1px solid rgba(184, 146, 90, 0.28);
-  padding: 1.25rem;
+  padding: 0.65rem;
   box-shadow: 0 24px 70px rgba(42, 42, 40, 0.08);
 }
 .hero-home .hero-home-media img {
@@ -331,7 +331,7 @@ section { padding: var(--space-xl) 0; }
   .hero-home .hero-home-media {
     order: 1;
     aspect-ratio: 5 / 4;
-    padding: 0.85rem;
+    padding: 0.5rem;
   }
 }
 
@@ -428,10 +428,22 @@ section { padding: var(--space-xl) 0; }
   justify-content: center;
   overflow: hidden;
   margin-bottom: 1.25rem;
-  padding: 2rem;
+  padding: 1rem;
 }
-.product-card-img img { max-height: 100%; width: auto; object-fit: contain; transition: transform 800ms var(--ease); }
-.product-card:hover .product-card-img img { transform: scale(1.04); }
+.product-card-img img { max-height: 100%; width: auto; object-fit: contain; transition: none; }
+.product-bottle {
+  width: 100%;
+  height: 100%;
+  max-height: none;
+  object-fit: contain;
+  object-position: center bottom;
+  transform: scale(var(--bottle-scale, 1));
+  transform-origin: center bottom;
+}
+.product-bottle-viras { --bottle-scale: 1.32; }
+.product-bottle-espavila { --bottle-scale: 1.4; }
+.product-bottle-revifa { --bottle-scale: 1.38; }
+.product-bottle-ingravid { --bottle-scale: 1.28; }
 .product-card h3 { font-family: var(--font-display); font-size: 1.75rem; font-weight: 400; margin-bottom: 0.35rem; position: relative; display: inline-block; padding-bottom: 4px; }
 .product-card h3::after {
   content: "";
@@ -481,10 +493,41 @@ section { padding: var(--space-xl) 0; }
 @media (max-width: 900px) { .journal-grid { grid-template-columns: 1fr; } }
 
 .journal-card { display: block; }
-.journal-card-img { aspect-ratio: 4/5; overflow: hidden; margin-bottom: 1.5rem; background: var(--color-bg-alt); }
-.journal-card-img img { width: 100%; height: 100%; object-fit: cover; transition: transform 1.2s var(--ease); }
-.journal-terroir-image { object-position: center 35%; }
-.journal-card:hover .journal-card-img img { transform: scale(1.04); }
+.journal-card-img {
+  aspect-ratio: 4/5;
+  overflow: hidden;
+  margin-bottom: 1.5rem;
+  background: var(--color-paper);
+}
+.journal-card-img img { width: 100%; height: 100%; object-fit: cover; transition: none; }
+.journal-card-img-bottle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--color-paper);
+  padding: 1rem;
+}
+.journal-card-visual {
+  width: 100%;
+  height: 100%;
+  object-position: center;
+}
+.journal-card-img-bottle .journal-card-visual {
+  object-fit: contain;
+  object-position: center bottom;
+  transform: scale(var(--journal-visual-scale, 1));
+  transform-origin: center bottom;
+}
+.journal-card-img-terroir {
+  background: var(--color-paper);
+  padding: 1rem;
+}
+.journal-card-img-terroir .journal-card-visual {
+  object-fit: cover;
+  object-position: center 38%;
+}
+.journal-card-visual-ingravid { --journal-visual-scale: 1.3; }
+.journal-card-visual-ancestral { --journal-visual-scale: 1.4; }
 .journal-card .meta { display: flex; gap: 1rem; font-size: 0.75rem; letter-spacing: 0.15em; text-transform: uppercase; color: var(--color-text-muted); margin-bottom: 0.75rem; }
 .journal-card .meta .cat { color: var(--color-wine); font-weight: 500; }
 .journal-card h3 { font-family: var(--font-display); font-size: 1.5rem; font-weight: 400; line-height: 1.2; margin-bottom: 0.6rem; transition: color var(--transition); }
@@ -750,6 +793,31 @@ section { padding: var(--space-xl) 0; }
 .site-footer ul li { margin-bottom: 0.6rem; }
 .site-footer a { transition: color var(--transition); }
 .site-footer a:hover { color: var(--color-gold); }
+.social-link {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.7rem;
+  text-align: center;
+}
+.social-icon {
+  width: 2.3rem;
+  height: 2.3rem;
+  padding: 0.55rem;
+  border-radius: 0.95rem;
+  background:
+    radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 8%, #fd5949 45%, #d6249f 60%, #285aeb 92%);
+  stroke: #fff;
+  fill: none;
+  stroke-width: 1.8;
+  box-sizing: content-box;
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.16);
+}
+.social-link span {
+  display: block;
+  font-size: 0.85rem;
+  letter-spacing: 0.08em;
+}
 
 .footer-bottom {
   padding-top: 2rem;
@@ -789,9 +857,12 @@ section { padding: var(--space-xl) 0; }
   }
   .journal-card-img-terroir {
     background: var(--color-paper);
-    padding: 1rem;
+    padding: 0.85rem;
   }
-  .journal-terroir-image {
+  .journal-card-img-bottle {
+    padding: 0.85rem;
+  }
+  .journal-card-img-terroir .journal-card-visual {
     object-fit: contain;
     object-position: center;
   }
