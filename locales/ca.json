@@ -1,14 +1,14 @@
 {
   "meta": {
     "home_title": "Torres de la Serra — Vins naturals i oli verge extra · Montserrat",
-    "home_desc": "Petits productors de vins naturals i oli d'oliva verge extra a Els Hostalets de Pierola, a l'ombra de Montserrat. Mètode ancestral, sense sulfits afegits.",
+    "home_desc": "Petits productors de vins naturals i oli d'oliva verge extra a Els Hostalets de Pierola, al parc rural de Montserrat. Mètode ancestral, sense sulfits afegits.",
     "vins_title": "Els nostres vins naturals — Torres de la Serra",
     "vins_desc": "Quatre vins naturals elaborats pel mètode ancestral a Els Hostalets de Pierola: Vi RAS Orange, Espavila, reVIfa i Ingràvid.",
     "oli_title": "Oli d'oliva verge extra d'oliveres centenàries — Torres de la Serra",
-    "oli_desc": "Arbequina premsada en fred d'oliveres centenàries, cultivada a l'ombra de Montserrat. Disponible en formats de 250 ml a 5 L.",
-    "historia_title": "La nostra història — Torres de la Serra",
+    "oli_desc": "Arbequina premsada en fred d'oliveres centenàries, cultivada al parc rural de Montserrat. Disponible en formats de 250 ml a 5 L.",
+    "historia_title": "Història — Torres de la Serra",
     "historia_desc": "Projecte familiar iniciat el 2015 a Els Hostalets de Pierola. Viticultura i olivicultura respectuoses amb la terra i el temps.",
-    "journal_title": "Journal — Apunts sobre vi, oli i terra | Torres de la Serra",
+    "journal_title": "Article — Apunts sobre vi, oli i terra | Torres de la Serra",
     "journal_desc": "Assajos i notes sobre vi natural, terroir, oli d'oliva i agricultura de petita escala a l'Anoia.",
     "contacte_title": "Contacte — Torres de la Serra",
     "contacte_desc": "Escriu-nos per concertar visites a la finca, fer comandes o col·laboracions. Els Hostalets de Pierola, Catalunya."
@@ -16,8 +16,9 @@
   "nav": {
     "vins": "Vins",
     "oli": "Oli",
-    "historia": "La nostra història",
-    "journal": "Journal",
+    "historia": "Història",
+    "journal": "Article",
+    "store": "Botiga",
     "contacte": "Contacte",
     "menu_open": "Obrir menú",
     "menu_close": "Tancar menú"
@@ -25,7 +26,7 @@
   "home": {
     "hero": {
       "eyebrow": "Petits productors · Els Hostalets de Pierola",
-      "title": "Vins naturals i oli verge extra elaborats a l'ombra de Montserrat",
+      "title": "Vins naturals i oli verge extra elaborats al parc rural de Montserrat",
       "subtitle": "Un projecte familiar que honora la terra, el temps i el mètode artesanal.",
       "cta": "Descobreix els nostres vins"
     },
@@ -55,12 +56,12 @@
     },
     "historia_preview": {
       "eyebrow": "Des de 2015",
-      "title": "Una finca a l'ombra de Montserrat",
+      "title": "Una finca al parc rural de Montserrat",
       "body": "Vam arribar a aquesta terra el 2015. Des d'aleshores, no hem deixat de plantar, d'injertar, de provar, d'aprendre. La finca té vinyes dels anys 80, oliveres centenàries, i moltes ganes de durar.",
-      "cta": "Llegir la nostra història"
+      "cta": "Llegir la història"
     },
     "journal": {
-      "eyebrow": "Journal",
+      "eyebrow": "Article",
       "title": "Notes sobre vi, oli i terra"
     }
   },
@@ -72,7 +73,7 @@
       "name": "Vi RAS",
       "sub": "Orange 2023",
       "type": "Vi taronja · ancestral",
-      "desc": "Vi jove escumós elaborat pel mètode ancestral sense filtrar. Vinyes sobre sòl argilós a l'ombra de Montserrat. Primera fermentació amb les seves pells per transferir el color característic, la textura i els matisos aromàtics.",
+      "desc": "Vi jove escumós elaborat pel mètode ancestral sense filtrar. Vinyes sobre sòl argilós al parc rural de Montserrat. Primera fermentació amb les seves pells per transferir el color característic, la textura i els matisos aromàtics.",
       "variety": "65% Parellada · 35% Chardonnay",
       "method": "Mètode ancestral, contacte amb pells",
       "style": "Taronja, escumós, no filtrat"
@@ -113,7 +114,7 @@
   "oil": {
     "hero_eyebrow": "Oli d'oliva verge extra",
     "hero_title": "Arbequina",
-    "hero_sub": "D'oliveres centenàries a l'ombra de Montserrat",
+    "hero_sub": "D'oliveres centenàries al parc rural de Montserrat",
     "story": {
       "eyebrow": "L'olivera que ens va trobar",
       "title": "Cent oliveres ja hi eren",
@@ -141,14 +142,14 @@
   },
   "history": {
     "hero_eyebrow": "Des de 2015",
-    "hero_title": "La nostra història",
+    "hero_title": "Història",
     "intro": "Torres de la Serra és un projecte familiar que va començar el 2015 amb l'adquisició d'una finca a Els Hostalets de Pierola.",
     "body_1": "La finca ens va arribar a les mans amb dos tresors que ja hi eren: vinyes de Parellada dels anys vuitanta cultivades en vas — la forma tradicional mediterrània — i un centenar d'oliveres centenàries de varietat Arbequina. No ens va caldre començar de zero: vam començar escoltant.",
     "body_2": "Des d'aleshores no hem deixat de treballar la terra amb paciència i ambició a llarg termini. Hem plantat noves vinyes de Parellada, Cabernet Sauvignon i Garnatxa Negra, i hem incorporat un camp de Chardonnay d'uns vint anys i un altre de Xarel·lo de deu. Cinc varietats que ens permeten elaborar vins amb personalitats molt diferents, tots sota el mateix principi: intervenció mínima, fermentació espontània i sense sulfits afegits.",
     "body_3": "Amb els olivers l'ambició és encara més gran. Hem plantat uns sis-cents olivers més: dos-cents d'Arbequina i quatre-cents que estem injertant amb varietats autòctones gairebé perdudes. Dos-cents els convertirem en Vera del Montserratí i Palomar de Olesa, aprofitant material dels olivers de Palomar de Gatillepes — els exemplars més antics existents d'aquesta varietat, amb uns cinc-cents anys d'història al damunt. És la nostra petita contribució a conservar un patrimoni vegetal que sense aquests injerts es perdria.",
     "body_4": "Creiem que la terra ens dóna el que li donem. Per això treballem a petita escala, sense herbicides, sense pesticides sistèmics, i deixant que cada anyada s'expressi com és. No fem el mateix vi cada any; fem el vi que la verema ens regala cada any.",
     "terroir_title": "La terra",
-    "terroir_body": "La finca s'estén sobre sòls argilosos, a mitja alçada, orientada de manera que rep la llum del matí i l'ombra de Montserrat a la tarda. La muntanya no és només un paisatge: condiciona el microclima, les tèrmiques, la humitat, i deixa la seva empremta mineral a cada verema.",
+    "terroir_body": "La finca s'estén sobre sòls argilosos dins del parc rural de Montserrat, a mitja alçada i amb una orientació que afavoreix la llum del matí. El massís no és només un paisatge: condiciona el microclima, les tèrmiques, la humitat, i deixa la seva empremta mineral a cada verema.",
     "family_title": "La família",
     "family_body": "Som una família que no ve de generacions de viticultors. Vam arribar al vi pel respecte a la terra i per la curiositat d'entendre què pot dir aquest tros concret del planeta quan el deixes parlar. Treballem a dues mans, amb l'ajuda puntual de veïns i amics cada verema.",
     "timeline_title": "Línia del temps",
@@ -159,7 +160,7 @@
     "tl_2020_2026": "Projecte d'injert d'oliveres amb varietats autòctones (Vera del Montserratí, Palomar de Olesa)."
   },
   "journal": {
-    "hero_eyebrow": "Journal",
+    "hero_eyebrow": "Article",
     "hero_title": "Apunts sobre vi, oli i terra",
     "intro": "No és un blog. Són quatre o cinc assaigs llargs, escrits quan tenim alguna cosa a dir. Sobre el vi natural, sobre Montserrat, sobre les oliveres centenàries, i sobre per què val la pena treballar en petita escala.",
     "read": "Llegir",
@@ -169,7 +170,7 @@
     "art_1_excerpt": "Un terme que s'utilitza molt i es defineix poc. Intentem explicar-lo de manera rigorosa però accessible.",
     "art_2_cat": "Terroir",
     "art_2_date": "Febrer 2025",
-    "art_2_title": "El terroir a l'ombra de Montserrat",
+    "art_2_title": "El terroir al parc rural de Montserrat",
     "art_2_excerpt": "Què aporta la muntanya al nostre vi? Sòls, altitud, microclima i una presència que no es pot imitar.",
     "art_3_cat": "Enologia",
     "art_3_date": "Gener 2025",
@@ -204,7 +205,7 @@
     "form_config": "El formulari encara no està configurat. Escriu-nos directament a torresdelaserra@gmail.com."
   },
   "footer": {
-    "tagline": "Petits productors a l'ombra de Montserrat",
+    "tagline": "Petits productors al parc rural de Montserrat",
     "nav_title": "Navegació",
     "contact_title": "Contacte",
     "follow_title": "Segueix-nos",
@@ -217,14 +218,14 @@
     "method": "Mètode",
     "style": "Estil",
     "qr_index": "Tornar a l'índex QR",
-    "journal_home": "Journal"
+    "journal_home": "Article"
   },
   "articles": {
     "vi_natural": {
       "title": "Què vol dir vi natural?",
       "cat": "Vi natural",
       "date": "Març 2025",
-      "hero_alt": "Vinyes a l'ombra de Montserrat",
+      "hero_alt": "Vinyes al parc rural de Montserrat",
       "p1": "Vi natural és un terme que s'utilitza molt i es defineix poc. No hi ha una regulació oficial a Espanya ni a la Unió Europea, i això genera confusió tant al celler com al consumidor. Val la pena, abans d'entrar en discussions, posar sobre la taula què entenem nosaltres quan diem que el nostre vi és natural.",
       "p2": "La definició més compartida dins del sector el descriu com un vi elaborat a partir de raïm cultivat sense herbicides ni pesticides sistèmics, vinificat amb llevats indígenes, fermentat de manera espontània, sense aditius enològics i sense sulfits afegits — o amb una quantitat mínima afegida només a l'embotellat. No es filtra agressivament ni es clarifica amb productes d'origen animal. Dit de manera més senzilla: és vi de raïm i prou.",
       "h_1": "Què no és un vi natural",
@@ -238,7 +239,7 @@
       "p8": "Si és el primer vi natural que obriu, un consell: agiteu l'ampolla suaument abans de servir si hi veieu un sediment al fons, serviu-lo un punt més fred del que serviríeu un vi convencional de la mateixa tipologia, i doneu-li uns minuts a la copa abans de jutjar-lo. Els vins naturals necessiten una mica d'aire per expressar-se."
     },
     "terroir": {
-      "title": "El terroitori a l'ombra de Montserrat",
+      "title": "El terroir al parc rural de Montserrat",
       "cat": "Terroir",
       "date": "Febrer 2025",
       "hero_alt": "Vista de Montserrat des de la finca",

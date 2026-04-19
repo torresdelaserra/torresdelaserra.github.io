@@ -302,7 +302,7 @@ section { padding: var(--space-xl) 0; }
   aspect-ratio: 4 / 5;
   background: rgba(250, 247, 241, 0.8);
   border: 1px solid rgba(184, 146, 90, 0.28);
-  padding: 1.25rem;
+  padding: 0.65rem;
   box-shadow: 0 24px 70px rgba(42, 42, 40, 0.08);
 }
 .hero-home .hero-home-media img {
@@ -331,7 +331,7 @@ section { padding: var(--space-xl) 0; }
   .hero-home .hero-home-media {
     order: 1;
     aspect-ratio: 5 / 4;
-    padding: 0.85rem;
+    padding: 0.5rem;
   }
 }
 
@@ -428,7 +428,7 @@ section { padding: var(--space-xl) 0; }
   justify-content: center;
   overflow: hidden;
   margin-bottom: 1.25rem;
-  padding: 2rem;
+  padding: 1rem;
 }
 .product-card-img img { max-height: 100%; width: auto; object-fit: contain; transition: transform 800ms var(--ease); }
 .product-card:hover .product-card-img img { transform: scale(1.04); }
@@ -750,6 +750,18 @@ section { padding: var(--space-xl) 0; }
 .site-footer ul li { margin-bottom: 0.6rem; }
 .site-footer a { transition: color var(--transition); }
 .site-footer a:hover { color: var(--color-gold); }
+.social-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
+}
+.social-icon {
+  width: 0.95rem;
+  height: 0.95rem;
+  stroke: currentColor;
+  fill: none;
+  stroke-width: 1.8;
+}
 
 .footer-bottom {
   padding-top: 2rem;
@@ -789,7 +801,7 @@ section { padding: var(--space-xl) 0; }
   }
   .journal-card-img-terroir {
     background: var(--color-paper);
-    padding: 1rem;
+    padding: 0.5rem;
   }
   .journal-terroir-image {
     object-fit: contain;

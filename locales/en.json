@@ -1,14 +1,14 @@
 {
   "meta": {
     "home_title": "Torres de la Serra — Natural wines & extra virgin olive oil · Montserrat",
-    "home_desc": "Small-scale producers of natural wines and extra virgin olive oil in Els Hostalets de Pierola, in the shadow of Montserrat. Ancestral method, no added sulphites.",
+    "home_desc": "Small-scale producers of natural wines and extra virgin olive oil in Els Hostalets de Pierola, in Montserrat Rural Park. Ancestral method, no added sulphites.",
     "vins_title": "Our natural wines — Torres de la Serra",
     "vins_desc": "Four natural wines made using the ancestral method in Els Hostalets de Pierola: Vi RAS Orange, Espavila, reVIfa and Ingràvid.",
     "oli_title": "Extra virgin olive oil from centenary olive trees — Torres de la Serra",
-    "oli_desc": "Cold-pressed Arbequina from centenary olive trees grown in the shadow of Montserrat. Available from 250 ml to 5 L.",
-    "historia_title": "Our story — Torres de la Serra",
+    "oli_desc": "Cold-pressed Arbequina from centenary olive trees grown in Montserrat Rural Park. Available from 250 ml to 5 L.",
+    "historia_title": "History — Torres de la Serra",
     "historia_desc": "A family project started in 2015 in Els Hostalets de Pierola. Viticulture and olive growing with respect for the land and for time.",
-    "journal_title": "Journal — Notes on wine, oil and land | Torres de la Serra",
+    "journal_title": "Article — Notes on wine, oil and land | Torres de la Serra",
     "journal_desc": "Essays and notes on natural wine, terroir, olive oil and small-scale agriculture in the Anoia region.",
     "contacte_title": "Contact — Torres de la Serra",
     "contacte_desc": "Write to us to arrange a visit, place an order or discuss collaborations. Els Hostalets de Pierola, Catalonia."
@@ -16,8 +16,9 @@
   "nav": {
     "vins": "Wines",
     "oli": "Oil",
-    "historia": "Our story",
-    "journal": "Journal",
+    "historia": "History",
+    "journal": "Article",
+    "store": "Shop",
     "contacte": "Contact",
     "menu_open": "Open menu",
     "menu_close": "Close menu"
@@ -25,7 +26,7 @@
   "home": {
     "hero": {
       "eyebrow": "Small producers · Els Hostalets de Pierola",
-      "title": "Natural wines and extra virgin olive oil made in the shadow of Montserrat",
+      "title": "Natural wines and extra virgin olive oil made in Montserrat Rural Park",
       "subtitle": "A family project that honours the land, time and the handmade method.",
       "cta": "Discover our wines"
     },
@@ -55,12 +56,12 @@
     },
     "historia_preview": {
       "eyebrow": "Since 2015",
-      "title": "An estate in the shadow of Montserrat",
+      "title": "An estate in Montserrat Rural Park",
       "body": "We came to this land in 2015. Since then we have not stopped planting, grafting, trying, learning. The estate holds vines from the 1980s, centenary olive trees, and a long-term ambition.",
-      "cta": "Read our story"
+      "cta": "Read the story"
     },
     "journal": {
-      "eyebrow": "Journal",
+      "eyebrow": "Article",
       "title": "Notes on wine, oil and land"
     }
   },
@@ -72,7 +73,7 @@
       "name": "Vi RAS",
       "sub": "Orange 2023",
       "type": "Orange wine · ancestral",
-      "desc": "A young sparkling wine made using the ancestral method, unfiltered. Vines grown on clay soil in the shadow of Montserrat. First fermentation on skins to transfer the characteristic colour, texture and aromatic nuance.",
+      "desc": "A young sparkling wine made using the ancestral method, unfiltered. Vines grown on clay soil in Montserrat Rural Park. First fermentation on skins to transfer the characteristic colour, texture and aromatic nuance.",
       "variety": "65% Parellada · 35% Chardonnay",
       "method": "Ancestral method, skin contact",
       "style": "Orange, sparkling, unfiltered"
@@ -113,7 +114,7 @@
   "oil": {
     "hero_eyebrow": "Extra virgin olive oil",
     "hero_title": "Arbequina",
-    "hero_sub": "From centenary olive trees in the shadow of Montserrat",
+    "hero_sub": "From centenary olive trees in Montserrat Rural Park",
     "story": {
       "eyebrow": "The olive tree that found us",
       "title": "A hundred trees were already here",
@@ -141,14 +142,14 @@
   },
   "history": {
     "hero_eyebrow": "Since 2015",
-    "hero_title": "Our story",
+    "hero_title": "History",
     "intro": "Torres de la Serra is a family project that began in 2015 with the purchase of an estate in Els Hostalets de Pierola.",
     "body_1": "The estate came to us with two treasures already in place: 1980s Parellada vines grown in the traditional Mediterranean bush form, and around a hundred centenary Arbequina olive trees. We didn't have to start from zero: we started by listening.",
     "body_2": "Since then we have been working the land with patience and long-term ambition. We have planted new vines of Parellada, Cabernet Sauvignon and Grenache, and added an existing twenty-year-old Chardonnay plot and a ten-year-old Xarel·lo one. Five varieties that let us make very different wines, all under the same principle: minimal intervention, spontaneous fermentation, no added sulphites.",
     "body_3": "With the olive trees our ambition is even larger. We have planted about six hundred more: two hundred Arbequina and four hundred we are grafting with nearly-lost native varieties. Two hundred will become Vera del Montserratí and Palomar de Olesa, using material from the Palomar de Gatillepes olive trees — the oldest known specimens of that variety, with about five hundred years of history on their backs. It is our small contribution to preserving a plant heritage that without these grafts would be lost.",
     "body_4": "We believe the land gives back what you give it. That is why we work at a small scale, without herbicides, without systemic pesticides, and letting each vintage express itself as it is. We don't make the same wine every year; we make the wine that each harvest gives us.",
     "terroir_title": "The land",
-    "terroir_body": "The estate extends over clay soils, at mid-elevation, oriented so that it catches the morning light and the afternoon shade of Montserrat. The mountain is not just a view: it shapes the microclimate, the thermal winds, the humidity, and leaves its mineral imprint on every harvest.",
+    "terroir_body": "The estate extends over clay soils within Montserrat Rural Park, at mid-elevation and with an orientation that favours the morning light. The massif is not just a view: it shapes the microclimate, the thermal winds, the humidity, and leaves its mineral imprint on every harvest.",
     "family_title": "The family",
     "family_body": "We are a family that doesn't come from generations of winemakers. We came to wine through respect for the land and through curiosity about what this particular piece of the planet has to say when you let it speak. We work with two hands, with help from neighbours and friends at each harvest.",
     "timeline_title": "Timeline",
@@ -159,7 +160,7 @@
     "tl_2020_2026": "Ongoing grafting project for native olive varieties (Vera del Montserratí, Palomar de Olesa)."
   },
   "journal": {
-    "hero_eyebrow": "Journal",
+    "hero_eyebrow": "Article",
     "hero_title": "Notes on wine, oil and land",
     "intro": "This isn't a blog. It is four or five long essays, written when we have something to say. About natural wine, about Montserrat, about the centenary olive trees, and about why working at a small scale is worth it.",
     "read": "Read",
@@ -169,7 +170,7 @@
     "art_1_excerpt": "A term often used and rarely defined. We try to explain it rigorously but plainly.",
     "art_2_cat": "Terroir",
     "art_2_date": "February 2025",
-    "art_2_title": "Terroir in the shadow of Montserrat",
+    "art_2_title": "Terroir in Montserrat Rural Park",
     "art_2_excerpt": "What does the mountain give our wine? Soils, altitude, microclimate, and a presence that can't be faked.",
     "art_3_cat": "Winemaking",
     "art_3_date": "January 2025",
@@ -204,7 +205,7 @@
     "form_config": "The form is not yet configured. Please email us directly at torresdelaserra@gmail.com."
   },
   "footer": {
-    "tagline": "Small producers in the shadow of Montserrat",
+    "tagline": "Small producers in Montserrat Rural Park",
     "nav_title": "Navigation",
     "contact_title": "Contact",
     "follow_title": "Follow us",
@@ -217,14 +218,14 @@
     "method": "Method",
     "style": "Style",
     "qr_index": "Back to QR index",
-    "journal_home": "Journal"
+    "journal_home": "Article"
   },
   "articles": {
     "vi_natural": {
       "title": "What does natural wine mean?",
       "cat": "Natural wine",
       "date": "March 2025",
-      "hero_alt": "Vines in the shadow of Montserrat",
+      "hero_alt": "Vines in Montserrat Rural Park",
       "p1": "Natural wine is a term often used and rarely defined. There is no official regulation in Spain or in the European Union, and this creates confusion for producers and consumers alike. Before entering any argument, it's worth saying what we mean when we call our wine natural.",
       "p2": "The most widely shared definition within the trade describes it as a wine made from grapes grown without herbicides or systemic pesticides, vinified with native yeasts, spontaneously fermented, with no oenological additives and no added sulphites — or with a minimal amount added only at bottling. It isn't filtered aggressively, and it isn't fined with animal-derived products. In plainer words: it is wine made of grapes, and little else.",
       "h_1": "What natural wine isn't",
@@ -238,7 +239,7 @@
       "p8": "If it's your first natural wine, a tip: shake the bottle gently before serving if you see sediment, serve it slightly cooler than you would a conventional wine of the same style, and give it a few minutes in the glass before judging. Natural wines need a little air to open up."
     },
     "terroir": {
-      "title": "Terroir in the shadow of Montserrat",
+      "title": "Terroir in Montserrat Rural Park",
       "cat": "Terroir",
       "date": "February 2025",
       "hero_alt": "View of Montserrat from the estate",

@@ -1,14 +1,14 @@
 {
   "meta": {
     "home_title": "Torres de la Serra — Vinos naturales y aceite virgen extra · Montserrat",
-    "home_desc": "Pequeños productores de vinos naturales y aceite de oliva virgen extra en Els Hostalets de Pierola, a la sombra de Montserrat. Método ancestral, sin sulfitos añadidos.",
+    "home_desc": "Pequeños productores de vinos naturales y aceite de oliva virgen extra en Els Hostalets de Pierola, en el parque rural de Montserrat. Método ancestral, sin sulfitos añadidos.",
     "vins_title": "Nuestros vinos naturales — Torres de la Serra",
     "vins_desc": "Cuatro vinos naturales elaborados por el método ancestral en Els Hostalets de Pierola: Vi RAS Orange, Espavila, reVIfa e Ingràvid.",
     "oli_title": "Aceite de oliva virgen extra de olivos centenarios — Torres de la Serra",
-    "oli_desc": "Arbequina prensada en frío de olivos centenarios, cultivada a la sombra de Montserrat. Disponible en formatos de 250 ml a 5 L.",
-    "historia_title": "Nuestra historia — Torres de la Serra",
+    "oli_desc": "Arbequina prensada en frío de olivos centenarios, cultivada en el parque rural de Montserrat. Disponible en formatos de 250 ml a 5 L.",
+    "historia_title": "Historia — Torres de la Serra",
     "historia_desc": "Proyecto familiar iniciado en 2015 en Els Hostalets de Pierola. Viticultura y olivicultura respetuosas con la tierra y el tiempo.",
-    "journal_title": "Journal — Apuntes sobre vino, aceite y tierra | Torres de la Serra",
+    "journal_title": "Artículo — Apuntes sobre vino, aceite y tierra | Torres de la Serra",
     "journal_desc": "Ensayos y notas sobre vino natural, terroir, aceite de oliva y agricultura de pequeña escala en la Anoia.",
     "contacte_title": "Contacto — Torres de la Serra",
     "contacte_desc": "Escríbenos para concertar visitas a la finca, hacer pedidos o colaboraciones. Els Hostalets de Pierola, Cataluña."
@@ -16,8 +16,9 @@
   "nav": {
     "vins": "Vinos",
     "oli": "Aceite",
-    "historia": "Nuestra historia",
-    "journal": "Journal",
+    "historia": "Historia",
+    "journal": "Artículo",
+    "store": "Tienda",
     "contacte": "Contacto",
     "menu_open": "Abrir menú",
     "menu_close": "Cerrar menú"
@@ -25,7 +26,7 @@
   "home": {
     "hero": {
       "eyebrow": "Pequeños productores · Els Hostalets de Pierola",
-      "title": "Vinos naturales y aceite virgen extra elaborados a la sombra de Montserrat",
+      "title": "Vinos naturales y aceite virgen extra elaborados en el parque rural de Montserrat",
       "subtitle": "Un proyecto familiar que honra la tierra, el tiempo y el método artesanal.",
       "cta": "Descubre nuestros vinos"
     },
@@ -55,12 +56,12 @@
     },
     "historia_preview": {
       "eyebrow": "Desde 2015",
-      "title": "Una finca a la sombra de Montserrat",
+      "title": "Una finca en el parque rural de Montserrat",
       "body": "Llegamos a esta tierra en 2015. Desde entonces, no hemos dejado de plantar, de injertar, de probar, de aprender. La finca tiene viñas de los años 80, olivos centenarios y muchas ganas de durar.",
-      "cta": "Leer nuestra historia"
+      "cta": "Leer la historia"
     },
     "journal": {
-      "eyebrow": "Journal",
+      "eyebrow": "Artículo",
       "title": "Notas sobre vino, aceite y tierra"
     }
   },
@@ -72,7 +73,7 @@
       "name": "Vi RAS",
       "sub": "Orange 2023",
       "type": "Vino naranja · ancestral",
-      "desc": "Vino joven espumoso elaborado por el método ancestral sin filtrar. Viñas sobre suelo arcilloso a la sombra de Montserrat. Primera fermentación con sus pieles para transferir el color característico, la textura y los matices aromáticos.",
+      "desc": "Vino joven espumoso elaborado por el método ancestral sin filtrar. Viñas sobre suelo arcilloso en el parque rural de Montserrat. Primera fermentación con sus pieles para transferir el color característico, la textura y los matices aromáticos.",
       "variety": "65% Parellada · 35% Chardonnay",
       "method": "Método ancestral, contacto con pieles",
       "style": "Naranja, espumoso, sin filtrar"
@@ -113,7 +114,7 @@
   "oil": {
     "hero_eyebrow": "Aceite de oliva virgen extra",
     "hero_title": "Arbequina",
-    "hero_sub": "De olivos centenarios a la sombra de Montserrat",
+    "hero_sub": "De olivos centenarios en el parque rural de Montserrat",
     "story": {
       "eyebrow": "El olivo que nos encontró",
       "title": "Cien olivos ya estaban aquí",
@@ -141,14 +142,14 @@
   },
   "history": {
     "hero_eyebrow": "Desde 2015",
-    "hero_title": "Nuestra historia",
+    "hero_title": "Historia",
     "intro": "Torres de la Serra es un proyecto familiar que empezó en 2015 con la adquisición de una finca en Els Hostalets de Pierola.",
     "body_1": "La finca llegó a nuestras manos con dos tesoros que ya estaban allí: viñas de Parellada de los años ochenta cultivadas en vaso — la forma tradicional mediterránea — y unos cien olivos centenarios de variedad Arbequina. No tuvimos que empezar de cero: empezamos escuchando.",
     "body_2": "Desde entonces no hemos parado de trabajar la tierra con paciencia y ambición a largo plazo. Hemos plantado nuevas viñas de Parellada, Cabernet Sauvignon y Garnacha Tinta, y hemos incorporado un campo de Chardonnay de unos veinte años y otro de Xarel·lo de diez. Cinco variedades que nos permiten elaborar vinos con personalidades muy distintas, todos bajo el mismo principio: intervención mínima, fermentación espontánea y sin sulfitos añadidos.",
     "body_3": "Con los olivos la ambición es aún mayor. Hemos plantado unos seiscientos olivos más: doscientos de Arbequina y cuatrocientos que estamos injertando con variedades autóctonas casi perdidas. Doscientos los convertiremos en Vera del Montserratí y Palomar de Olesa, aprovechando material de los olivos de Palomar de Gatillepes — los ejemplares más antiguos existentes de esta variedad, con unos quinientos años de historia. Es nuestra pequeña contribución a conservar un patrimonio vegetal que sin estos injertos se perdería.",
     "body_4": "Creemos que la tierra nos da lo que le damos. Por eso trabajamos a pequeña escala, sin herbicidas, sin pesticidas sistémicos, y dejando que cada añada se exprese como es. No hacemos el mismo vino cada año; hacemos el vino que la vendimia nos regala cada año.",
     "terroir_title": "La tierra",
-    "terroir_body": "La finca se extiende sobre suelos arcillosos, a media altura, orientada de manera que recibe la luz de la mañana y la sombra de Montserrat por la tarde. La montaña no es solo un paisaje: condiciona el microclima, las térmicas, la humedad, y deja su huella mineral en cada vendimia.",
+    "terroir_body": "La finca se extiende sobre suelos arcillosos dentro del parque rural de Montserrat, a media altura y con una orientación que favorece la luz de la mañana. El macizo no es solo un paisaje: condiciona el microclima, las térmicas, la humedad, y deja su huella mineral en cada vendimia.",
     "family_title": "La familia",
     "family_body": "Somos una familia que no viene de generaciones de viticultores. Llegamos al vino por el respeto a la tierra y por la curiosidad de entender qué puede decir este pedazo concreto del planeta cuando lo dejas hablar. Trabajamos a dos manos, con la ayuda puntual de vecinos y amigos en cada vendimia.",
     "timeline_title": "Línea del tiempo",
@@ -159,7 +160,7 @@
     "tl_2020_2026": "Proyecto de injerto de olivos con variedades autóctonas (Vera del Montserratí, Palomar de Olesa)."
   },
   "journal": {
-    "hero_eyebrow": "Journal",
+    "hero_eyebrow": "Artículo",
     "hero_title": "Apuntes sobre vino, aceite y tierra",
     "intro": "No es un blog. Son cuatro o cinco ensayos largos, escritos cuando tenemos algo que decir. Sobre el vino natural, sobre Montserrat, sobre los olivos centenarios y sobre por qué vale la pena trabajar a pequeña escala.",
     "read": "Leer",
@@ -169,7 +170,7 @@
     "art_1_excerpt": "Un término muy usado y poco definido. Intentamos explicarlo de manera rigurosa pero accesible.",
     "art_2_cat": "Terroir",
     "art_2_date": "Febrero 2025",
-    "art_2_title": "El terroir a la sombra de Montserrat",
+    "art_2_title": "El terroir en el parque rural de Montserrat",
     "art_2_excerpt": "¿Qué aporta la montaña a nuestro vino? Suelos, altitud, microclima y una presencia que no se imita.",
     "art_3_cat": "Enología",
     "art_3_date": "Enero 2025",
@@ -204,7 +205,7 @@
     "form_config": "El formulario aún no está configurado. Escríbenos directamente a torresdelaserra@gmail.com."
   },
   "footer": {
-    "tagline": "Pequeños productores a la sombra de Montserrat",
+    "tagline": "Pequeños productores en el parque rural de Montserrat",
     "nav_title": "Navegación",
     "contact_title": "Contacto",
     "follow_title": "Síguenos",
@@ -217,14 +218,14 @@
     "method": "Método",
     "style": "Estilo",
     "qr_index": "Volver al índice QR",
-    "journal_home": "Journal"
+    "journal_home": "Artículo"
   },
   "articles": {
     "vi_natural": {
       "title": "¿Qué significa vino natural?",
       "cat": "Vino natural",
       "date": "Marzo 2025",
-      "hero_alt": "Viñas a la sombra de Montserrat",
+      "hero_alt": "Viñas en el parque rural de Montserrat",
       "p1": "Vino natural es un término muy usado y poco definido. No hay una regulación oficial en España ni en la Unión Europea, y eso genera confusión tanto en la bodega como en el consumidor. Vale la pena, antes de entrar en discusiones, poner sobre la mesa qué entendemos nosotros cuando decimos que nuestro vino es natural.",
       "p2": "La definición más compartida dentro del sector lo describe como un vino elaborado a partir de uva cultivada sin herbicidas ni pesticidas sistémicos, vinificado con levaduras autóctonas, fermentado de manera espontánea, sin aditivos enológicos y sin sulfitos añadidos — o con una cantidad mínima añadida solo en el embotellado. No se filtra agresivamente ni se clarifica con productos de origen animal. Dicho de manera más sencilla: es vino de uva y punto.",
       "h_1": "Qué no es un vino natural",
@@ -238,7 +239,7 @@
       "p8": "Si es el primer vino natural que abres, un consejo: agita la botella suavemente antes de servir si ves sedimento en el fondo, sírvelo un punto más frío de lo que servirías un vino convencional de la misma tipología, y dale unos minutos en la copa antes de juzgarlo. Los vinos naturales necesitan un poco de aire para expresarse."
     },
     "terroir": {
-      "title": "El terroir a la sombra de Montserrat",
+      "title": "El terroir en el parque rural de Montserrat",
       "cat": "Terroir",
       "date": "Febrero 2025",
       "hero_alt": "Vista de Montserrat desde la finca",
