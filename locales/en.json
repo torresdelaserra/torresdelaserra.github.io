@@ -14,6 +14,7 @@
     "contacte_desc": "Write to us to arrange a visit, place an order or discuss collaborations. Els Hostalets de Pierola, Catalonia."
   },
   "nav": {
+    "home": "Home",
     "vins": "Wines",
     "oli": "Oil",
     "historia": "History",
@@ -217,7 +218,7 @@
     "varieties": "Varieties",
     "method": "Method",
     "style": "Style",
-    "qr_index": "Back to QR index",
+    "qr_index": "Back to nutrition info",
     "journal_home": "Article"
   },
   "articles": {
@@ -316,6 +317,6 @@
     "producer": "Producer",
     "address": "Els Hostalets de Pierola, Catalonia",
     "more_info": "More information",
-    "back": "Back to wine page"
+    "back": "Back to Vins"
   }
 }

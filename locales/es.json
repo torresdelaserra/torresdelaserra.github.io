@@ -14,6 +14,7 @@
     "contacte_desc": "Escríbenos para concertar visitas a la finca, hacer pedidos o colaboraciones. Els Hostalets de Pierola, Cataluña."
   },
   "nav": {
+    "home": "Inicio",
     "vins": "Vinos",
     "oli": "Aceite",
     "historia": "Historia",
@@ -217,7 +218,7 @@
     "varieties": "Variedades",
     "method": "Método",
     "style": "Estilo",
-    "qr_index": "Volver al índice QR",
+    "qr_index": "Volver a info nutricional",
     "journal_home": "Artículo"
   },
   "articles": {
@@ -316,6 +317,6 @@
     "producer": "Productor",
     "address": "Els Hostalets de Pierola, Cataluña",
     "more_info": "Más información",
-    "back": "Volver a la página del vino"
+    "back": "Volver a Vins"
   }
 }
