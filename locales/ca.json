@@ -18,7 +18,7 @@
     "vins": "Vins",
     "oli": "Oli",
     "historia": "Història",
-    "journal": "Article",
+    "journal": "Articles",
     "store": "Botiga",
     "contacte": "Contacte",
     "menu_open": "Obrir menú",
@@ -62,7 +62,7 @@
       "cta": "Llegir la història"
     },
     "journal": {
-      "eyebrow": "Article",
+      "eyebrow": "Articles",
       "title": "Notes sobre vi, oli i terra"
     }
   },
@@ -162,7 +162,7 @@
     "tl_2020_2026": "Projecte d'empelt d'oliveres amb varietats autòctones (Vera del Montserratí i Palomar Olesana)."
   },
   "journal": {
-    "hero_eyebrow": "Article",
+    "hero_eyebrow": "Articles",
     "hero_title": "Apunts sobre vi, oli i terra",
     "intro": "No és un blog. Són quatre o cinc assaigs llargs, escrits quan tenim alguna cosa a dir. Sobre el vi natural, sobre Montserrat, sobre les oliveres centenàries, i sobre per què val la pena treballar en petita escala.",
     "read": "Llegir",
@@ -220,7 +220,7 @@
     "method": "Mètode",
     "style": "Estil",
     "qr_index": "Tornar a info nutricional",
-    "journal_home": "Article"
+    "journal_home": "Articles"
   },
   "articles": {
     "vi_natural": {
