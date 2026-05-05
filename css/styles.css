@@ -231,11 +231,33 @@ section { padding: var(--space-xl) 0; }
   transition: right 500ms var(--ease);
   box-shadow: -20px 0 60px rgba(0,0,0,0.08);
   overflow-y: auto;
+  display: flex;
+  flex-direction: column;
 }
 .mobile-menu.is-open { right: 0; }
-.mobile-menu nav { display: flex; flex-direction: column; gap: 1.5rem; margin-bottom: 3rem; }
-.mobile-menu nav a { font-family: var(--font-display); font-size: 2rem; font-weight: 300; color: var(--color-olive); }
-.mobile-menu .lang-switch { margin-top: 2rem; padding-top: 2rem; border-top: 1px solid var(--color-line); }
+
+.mobile-menu nav {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  margin-bottom: 0;
+}
+
+.mobile-menu nav a {
+  font-family: var(--font-display);
+  font-size: 2rem;
+  font-weight: 300;
+  color: var(--color-olive);
+}
+
+.mobile-menu .lang-switch {
+  order: -1;
+  align-self: flex-start;
+  margin: 0 0 2rem;
+  padding: 0 0 1.5rem;
+  border-top: 0;
+  border-bottom: 1px solid var(--color-line);
+}
 
 .menu-backdrop { position: fixed; inset: 0; background: rgba(0,0,0,0.35); z-index: 98; opacity: 0; pointer-events: none; transition: opacity var(--transition); }
 .menu-backdrop.is-open { opacity: 1; pointer-events: auto; }
