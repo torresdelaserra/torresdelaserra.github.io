@@ -40,9 +40,9 @@
       "p1_title": "Respeto por el ciclo",
       "p1_body": "Sin herbicidas, sin pesticidas sistémicos, laboreo mínimo. Dejamos que la viña viva su tiempo.",
       "p2_title": "Método ancestral",
-      "p2_body": "Fermentación espontánea con levaduras autóctonas. Sin filtraciones agresivas ni sulfitos añadidos.",
+      "p2_body": "Fermentación espontánea con levaduras autóctonas. Sin sulfitos añadidos.",
       "p3_title": "Pequeña escala",
-      "p3_body": "Cada botella pasa por nuestras manos. Producción limitada, atención artesanal a cada detalle."
+      "p3_body": "Cada botella pasa por nuestras manos."
     },
     "wines": {
       "eyebrow": "Nuestros vinos",
@@ -58,7 +58,7 @@
     "historia_preview": {
       "eyebrow": "Desde 2015",
       "title": "Una finca en el parque rural de Montserrat",
-      "body": "Llegamos a esta tierra en 2015. Desde entonces, no hemos dejado de plantar, de injertar, de probar, de aprender. La finca tiene viñas de los años 80, olivos centenarios y muchas ganas de durar.",
+      "body": "Llegamos a esta tierra en 2015. Desde entonces, no hemos dejado de plantar, de injertar, de probar, de aprender.",
       "cta": "Leer la historia"
     },
     "journal": {
@@ -144,7 +144,7 @@
   "history": {
     "hero_eyebrow": "Desde 2015",
     "hero_title": "Historia",
-    "intro": "Torres de la Serra es un proyecto familiar que empezó en 2015 con la adquisición de una finca en Els Hostalets de Pierola.",
+    "intro": "Torres de la Serra es un proyecto familiar que empezó en 2015 con la adquisición de una finca centenaria en Els Hostalets de Pierola.",
     "body_1": "La finca llegó a nuestras manos con dos tesoros que ya estaban allí: viñas de Parellada de los años ochenta cultivadas en vaso — la forma tradicional mediterránea — y unos cien olivos centenarios de variedad Arbequina. No tuvimos que empezar de cero: empezamos escuchando.",
     "body_2": "Desde entonces no hemos parado de trabajar la tierra con paciencia y ambición a largo plazo. Hemos plantado nuevas viñas de Parellada, Cabernet Sauvignon y Garnacha Tinta, y hemos incorporado un campo de Chardonnay de unos veinte años y otro de Xarel·lo de diez. Cinco variedades que nos permiten elaborar vinos con personalidades muy distintas, todos bajo el mismo principio: intervención mínima, fermentación espontánea y sin sulfitos añadidos.",
     "body_3": "Con los olivos la ambición es aún mayor. Hemos plantado unos seiscientos olivos más: doscientos de Arbequina y cuatrocientos que estamos injertando con variedades autóctonas casi perdidas. Doscientos los convertiremos en Vera del Montserratí y Palomar de Olesa, aprovechando material de los olivos de Palomar de Gatillepes — los ejemplares más antiguos existentes de esta variedad, con unos quinientos años de historia. Es nuestra pequeña contribución a conservar un patrimonio vegetal que sin estos injertos se perdería.",
