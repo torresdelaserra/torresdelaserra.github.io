@@ -8,7 +8,7 @@
     "oli_desc": "Arbequina prensada en frío de olivos centenarios, cultivada en el parque rural de Montserrat. Disponible en formatos de 250 ml a 5 L.",
     "historia_title": "Historia — Torres de la Serra",
     "historia_desc": "Proyecto familiar iniciado en 2015 en Els Hostalets de Pierola. Viticultura y olivicultura respetuosas con la tierra y el tiempo.",
-    "journal_title": "Artículo — Apuntes sobre vino, aceite y tierra | Torres de la Serra",
+    "journal_title": "Artículos — Apuntes sobre vino, aceite y tierra | Torres de la Serra",
     "journal_desc": "Ensayos y notas sobre vino natural, terroir, aceite de oliva y agricultura de pequeña escala en la Anoia.",
     "contacte_title": "Contacto — Torres de la Serra",
     "contacte_desc": "Escríbenos para concertar visitas a la finca, hacer pedidos o colaboraciones. Els Hostalets de Pierola, Cataluña."
@@ -18,7 +18,7 @@
     "vins": "Vinos",
     "oli": "Aceite",
     "historia": "Historia",
-    "journal": "Artículo",
+    "journal": "Artículos",
     "store": "Tienda",
     "contacte": "Contacto",
     "menu_open": "Abrir menú",
@@ -62,7 +62,7 @@
       "cta": "Leer la historia"
     },
     "journal": {
-      "eyebrow": "Artículo",
+      "eyebrow": "Artículos",
       "title": "Notas sobre vino, aceite y tierra"
     }
   },
@@ -162,7 +162,7 @@
     "tl_2020_2026": "Proyecto de injerto de olivos con variedades autóctonas (Vera del Montserratí y Palomar Olesana)."
   },
   "journal": {
-    "hero_eyebrow": "Artículo",
+    "hero_eyebrow": "Artículos",
     "hero_title": "Apuntes sobre vino, aceite y tierra",
     "intro": "No es un blog. Son cuatro o cinco ensayos largos, escritos cuando tenemos algo que decir. Sobre el vino natural, sobre Montserrat, sobre los olivos centenarios y sobre por qué vale la pena trabajar a pequeña escala.",
     "read": "Leer",
@@ -220,7 +220,7 @@
     "method": "Método",
     "style": "Estilo",
     "qr_index": "Volver a info nutricional",
-    "journal_home": "Artículo"
+    "journal_home": "Artículos"
   },
   "articles": {
     "vi_natural": {
