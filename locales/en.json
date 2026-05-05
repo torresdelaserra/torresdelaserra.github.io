@@ -8,7 +8,7 @@
     "oli_desc": "Cold-pressed Arbequina from centenary olive trees grown in Montserrat Rural Park. Available from 250 ml to 5 L.",
     "historia_title": "History — Torres de la Serra",
     "historia_desc": "A family project started in 2015 in Els Hostalets de Pierola. Viticulture and olive growing with respect for the land and for time.",
-    "journal_title": "Article — Notes on wine, oil and land | Torres de la Serra",
+    "journal_title": "Articles — Notes on wine, oil and land | Torres de la Serra",
     "journal_desc": "Essays and notes on natural wine, terroir, olive oil and small-scale agriculture in the Anoia region.",
     "contacte_title": "Contact — Torres de la Serra",
     "contacte_desc": "Write to us to arrange a visit, place an order or discuss collaborations. Els Hostalets de Pierola, Catalonia."
@@ -18,7 +18,7 @@
     "vins": "Wines",
     "oli": "Oil",
     "historia": "History",
-    "journal": "Article",
+    "journal": "Articles",
     "store": "Shop",
     "contacte": "Contact",
     "menu_open": "Open menu",
@@ -62,7 +62,7 @@
       "cta": "Read the story"
     },
     "journal": {
-      "eyebrow": "Article",
+      "eyebrow": "Articles",
       "title": "Notes on wine, oil and land"
     }
   },
@@ -162,7 +162,7 @@
     "tl_2020_2026": "Olive-tree grafting project with native varieties (Vera del Montserratí and Palomar Olesana)."
   },
   "journal": {
-    "hero_eyebrow": "Article",
+    "hero_eyebrow": "Articles",
     "hero_title": "Notes on wine, oil and land",
     "intro": "This isn't a blog. It is four or five long essays, written when we have something to say. About natural wine, about Montserrat, about the centenary olive trees, and about why working at a small scale is worth it.",
     "read": "Read",
@@ -220,7 +220,7 @@
     "method": "Method",
     "style": "Style",
     "qr_index": "Back to nutrition info",
-    "journal_home": "Article"
+    "journal_home": "Articles"
   },
   "articles": {
     "vi_natural": {
