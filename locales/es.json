@@ -254,6 +254,8 @@
       "preference": "Preferencia de contacto",
       "either": "Indiferente",
       "products": "Productos y cantidades",
+      "total_label": "Total estimado",
+      "total_note": "El total es orientativo. Confirmaremos disponibilidad y entrega antes de cerrar el pedido.",
       "message": "Mensaje",
       "message_placeholder": "Cuéntanos dónde estás, cuándo te iría bien recibir el pedido o cualquier detalle útil.",
       "submit": "Enviar pedido"

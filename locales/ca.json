@@ -254,6 +254,8 @@
       "preference": "Preferència de contacte",
       "either": "Indiferent",
       "products": "Productes i quantitats",
+      "total_label": "Total estimat",
+      "total_note": "El total és orientatiu. Confirmarem disponibilitat i entrega abans de tancar la comanda.",
       "message": "Missatge",
       "message_placeholder": "Explica'ns on ets, quan et va bé rebre la comanda o qualsevol detall útil.",
       "submit": "Enviar comanda"

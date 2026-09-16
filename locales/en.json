@@ -254,6 +254,8 @@
       "preference": "Contact preference",
       "either": "Either",
       "products": "Products and quantities",
+      "total_label": "Estimated total",
+      "total_note": "The total is indicative. We will confirm availability and delivery before closing the order.",
       "message": "Message",
       "message_placeholder": "Tell us where you are, when delivery would suit you, or any useful detail.",
       "submit": "Send order"
