@@ -191,15 +191,21 @@
           </div>
           <fieldset class="order-items">
             <legend data-i18n="shop.form.products">Productes i quantitats</legend>
-            <label><span>AOVE Arbequina 100ml</span><input type="number" name="AOVE Arbequina 100ml" min="0" value="0"></label>
-            <label><span>AOVE Arbequina 250ml</span><input type="number" name="AOVE Arbequina 250ml" min="0" value="0"></label>
-            <label><span>AOVE Arbequina 500ml</span><input type="number" name="AOVE Arbequina 500ml" min="0" value="0"></label>
-            <label><span>AOVE Arbequina 750ml</span><input type="number" name="AOVE Arbequina 750ml" min="0" value="0"></label>
-            <label><span>AOVE Arbequina 5L</span><input type="number" name="AOVE Arbequina 5L" min="0" value="0"></label>
-            <label><span>Vi-RAS</span><input type="number" name="Vi-RAS" min="0" value="0"></label>
-            <label><span>reVIfa</span><input type="number" name="reVIfa" min="0" value="0"></label>
-            <label><span>Espavila</span><input type="number" name="Espavila" min="0" value="0"></label>
+            <label><span>AOVE Arbequina 100ml <small>3,00 €/u</small></span><input type="number" name="AOVE Arbequina 100ml" min="0" value="0" data-price="3"></label>
+            <label><span>AOVE Arbequina 250ml <small>5,00 €/u</small></span><input type="number" name="AOVE Arbequina 250ml" min="0" value="0" data-price="5"></label>
+            <label><span>AOVE Arbequina 500ml <small>8,00 €/u</small></span><input type="number" name="AOVE Arbequina 500ml" min="0" value="0" data-price="8"></label>
+            <label><span>AOVE Arbequina 750ml <small>10,00 €/u</small></span><input type="number" name="AOVE Arbequina 750ml" min="0" value="0" data-price="10"></label>
+            <label><span>AOVE Arbequina 5L <small>30,00 €/u</small></span><input type="number" name="AOVE Arbequina 5L" min="0" value="0" data-price="30"></label>
+            <label><span>Vi-RAS <small>12,00 €/u</small></span><input type="number" name="Vi-RAS" min="0" value="0" data-price="12"></label>
+            <label><span>reVIfa <small>11,00 €/u</small></span><input type="number" name="reVIfa" min="0" value="0" data-price="11"></label>
+            <label><span>Espavila <small>10,00 €/u</small></span><input type="number" name="Espavila" min="0" value="0" data-price="10"></label>
           </fieldset>
+          <div class="order-total" aria-live="polite">
+            <span data-i18n="shop.form.total_label">Total estimat</span>
+            <strong data-order-total>0,00 €</strong>
+            <small data-i18n="shop.form.total_note">El total és orientatiu. Confirmarem disponibilitat i entrega abans de tancar la comanda.</small>
+          </div>
+          <input type="hidden" name="Total estimat" value="0,00 €" data-order-total-field>
           <div class="form-row">
             <label for="shop-message" data-i18n="shop.form.message">Missatge</label>
             <textarea id="shop-message" name="missatge" rows="5" data-i18n-attr="placeholder:shop.form.message_placeholder" placeholder="Explica'ns on ets, quan et va bé rebre la comanda o qualsevol detall útil."></textarea>
