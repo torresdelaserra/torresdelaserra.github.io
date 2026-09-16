@@ -11,7 +11,9 @@
     "journal_title": "Article — Apunts sobre vi, oli i terra | Torres de la Serra",
     "journal_desc": "Assajos i notes sobre vi natural, terroir, oli d'oliva i agricultura de petita escala a l'Anoia.",
     "contacte_title": "Contacte — Torres de la Serra",
-    "contacte_desc": "Escriu-nos per concertar visites a la finca, fer comandes o col·laboracions. Els Hostalets de Pierola, Catalunya."
+    "contacte_desc": "Escriu-nos per concertar visites a la finca, fer comandes o col·laboracions. Els Hostalets de Pierola, Catalunya.",
+    "botiga_title": "Botiga — Torres de la Serra",
+    "botiga_desc": "Botiga de vins naturals i oli d'oliva verge extra Torres de la Serra. Comandes directes amb entrega acordada."
   },
   "nav": {
     "home": "Inici",
@@ -206,6 +208,57 @@
     "form_error": "Hi ha hagut un problema. Torna-ho a provar o escriu-nos directament.",
     "form_config": "El formulari encara no està configurat. Escriu-nos directament a torresdelaserra@gmail.com."
   },
+  "shop": {
+    "hero_eyebrow": "Botiga",
+    "hero_title": "Vins i oli, directament de la finca",
+    "hero_intro": "Per ara treballem les comandes de manera directa: ens deixes les teves dades, preparem la comanda i acordem entrega en mà sempre que sigui possible.",
+    "categories": {
+      "oil": "Oli d'oliva verge extra",
+      "wine": "Vi natural"
+    },
+    "products": {
+      "oil_100": {
+        "desc": "Format petit per tastar o regalar."
+      },
+      "oil_250": {
+        "desc": "Ampolla petita per taula i cuina quotidiana."
+      },
+      "oil_500": {
+        "desc": "El format més versàtil per tenir sempre a mà."
+      },
+      "oil_750": {
+        "desc": "Ampolla gran per compartir i cuinar amb calma."
+      },
+      "oil_5l": {
+        "desc": "Garrafa familiar per cuina i consum habitual."
+      },
+      "viras": {
+        "desc": "Vi jove escumós elaborat pel mètode ancestral."
+      },
+      "revifa": {
+        "desc": "Rosat ancestral amb bombolla fina i caràcter mediterrani."
+      },
+      "espavila": {
+        "desc": "Blanc natural de Chardonnay, sense filtrar i sense sulfits afegits."
+      }
+    },
+    "sold_out": "Agotat",
+    "price_on_request": "Consultar",
+    "order_eyebrow": "Comanda directa",
+    "order_title": "Demana disponibilitat i acordem l'entrega",
+    "order_body": "No fem pagament online en aquesta fase. Et contactarem per email o WhatsApp per confirmar disponibilitat, preparar la comanda i acordar entrega en mà o la millor alternativa.",
+    "form": {
+      "name": "Nom",
+      "email": "Email",
+      "phone": "Telèfon / WhatsApp",
+      "preference": "Preferència de contacte",
+      "either": "Indiferent",
+      "products": "Productes i quantitats",
+      "message": "Missatge",
+      "message_placeholder": "Explica'ns on ets, quan et va bé rebre la comanda o qualsevol detall útil.",
+      "submit": "Enviar comanda"
+    }
+  },
   "footer": {
     "tagline": "Petits productors al parc rural de Montserrat",
     "nav_title": "Navegació",
@@ -281,7 +334,7 @@
       "cat": "Oli",
       "date": "Desembre 2024",
       "hero_alt": "Oliver centenari",
-      "p1": "Hi ha arbres que són contemporanis nostres i hi ha arbres davant dels quals som una anècdota. La Vera del Montserratí és d'aquests últims. Els exemplars més antics coneguts d'aquesta varietat, al Palomar de Gatillepes, tenen uns cinc-cents anys.",
+      "p1": "Hi ha arbres que són contemporanis nostres i hi ha arbres davant dels quals som una anècdota. La Vera del Montserratí és d'aquests últims. Els exemplars més antics coneguts d'aquesta varietat, al Palomar de Gatillepes, tenen uns cinc-cents anys. Estaven aquí quan Catalunya encara no era Espanya, i probablement hi seran quan parlar català sigui una altra manera d'entendre el món.",
       "h_1": "Una varietat gairebé perduda",
       "p2": "La Vera del Montserratí és una varietat autòctona del massís de Montserrat i els seus voltants. No és l'Arbequina — l'estrella comercial catalana — ni l'Empeltre, ni la Picual. És una varietat local, adaptada al sòl i el clima d'aquesta franja concreta, i durant el segle XX va estar a punt de desaparèixer. L'Arbequina donava més, es plantava més fàcilment, tenia un mercat més clar. La Vera va quedar als racons, als camps vells, als olivers que els pagesos no van arrencar perquè els feia respecte fer-ho.",
       "p3": "El mateix passa amb altres varietats de la zona — la Palomar d'Olesa, per exemple — que sobreviuen gairebé només en exemplars aïllats. Perdre-les és perdre biodiversitat, però també és perdre un tipus d'oli concret: la Vera del Montserratí dóna un oli més estructurat que l'Arbequina, amb notes amargues i picants més marcades, una personalitat diferent.",

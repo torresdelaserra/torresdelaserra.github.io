@@ -11,7 +11,9 @@
     "journal_title": "Artículos — Apuntes sobre vino, aceite y tierra | Torres de la Serra",
     "journal_desc": "Ensayos y notas sobre vino natural, terroir, aceite de oliva y agricultura de pequeña escala en la Anoia.",
     "contacte_title": "Contacto — Torres de la Serra",
-    "contacte_desc": "Escríbenos para concertar visitas a la finca, hacer pedidos o colaboraciones. Els Hostalets de Pierola, Cataluña."
+    "contacte_desc": "Escríbenos para concertar visitas a la finca, hacer pedidos o colaboraciones. Els Hostalets de Pierola, Cataluña.",
+    "botiga_title": "Tienda — Torres de la Serra",
+    "botiga_desc": "Tienda de vinos naturales y aceite de oliva virgen extra Torres de la Serra. Pedidos directos con entrega acordada."
   },
   "nav": {
     "home": "Inicio",
@@ -206,6 +208,57 @@
     "form_error": "Ha habido un problema. Inténtalo de nuevo o escríbenos directamente.",
     "form_config": "El formulario aún no está configurado. Escríbenos directamente a torresdelaserra@gmail.com."
   },
+  "shop": {
+    "hero_eyebrow": "Tienda",
+    "hero_title": "Vinos y aceite, directamente de la finca",
+    "hero_intro": "Por ahora trabajamos los pedidos de forma directa: nos dejas tus datos, preparamos el pedido y acordamos entrega en mano siempre que sea posible.",
+    "categories": {
+      "oil": "Aceite de oliva virgen extra",
+      "wine": "Vino natural"
+    },
+    "products": {
+      "oil_100": {
+        "desc": "Formato pequeño para probar o regalar."
+      },
+      "oil_250": {
+        "desc": "Botella pequeña para mesa y cocina diaria."
+      },
+      "oil_500": {
+        "desc": "El formato más versátil para tener siempre a mano."
+      },
+      "oil_750": {
+        "desc": "Botella grande para compartir y cocinar con calma."
+      },
+      "oil_5l": {
+        "desc": "Garrafa familiar para cocina y consumo habitual."
+      },
+      "viras": {
+        "desc": "Vino joven espumoso elaborado por el método ancestral."
+      },
+      "revifa": {
+        "desc": "Rosado ancestral con burbuja fina y carácter mediterráneo."
+      },
+      "espavila": {
+        "desc": "Blanco natural de Chardonnay, sin filtrar y sin sulfitos añadidos."
+      }
+    },
+    "sold_out": "Agotado",
+    "price_on_request": "Consultar",
+    "order_eyebrow": "Pedido directo",
+    "order_title": "Pide disponibilidad y acordamos la entrega",
+    "order_body": "No hacemos pago online en esta fase. Te contactaremos por email o WhatsApp para confirmar disponibilidad, preparar el pedido y acordar entrega en mano o la mejor alternativa.",
+    "form": {
+      "name": "Nombre",
+      "email": "Email",
+      "phone": "Teléfono / WhatsApp",
+      "preference": "Preferencia de contacto",
+      "either": "Indiferente",
+      "products": "Productos y cantidades",
+      "message": "Mensaje",
+      "message_placeholder": "Cuéntanos dónde estás, cuándo te iría bien recibir el pedido o cualquier detalle útil.",
+      "submit": "Enviar pedido"
+    }
+  },
   "footer": {
     "tagline": "Pequeños productores en el parque rural de Montserrat",
     "nav_title": "Navegación",
@@ -281,7 +334,7 @@
       "cat": "Aceite",
       "date": "Diciembre 2024",
       "hero_alt": "Olivo centenario",
-      "p1": "Hay árboles que son contemporáneos nuestros y hay árboles ante los cuales somos una anécdota. La Vera del Montserratí es de estos últimos. Los ejemplares más antiguos conocidos de esta variedad, en el Palomar de Gatillepes, tienen unos quinientos años.",
+      "p1": "Hay árboles que son contemporáneos nuestros y hay árboles ante los cuales somos una anécdota. La Vera del Montserratí es de estos últimos. Los ejemplares más antiguos conocidos de esta variedad, en el Palomar de Gatillepes, tienen unos quinientos años. Estaban aquí cuando Cataluña aún no era España, y probablemente seguirán ahí cuando hablar catalán sea otra manera de entender el mundo.",
       "h_1": "Una variedad casi perdida",
       "p2": "La Vera del Montserratí es una variedad autóctona del macizo de Montserrat y sus alrededores. No es la Arbequina — la estrella comercial catalana — ni la Empeltre, ni la Picual. Es una variedad local, adaptada al suelo y el clima de esta franja concreta, y durante el siglo XX estuvo a punto de desaparecer. La Arbequina daba más, se plantaba más fácilmente, tenía un mercado más claro. La Vera quedó en los rincones, en los campos viejos, en los olivos que los campesinos no arrancaron porque les daba respeto hacerlo.",
       "p3": "Lo mismo ocurre con otras variedades de la zona — la Palomar de Olesa, por ejemplo — que sobreviven casi solo en ejemplares aislados. Perderlas es perder biodiversidad, pero también es perder un tipo de aceite concreto: la Vera del Montserratí da un aceite más estructurado que la Arbequina, con notas amargas y picantes más marcadas, una personalidad distinta.",

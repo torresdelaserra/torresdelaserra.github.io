@@ -11,7 +11,9 @@
     "journal_title": "Articles — Notes on wine, oil and land | Torres de la Serra",
     "journal_desc": "Essays and notes on natural wine, terroir, olive oil and small-scale agriculture in the Anoia region.",
     "contacte_title": "Contact — Torres de la Serra",
-    "contacte_desc": "Write to us to arrange a visit, place an order or discuss collaborations. Els Hostalets de Pierola, Catalonia."
+    "contacte_desc": "Write to us to arrange a visit, place an order or discuss collaborations. Els Hostalets de Pierola, Catalonia.",
+    "botiga_title": "Shop — Torres de la Serra",
+    "botiga_desc": "Shop natural wines and extra virgin olive oil from Torres de la Serra. Direct orders with arranged delivery."
   },
   "nav": {
     "home": "Home",
@@ -206,6 +208,57 @@
     "form_error": "Something went wrong. Please try again or write to us directly.",
     "form_config": "The form is not yet configured. Please email us directly at torresdelaserra@gmail.com."
   },
+  "shop": {
+    "hero_eyebrow": "Shop",
+    "hero_title": "Wine and oil, directly from the estate",
+    "hero_intro": "For now we handle orders directly: leave us your details, we prepare the order and arrange hand delivery whenever possible.",
+    "categories": {
+      "oil": "Extra virgin olive oil",
+      "wine": "Natural wine"
+    },
+    "products": {
+      "oil_100": {
+        "desc": "Small format for tasting or gifting."
+      },
+      "oil_250": {
+        "desc": "A small bottle for the table and everyday cooking."
+      },
+      "oil_500": {
+        "desc": "The most versatile format to keep close at hand."
+      },
+      "oil_750": {
+        "desc": "A larger bottle for sharing and slow cooking."
+      },
+      "oil_5l": {
+        "desc": "Family-size tin for cooking and everyday use."
+      },
+      "viras": {
+        "desc": "Young sparkling wine made using the ancestral method."
+      },
+      "revifa": {
+        "desc": "Ancestral rosé with fine bubbles and Mediterranean character."
+      },
+      "espavila": {
+        "desc": "Natural Chardonnay white wine, unfiltered and with no added sulphites."
+      }
+    },
+    "sold_out": "Sold out",
+    "price_on_request": "On request",
+    "order_eyebrow": "Direct order",
+    "order_title": "Ask for availability and we arrange delivery",
+    "order_body": "We are not taking online payments at this stage. We will contact you by email or WhatsApp to confirm availability, prepare the order and arrange hand delivery or the best alternative.",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone / WhatsApp",
+      "preference": "Contact preference",
+      "either": "Either",
+      "products": "Products and quantities",
+      "message": "Message",
+      "message_placeholder": "Tell us where you are, when delivery would suit you, or any useful detail.",
+      "submit": "Send order"
+    }
+  },
   "footer": {
     "tagline": "Small producers in Montserrat Rural Park",
     "nav_title": "Navigation",
@@ -281,7 +334,7 @@
       "cat": "Oil",
       "date": "December 2024",
       "hero_alt": "Centenary olive tree",
-      "p1": "Some trees are our contemporaries, and some trees we are a footnote to. The Vera del Montserratí belongs to the second kind. The oldest known specimens of this variety, at Palomar de Gatillepes, are around five hundred years old.",
+      "p1": "Some trees are our contemporaries, and some trees we are a footnote to. The Vera del Montserratí belongs to the second kind. The oldest known specimens of this variety, at Palomar de Gatillepes, are around five hundred years old. They were there when Catalonia was not yet Spain, and they will likely still be there long after all of us are gone.",
       "h_1": "A nearly lost variety",
       "p2": "Vera del Montserratí is a native variety of the Montserrat massif and its surroundings. It is not Arbequina — the Catalan commercial star — nor Empeltre, nor Picual. It is a local variety, adapted to the soil and climate of this particular strip of land, and during the twentieth century it came close to disappearing. Arbequina gave more, was easier to plant, had a clearer market. The Vera was pushed to the corners, to the old fields, to the trees farmers didn't pull out because pulling them out felt wrong.",
       "p3": "The same is true of other local varieties — Palomar de Olesa, for instance — that survive almost only in scattered individuals. Losing them means losing biodiversity, but it also means losing a specific kind of oil: Vera del Montserratí gives a more structured oil than Arbequina, with sharper bitterness and pepperiness, a different personality.",
