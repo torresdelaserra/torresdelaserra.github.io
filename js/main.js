@@ -78,6 +78,26 @@
   if (form) {
     const status = form.querySelector('.form-status');
     const requiredFields = form.querySelectorAll('[required]');
+    const orderTotal = form.querySelector('[data-order-total]');
+    const orderTotalField = form.querySelector('[data-order-total-field]');
+    const pricedInputs = form.querySelectorAll('[data-price]');
+
+    const formatEuro = (value) => new Intl.NumberFormat(
+      document.documentElement.lang === 'en' ? 'en-US' : 'ca-ES',
+      { style: 'currency', currency: 'EUR' }
+    ).format(value);
+
+    const updateOrderTotal = () => {
+      if (!orderTotal) return;
+      const total = Array.from(pricedInputs).reduce((sum, input) => {
+        const qty = Math.max(0, Number(input.value) || 0);
+        const price = Number(input.dataset.price) || 0;
+        return sum + qty * price;
+      }, 0);
+      const formatted = formatEuro(total);
+      orderTotal.textContent = formatted;
+      if (orderTotalField) orderTotalField.value = formatted;
+    };
 
     requiredFields.forEach(field => {
       field.addEventListener('invalid', () => {
@@ -86,6 +106,12 @@
       });
       field.addEventListener('input', () => field.setCustomValidity(''));
     });
+
+    pricedInputs.forEach(input => {
+      input.addEventListener('input', updateOrderTotal);
+      input.addEventListener('change', updateOrderTotal);
+    });
+    updateOrderTotal();
 
     form.addEventListener('submit', async (e) => {
       e.preventDefault();
@@ -101,10 +127,12 @@
       const btn = form.querySelector('button[type="submit"]');
       btn.disabled = true;
       try {
+        updateOrderTotal();
         const data = new FormData(form);
         const res = await fetch(endpoint, { method: 'POST', body: data, headers: { 'Accept': 'application/json' } });
         if (res.ok) {
           form.reset();
+          updateOrderTotal();
           if (status) {
             status.textContent = form.getAttribute('data-msg-success') || 'Thank you.';
             status.className = 'form-status success';
