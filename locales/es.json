@@ -218,7 +218,7 @@
     },
     "products": {
       "oil_100": {
-        "desc": "Formato pequeño para probar o regalar."
+        "desc": "Ideal para llevar en el avión."
       },
       "oil_250": {
         "desc": "Botella pequeña para mesa y cocina diaria."
@@ -240,6 +240,9 @@
       },
       "espavila": {
         "desc": "Blanco natural de Chardonnay, sin filtrar y sin sulfitos añadidos."
+      },
+      "ingravid": {
+        "desc": "Vino blanco brisado, fermentado con pieles y embotellado sin filtrar."
       }
     },
     "sold_out": "Agotado",

@@ -218,7 +218,7 @@
     },
     "products": {
       "oil_100": {
-        "desc": "Small format for tasting or gifting."
+        "desc": "Ideal for taking on a plane."
       },
       "oil_250": {
         "desc": "A small bottle for the table and everyday cooking."
@@ -240,6 +240,9 @@
       },
       "espavila": {
         "desc": "Natural Chardonnay white wine, unfiltered and with no added sulphites."
+      },
+      "ingravid": {
+        "desc": "Skin-contact white wine, fermented with skins and bottled unfiltered."
       }
     },
     "sold_out": "Sold out",
