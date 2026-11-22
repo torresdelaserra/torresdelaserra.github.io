@@ -87,7 +87,7 @@
       "type": "Vino blanco · sin filtrar",
       "desc": "Vino blanco joven elaborado con Chardonnay de viñas de unos veinte años. Fermentación espontánea, sin sulfitos añadidos y sin filtrar. Un blanco con volumen, textura y una acidez viva que guarda la huella del suelo arcilloso y el clima mediterráneo.",
       "variety": "100% Chardonnay",
-      "method": "Fermentación espontánea, sin filtrar",
+      "method": "Mínima intervención, sin filtrar, sin clarificar, sin estabilizar",
       "style": "Blanco natural, seco"
     },
     "revifa": {
@@ -106,7 +106,7 @@
       "desc": "Vino blanco brisado: fermentación de dos meses con pieles en depósito de acero inoxidable. Desfangado y embotellado sin filtrar ni sulfitos añadidos. 11% vol. Un vino de textura tánica, con aromas de hierbas de bosque, piel de naranja y una mineralidad persistente.",
       "variety": "Xarel·lo con contacto de pieles",
       "method": "2 meses con pieles, INOX",
-      "style": "Brisado, sin filtrar, sin sulfitos"
+      "style": "Brisado, sin filtrar, sin clarificar, sin estabilizar"
     },
     "cta_block": {
       "title": "¿Quieres probarlos?",
