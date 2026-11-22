@@ -87,7 +87,7 @@
       "type": "White wine · unfiltered",
       "desc": "A young white made from Chardonnay grown on twenty-year-old vines. Spontaneous fermentation, no added sulphites, unfiltered. A white with volume, texture and a lively acidity that carries the mark of the clay soil and the Mediterranean climate.",
       "variety": "100% Chardonnay",
-      "method": "Spontaneous fermentation, unfiltered",
+      "method": "Minimum intervention, unfiltered, unclarified, unstabilized",
       "style": "Natural white, dry"
     },
     "revifa": {
@@ -106,7 +106,7 @@
       "desc": "A skin-contact white: two months of fermentation on skins in stainless steel. Racked and bottled unfiltered, no added sulphites. 11% vol. A wine with tannic texture, notes of wild herbs, orange peel and a persistent mineral finish.",
       "variety": "Xarel·lo, on skins",
       "method": "2 months on skins, stainless steel",
-      "style": "Skin-contact, unfiltered, no sulphites"
+      "style": "Skin-contact, unfiltered, unclarified, unstabilized"
     },
     "cta_block": {
       "title": "Want to taste them?",
